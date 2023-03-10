@@ -1,0 +1,27 @@
+# Misc
+*.log
+npm-debug.*
+*.scssc
+*.swp
+.DS_Store
+Thumbs.db
+.sass-cache
+.env
+.cache
+note-to-self.md
+testing/
+archived/
+img/	# Remove before flight, globviously.
+*.jpg	# Remove before flight, globviously.
+*.jpeg	# Remove before flight, globviously.
+*.png	# Remove before flight, globviously.
+*.webp	# Remove before flight, globviously.
+
+
+# Node modules and output
+node_modules
+public/
+src/_includes/css
+src/story/private # Stories that aren't public...yet.
+wp-export-md-files
+
