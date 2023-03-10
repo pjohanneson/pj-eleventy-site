@@ -1,0 +1,138 @@
+/* Main stylesheet. For now. */
+
+html, body {
+	margin: 0;
+}
+
+html {
+	font-size: 125%;
+	font-family: 'Libre Baskerville', serif;
+	height: 100%;
+}
+
+body {
+	background: #234 url( https://patrickjohanneson.com/wp-content/uploads/2022/09/IMG_4443-2000.jpg ) no-repeat fixed center center;
+    background-size: cover;
+	color: #ffc;
+}
+
+a {
+	color: #ace;
+}
+
+a:visited {
+	color: #bdf;
+}
+
+a:hover {
+	color: #def;
+}
+
+header.page-header {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0.25em;
+	text-align: left;
+	background: rgba( 16,16,16, 0.5 );
+	box-shadow: 2px 2px 4px #ccc;
+	backdrop-filter: blur( 5px );
+	top: 0;
+	position: fixed;
+	z-index: 100;
+}
+
+header.page-header nav {
+	float: right;
+	margin-right: 1em;
+	font-family: sans-serif;
+	font-size: 85%;
+}
+
+header.page-header nav ul {
+	display: flex;
+	list-style: none;
+	margin: 0;
+}
+
+header.page-header nav ul li {
+	padding: 0 0.5em;
+}
+
+header.page-header nav ul li + li::before {
+	content: " | ";
+}
+
+header.page-header nav ul li:hover {
+	background: rgba( 128, 128, 128, 0.5 );
+}
+
+header.page-title {
+	text-align: center;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+header.page-title h1 {
+	font-size: 3.2rem;
+	font-weight: normal;
+	font-style: italic;
+	background: rgba( 64, 64, 64, 0.5 );
+	backdrop-filter: blur(5px);
+	color: #cde;
+	padding: 0.5em;
+	border: 1px solid #abc;
+	border-radius: 8px;
+}
+
+main {
+	width: 100%;
+	max-width: 45em;
+	margin: auto;
+	margin-top: 250px;
+	padding: 1em;
+	background: rgba( 64, 64, 64, 0.5 );
+	backdrop-filter: blur(5px);
+	border: 1px solid #abc;
+	border-radius: 8px;
+	color: #cde;
+}
+
+main p:first-of-type::first-letter {
+	font-size: 1.8em;
+	float: left;
+	background: rgba( 64, 128, 255, 0.25 );
+	padding: 0.25em;
+	margin-right: 0.125em;
+	border-radius: 10%;
+	border: 1px solid rgba( 255, 255, 255, 0.25 );
+}
+
+.iframe-wrapper {
+	position: relative;
+	overflow: hidden;
+	padding-top: 56.25%;
+}
+
+.wrapped-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+footer {
+	margin-top: 2em;
+	width: 100%;
+	padding: 1em 0;
+	max-width: 100%;
+	text-align: center;
+	font-size: 85%;
+	background: rgba( 64, 64, 64, 0.8 );
+	backdrop-filter: blur(10px);
+	font-style: italic;
+}

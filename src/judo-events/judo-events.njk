@@ -1,0 +1,10 @@
+---
+pagination:
+    data: judo-events
+    size: 1
+    alias: event
+permalink: "judo-events/{{ event.title | slug }}-{{ event.id }}/"
+---
+<h1>{{ event.title }}</h1>
+{{ event.description | safe }}
+<a href="{{ event.url}}">More info</a>

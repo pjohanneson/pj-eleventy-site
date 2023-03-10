@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Open Graph -->
+  <meta name="og:title" content="{{ title }}">
+  <meta name="og:type"  content="text.html">
+  <meta name="og:url"   content="{{baseURL}}/{{ permalink }}">
+
+  {% if featured_img %}
+    {% image featured_img, 'Featured Image', 'og' %} 
+  {% else %}
+    {% image 'https://patrickjohanneson.com/wp-content/uploads/2022/09/IMG_4443-2000.jpg', 'Featured Image', 'og' %}
+  {% endif %}
+  <!-- /Open Graph -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/styles.css" />
+
+    <style>
+      /* Dark mode search styles. */
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --pagefind-ui-primary: #eeeeee;
+          --pagefind-ui-text: #eeeeee;
+          --pagefind-ui-background: #152028;
+          --pagefind-ui-border: #152028;
+          --pagefind-ui-tag: #152028;
+        }
+      }
+    </style>
+  <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+  <title>
+  {% if title %}{{ title }} | {% endif %} Patrick Johanneson</title>
+</head>
+<body>
+  <header class="page-header">
+    Patrick Johanneson
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/fiction/">Fiction</a></li>
+        <li><a href="/photos/">Photos</a></li>
+        <li><a href="/search/">Search</a></li>
+      </ul>
+    </nav>
+  </header><!-- .page-header -->
+
+  <header class="page-title">
+  <h1>{{ title }}</h1>
+  </header><!-- .page-title -->
+  <main data-pagefind-body>
+  {% block before_main %}{% endblock %}
+  {% block main %}
+  {{ content | safe }}
+  {% endblock %}
+  {% block after_main %}{% endblock %}
+  </main>
+
+  <footer>
+    Content &copy; / cc Patrick Johanneson. All rights reserved.
+  </footer>
+
+<script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false, translations: { placeholder: 'Search Site', zero_results: 'Nothing found' } });"></script>
+</body>
+</html>

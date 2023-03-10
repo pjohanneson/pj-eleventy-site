@@ -19,9 +19,9 @@ img/	# Remove before flight, globviously.
 
 
 # Node modules and output
-node_modules
+node_modules/
 public/
 src/_includes/css
-src/story/private # Stories that aren't public...yet.
-wp-export-md-files
+src/story/private/ # Stories that aren't public...yet.
+wp-export-md-files/
 

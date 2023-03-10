@@ -1,0 +1,17 @@
+---
+title: "The new car"
+layout: post
+excerpt: ""
+date: 2009-07-27 12:32:23
+modified: 2009-07-27 12:32:23
+permalink: 2009/07/27/the-new-car/index.html
+tags: ["Photos", "So It Goes"]
+featured_img: 
+wpid: 607
+---
+
+# The new car
+
+<div align="center">[![](http://farm3.static.flickr.com/2645/3760845426_9dfb5a5ff7_m.jpg)](http://www.flickr.com/photos/pj/3760845426/ "The new car from flickr.com")  
+[The new car](http://www.flickr.com/photos/pj/3760845426/)  
+Discovered in [Patrick Johanneson](http://www.flickr.com/people/pj/)‘s Flickr photostream. </div>Oh hey everyone, guess what — we got a new car!
