@@ -22,7 +22,7 @@ async function getImage( src, alt = '', ret = 'imgTag' ) {
     formats: ["webp", "jpeg"]
   });
   let data = metadata.webp[metadata.webp.length - 1];
-  console.log( data );
+  // console.log( data );
   if ( 'og' === ret ) {
   	return `<meta name="og:image" content="${baseURL}${data.url}">`;
   }
@@ -36,6 +36,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addLayoutAlias('pj_story', 'layouts/story.njk');
 	eleventyConfig.addLayoutAlias('story', 'layouts/story.njk');
 	eleventyConfig.addLayoutAlias('judo-events', 'layout.njk');
+	eleventyConfig.addLayoutAlias('pj-posts', 'layout.njk');
 
 	// Some passthrough directories.
 	eleventyConfig.addPassthroughCopy("src/css");

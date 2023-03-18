@@ -1,2 +1,5 @@
 # hide the not-public stories
 src/story/private/
+
+# Testing something
+src/post/

@@ -1,0 +1,19 @@
+---
+pagination:
+    data: pj-posts
+    size: 1
+    alias: post
+permalink: "{{ post.postYear}}/{{ post.postMonth }}/{{ post.postDay }}/{{ post.slug }}/"
+---
+{% extends "layout.njk" %}
+
+{% block main %}
+    {% if post.featuredImage %}
+        {{ post.featuredImage.url }}
+        {{ post.featuredImage.alt }}
+    {% endif %}
+<h1>{{ post.title }}</h1>
+<article>
+{{ post.content | safe }}
+</article>
+{% endblock %}

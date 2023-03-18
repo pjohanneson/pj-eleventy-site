@@ -27,6 +27,8 @@ all_meta:
 
 Photos from my back lane, March 3rd, 2023, a couple days after Jupiter and Venus’ conjunction.
 
-<figure class="wp-block-image size-large">[![Venus and Jupiter, along with Jupiter's moons Callisto, Ganymede, and Europa](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9444-2000-682x1024.jpg)](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9444-2000.jpg)<figcaption class="wp-element-caption">Venus, at top, and Jupiter, at bottom</figcaption></figure>Jupiter’s moons (top left to lower right) Callisto, Ganymede, and Europa are visible in the full-size image. (Io is too close to Jupiter to be visible here.)
+[![Venus and Jupiter, along with Jupiter's moons Callisto, Ganymede, and Europa](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9444-2000-682x1024.jpg)](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9444-2000.jpg)
 
-<figure class="wp-block-image size-large">[![The Moon](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9474-2000-1024x682.jpg)](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9474-2000.jpg)<figcaption class="wp-element-caption">The Moon</figcaption></figure>
+Jupiter’s moons (top left to lower right) Callisto, Ganymede, and Europa are visible in the full-size image. (Io is too close to Jupiter to be visible here.)
+
+[![The Moon](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9474-2000-1024x682.jpg)](https://patrickjohanneson.com/wp-content/uploads/2023/03/IMG_9474-2000.jpg)

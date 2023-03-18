@@ -9,3 +9,8 @@ Convert my site to Eleventy.
 - [ ] Set a Search page and put the search div on it
   - [ ] Set a Search page template
 - [ ] Translate `<img>` tag URLs in post content to local `/img` URLs
+
+## Super Helpful Resources
+
+- Snarfing WordPress posts: https://stevenwoodson.com/blog/pulling-wordpress-content-into-eleventy/
+- Image handling: https://www.aleksandrhovhannisyan.com/blog/eleventy-image-plugin/
