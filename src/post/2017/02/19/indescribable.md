@@ -5,9 +5,19 @@ excerpt: "Well, which is it?"
 date: 2017-02-19 19:07:56
 modified: 2017-02-19 19:07:56
 permalink: 2017/02/19/indescribable/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 2215
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # Indescribable

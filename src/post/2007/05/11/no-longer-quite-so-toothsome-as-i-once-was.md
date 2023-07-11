@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-11 18:06:08
 modified: 2007-05-11 18:06:08
 permalink: 2007/05/11/no-longer-quite-so-toothsome-as-i-once-was/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 364
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # No longer quite so toothsome as I once was

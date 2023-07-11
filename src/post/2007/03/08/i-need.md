@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-08 21:45:20
 modified: 2007-03-08 21:45:20
 permalink: 2007/03/08/i-need/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 336
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # What I need to carry on

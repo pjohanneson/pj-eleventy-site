@@ -5,7 +5,6 @@ excerpt: "Who&amp;#8217;s going to Mars?"
 date: 2023-02-19 05:16:52
 modified: 2023-02-19 05:16:52
 permalink: 2023/02/18/viking-review/index.html
-tags: ["Comedy", "Drama", "French", "Mars", "Science Fiction", "Movies", "Reviews"]
 featured_img: 
 wpid: 5811
 all_meta: 
@@ -60,6 +59,11 @@ all_meta:
   _oembed_time_a0d32d7b11b6af90a39822d1745125c4: 1677128667
   
   
+taxonomy_terms_all: ["Comedy", "Drama", "French", "Mars", "Science Fiction", "Movies", "Reviews"]
+post_tag: ["Comedy", "Drama", "French", "Mars", "Science Fiction"]
+category: ["Movies", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # Viking (review)

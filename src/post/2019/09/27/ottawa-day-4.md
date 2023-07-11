@@ -5,9 +5,19 @@ excerpt: "Another full day."
 date: 2019-09-27 03:09:16
 modified: 2019-09-27 03:09:16
 permalink: 2019/09/26/ottawa-day-4/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3581
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3573
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
+include_wp_css: 1
 ---
 
 # Ottawa, Day 4

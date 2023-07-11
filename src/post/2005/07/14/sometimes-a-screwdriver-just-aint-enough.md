@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-14 22:04:00
 modified: 2005-07-14 22:04:00
 permalink: 2005/07/14/sometimes-a-screwdriver-just-aint-enough/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 48
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Sometimes a screwdriver just ain&#8217;t enough.

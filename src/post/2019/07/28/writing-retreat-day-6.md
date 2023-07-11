@@ -5,9 +5,24 @@ excerpt: "A good day and a fine evening."
 date: 2019-07-28 14:41:46
 modified: 2019-07-28 14:41:46
 permalink: 2019/07/28/writing-retreat-day-6/index.html
-tags: ["Astrophotography", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 3437
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3438
+  _wpas_done_all: 1
+  _oembed_dc091cafa802c055f30d95f51e4648d9: <iframe title="An hour out in the dark"
+    width="500" height="375" src="https://www.youtube.com/embed/mYtjWDk6oh8?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_dc091cafa802c055f30d95f51e4648d9: 1679099439
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat, Day 6

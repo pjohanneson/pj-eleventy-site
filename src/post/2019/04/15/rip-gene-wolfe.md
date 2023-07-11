@@ -5,9 +5,19 @@ excerpt: "&amp;#8220;It is always a temptation to say that such feelings are ind
 date: 2019-04-15 17:19:27
 modified: 2019-04-15 17:19:27
 permalink: 2019/04/15/rip-gene-wolfe/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 3265
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3266
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # RIP, Gene Wolfe

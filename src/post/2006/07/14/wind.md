@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-14 03:04:44
 modified: 2006-07-14 03:04:44
 permalink: 2006/07/13/wind/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 267
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Wind

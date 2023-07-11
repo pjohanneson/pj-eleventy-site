@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-28 12:43:38
 modified: 2006-09-28 12:43:38
 permalink: 2006/09/28/nage-no-kata/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 293
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Nage no Kata

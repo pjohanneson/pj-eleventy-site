@@ -5,9 +5,16 @@ excerpt: "Black Bottle Man builds steadily but quietly into a beautiful climax."
 date: 2010-05-07 02:04:34
 modified: 2010-05-07 02:04:34
 permalink: 2010/05/06/review-black-bottle-man/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 703
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: Black Bottle Man

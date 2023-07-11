@@ -5,9 +5,18 @@ excerpt: "&amp;#8230;at a baseball game."
 date: 2020-06-17 01:12:52
 modified: 2020-06-17 01:12:52
 permalink: 2020/06/16/a-55-chevy/index.html
-tags: ["Brenizer", "Panorama", "Photos"]
 featured_img: 
 wpid: 3985
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3986
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Brenizer", "Panorama", "Photos"]
+post_tag: ["Brenizer", "Panorama"]
+category: ["Photos"]
+tags: post
 ---
 
 # A &#8217;55 Chevy

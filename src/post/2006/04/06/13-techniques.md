@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-06 23:14:48
 modified: 2006-04-06 23:14:48
 permalink: 2006/04/06/13-techniques/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 199
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # 13 Techniques&#8230;

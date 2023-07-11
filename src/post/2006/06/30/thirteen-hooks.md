@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-30 04:11:30
 modified: 2006-06-30 04:11:30
 permalink: 2006/06/29/thirteen-hooks/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 259
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Thirteen hooks

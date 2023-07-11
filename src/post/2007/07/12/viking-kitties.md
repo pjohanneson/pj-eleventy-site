@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-12 01:43:49
 modified: 2007-07-12 01:43:49
 permalink: 2007/07/11/viking-kitties/index.html
-tags: ["Amusing", "Rockin' Out"]
 featured_img: 
 wpid: 376
+taxonomy_terms_all: ["Amusing", "Rockin' Out"]
+post_tag: []
+category: ["Amusing", "Rockin' Out"]
+tags: post
 ---
 
 # Viking kitties

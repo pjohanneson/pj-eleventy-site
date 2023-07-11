@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-21 02:17:55
 modified: 2006-01-21 02:17:55
 permalink: 2006/01/20/man-its-been-awhile/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 135
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Man, it&#8217;s been awhile&#8230;

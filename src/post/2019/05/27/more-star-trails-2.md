@@ -5,9 +5,24 @@ excerpt: "YAPOS—Yet Another Photo Of The Sky."
 date: 2019-05-27 03:30:47
 modified: 2019-05-27 03:30:47
 permalink: 2019/05/26/more-star-trails-2/index.html
-tags: ["Elkhorn", "Star Trails", "Photos"]
 featured_img: 
 wpid: 3310
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 3311
+  _oembed_cd2e5c2a731db45634b4ab8ef063d0bf: <iframe title="Startrails Timelapse" width="500"
+    height="375" src="https://www.youtube.com/embed/_cPKUTgGHOc?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" allowfullscreen></iframe>
+  _oembed_time_cd2e5c2a731db45634b4ab8ef063d0bf: 1679099439
+  
+  
+taxonomy_terms_all: ["Elkhorn", "Star Trails", "Photos"]
+post_tag: ["Elkhorn", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # More star trails

@@ -5,9 +5,23 @@ excerpt: ""
 date: 2022-07-30 00:29:31
 modified: 2022-07-30 00:29:31
 permalink: 2022/07/29/yard-birds/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 5518
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/07/IMG_0338-2000.jpg
+  _webdados_fb_open_graph_specific_description: Some visitors enjoying some bugs.
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Yard birds

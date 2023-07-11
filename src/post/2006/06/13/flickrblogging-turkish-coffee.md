@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-13 00:06:26
 modified: 2006-06-13 00:06:26
 permalink: 2006/06/12/flickrblogging-turkish-coffee/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 245
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # FlickrBlogging: Turkish Coffee

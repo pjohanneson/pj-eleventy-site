@@ -5,9 +5,19 @@ excerpt: "Contains a new Patrick Johanneson short story. Coming in fall 2018."
 date: 2018-04-23 21:14:36
 modified: 2018-04-23 21:14:36
 permalink: 2018/04/23/parallel-prairies/index.html
-tags: ["Books", "Writing"]
 featured_img: 
 wpid: 2729
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2730
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Writing"]
+post_tag: []
+category: ["Books", "Writing"]
+tags: post
 ---
 
 # Parallel Prairies

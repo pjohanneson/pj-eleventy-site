@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-06-14 23:38:58
 modified: 2012-06-14 23:38:58
 permalink: 2012/06/14/smooth/index.html
-tags: ["Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 1060
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # Smooth

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-04 05:03:04
 modified: 2007-01-04 05:03:04
 permalink: 2007/01/03/writing-project/index.html
-tags: ["Etnh", "Writing"]
 featured_img: 
 wpid: 317
+taxonomy_terms_all: ["Etnh", "Writing"]
+post_tag: []
+category: ["Etnh", "Writing"]
+tags: post
 ---
 
 # Writing project

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-23 13:36:16
 modified: 2006-03-23 13:36:16
 permalink: 2006/03/23/thirteen-tears/index.html
-tags: ["Memes"]
 featured_img: 
 wpid: 190
+taxonomy_terms_all: ["Memes"]
+post_tag: []
+category: ["Memes"]
+tags: post
 ---
 
 # Thirteen Tears

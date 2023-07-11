@@ -5,9 +5,22 @@ excerpt: "Today&amp;#8217;s bike ride."
 date: 2021-07-05 03:19:48
 modified: 2021-07-05 03:19:48
 permalink: 2021/07/04/turtle-crossing/index.html
-tags: ["Bike Ride", "Photos"]
 featured_img: 
 wpid: 4927
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 4926
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Photos"]
+post_tag: ["Bike Ride"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Turtle Crossing

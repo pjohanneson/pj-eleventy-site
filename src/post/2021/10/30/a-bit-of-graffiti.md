@@ -5,9 +5,23 @@ excerpt: "Some outdoor art for you."
 date: 2021-10-30 22:34:22
 modified: 2021-10-30 22:34:22
 permalink: 2021/10/30/a-bit-of-graffiti/index.html
-tags: ["Bike Ride", "Graffiti", "Photos"]
 featured_img: 
 wpid: 5147
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5148
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: A bit of graffiti - click through for more
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Graffiti", "Photos"]
+post_tag: ["Bike Ride", "Graffiti"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A bit of graffiti

@@ -5,9 +5,22 @@ excerpt: "Soft and fuzzy."
 date: 2022-05-19 02:09:13
 modified: 2022-05-19 02:09:13
 permalink: 2022/05/18/more-wildlife/index.html
-tags: ["Birdie", "Hasenpfeffer", "Hoss", "Stuffed Animal", "Wildlife", "Photos"]
 featured_img: 
 wpid: 5393
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _last_editor_used_jetpack: block-editor
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 5395
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Birdie", "Hasenpfeffer", "Hoss", "Stuffed Animal", "Wildlife", "Photos"]
+post_tag: ["Birdie", "Hasenpfeffer", "Hoss", "Stuffed Animal", "Wildlife"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # More wildlife

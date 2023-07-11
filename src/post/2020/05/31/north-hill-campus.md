@@ -5,9 +5,19 @@ excerpt: "Some Brandon landmarks."
 date: 2020-05-31 00:45:57
 modified: 2020-05-31 00:45:57
 permalink: 2020/05/30/north-hill-campus/index.html
-tags: ["Acc", "Assiniboine Community College", "Bike Ride", "North Hill", "Photography", "Photos"]
 featured_img: 
 wpid: 3937
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3935
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Acc", "Assiniboine Community College", "Bike Ride", "North Hill", "Photography", "Photos"]
+post_tag: ["Acc", "Assiniboine Community College", "Bike Ride", "North Hill", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # North Hill campus

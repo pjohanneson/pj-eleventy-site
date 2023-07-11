@@ -5,9 +5,19 @@ excerpt: "Somehow I&amp;#8217;d never managed to make the connection."
 date: 2017-01-15 17:53:23
 modified: 2017-01-15 17:53:23
 permalink: 2017/01/15/memories-of-jj-1/index.html
-tags: ["JJ", "Writing"]
 featured_img: 
 wpid: 2130
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["JJ", "Writing"]
+post_tag: []
+category: ["JJ", "Writing"]
+tags: post
 ---
 
 # Memories of JJ, 1 &#8212; Ketchup

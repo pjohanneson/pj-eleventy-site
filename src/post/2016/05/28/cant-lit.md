@@ -5,9 +5,18 @@ excerpt: "Right up my alley."
 date: 2016-05-28 17:23:05
 modified: 2016-05-28 17:23:05
 permalink: 2016/05/28/cant-lit/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 1912
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Can&#8217;t Lit

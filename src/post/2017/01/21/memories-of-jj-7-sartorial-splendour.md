@@ -5,9 +5,20 @@ excerpt: "He was on to something. Moccasins are pretty comfortable."
 date: 2017-01-21 14:12:37
 modified: 2017-01-21 14:12:37
 permalink: 2017/01/21/memories-of-jj-7-sartorial-splendour/index.html
-tags: ["JJ"]
 featured_img: 
 wpid: 2158
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2114
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["JJ"]
+post_tag: []
+category: ["JJ"]
+tags: post
 ---
 
 # Memories of JJ, 7 &#8212; Sartorial splendour

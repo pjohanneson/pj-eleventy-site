@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-19 04:11:57
 modified: 2006-09-19 04:11:57
 permalink: 2006/09/18/blue/index.html
-tags: ["Amusing", "Judo", "Life"]
 featured_img: 
 wpid: 287
+taxonomy_terms_all: ["Amusing", "Judo", "Life"]
+post_tag: []
+category: ["Amusing", "Judo", "Life"]
+tags: post
 ---
 
 # Blue

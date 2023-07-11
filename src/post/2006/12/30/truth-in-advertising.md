@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-30 17:48:19
 modified: 2006-12-30 17:48:19
 permalink: 2006/12/30/truth-in-advertising/index.html
-tags: ["Amusing", "Movies"]
 featured_img: 
 wpid: 316
+taxonomy_terms_all: ["Amusing", "Movies"]
+post_tag: []
+category: ["Amusing", "Movies"]
+tags: post
 ---
 
 # &#8220;Truth&#8221; in advertising

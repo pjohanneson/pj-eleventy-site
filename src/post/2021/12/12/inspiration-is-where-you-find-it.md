@@ -5,9 +5,23 @@ excerpt: "Artifice vs. truth, via Richard Ayoade &amp;#038; Stephen Merchant in 
 date: 2021-12-12 21:11:07
 modified: 2021-12-12 21:11:07
 permalink: 2021/12/12/inspiration-is-where-you-find-it/index.html
-tags: ["Inspirations", "The Creative Process", "The Slow Apocalypse", "Travel Man", "Writing"]
 featured_img: 
 wpid: 5201
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 2847
+  _wpas_mess: Artifice vs. truth, via Richard Ayoade & Stephen Merchant in Dubrovnik.
+  _wpas_feature_enabled: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Inspirations", "The Creative Process", "The Slow Apocalypse", "Travel Man", "Writing"]
+post_tag: ["Inspirations", "The Creative Process", "The Slow Apocalypse", "Travel Man"]
+category: ["Writing"]
+tags: post
 ---
 
 # Inspiration is where you find it

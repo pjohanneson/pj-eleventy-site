@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-19 02:42:07
 modified: 2006-10-19 02:42:07
 permalink: 2006/10/18/election-time/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 298
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Election Time

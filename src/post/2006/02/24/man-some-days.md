@@ -5,9 +5,17 @@ excerpt: ""
 date: 2006-02-24 14:08:32
 modified: 2006-02-24 14:08:32
 permalink: 2006/02/24/man-some-days/index.html
-tags: ["Books", "Life"]
 featured_img: 
 wpid: 163
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Books", "Life"]
+post_tag: []
+category: ["Books", "Life"]
+tags: post
 ---
 
 # Censoring Dennis Lee?

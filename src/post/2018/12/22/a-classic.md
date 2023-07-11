@@ -5,9 +5,17 @@ excerpt: "Classic cars, anyway."
 date: 2018-12-22 22:08:39
 modified: 2018-12-22 22:08:39
 permalink: 2018/12/22/a-classic/index.html
-tags: ["Amusing", "Photos", "So It Goes"]
 featured_img: 
 wpid: 3086
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Photos", "So It Goes"]
+post_tag: []
+category: ["Amusing", "Photos", "So It Goes"]
+tags: post
 ---
 
 # A classic

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-01 03:23:38
 modified: 2008-12-01 03:23:38
 permalink: 2008/11/30/lazy-sunday/index.html
-tags: ["Life", "Recipes", "Writing"]
 featured_img: 
 wpid: 484
+taxonomy_terms_all: ["Life", "Recipes", "Writing"]
+post_tag: []
+category: ["Life", "Recipes", "Writing"]
+tags: post
 ---
 
 # Lazy Sunday

@@ -5,9 +5,20 @@ excerpt: "Almost an hour&amp;#8217;s worth."
 date: 2020-08-12 18:06:04
 modified: 2020-08-12 18:06:04
 permalink: 2020/08/12/star-trails-and-a-couple-perseids/index.html
-tags: ["Astrophotography", "Meteor", "Perseid Meteor Shower", "Star Trails", "Photos"]
 featured_img: 
 wpid: 4179
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4176
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Meteor", "Perseid Meteor Shower", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Meteor", "Perseid Meteor Shower", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Star trails, and a couple Perseids

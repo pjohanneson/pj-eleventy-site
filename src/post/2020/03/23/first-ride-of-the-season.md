@@ -5,9 +5,17 @@ excerpt: "A lovely day for a bike ride."
 date: 2020-03-23 22:57:03
 modified: 2020-03-23 22:57:03
 permalink: 2020/03/23/first-ride-of-the-season/index.html
-tags: ["Bicycle", "Bike Ride", "Mapmyride", "So It Goes"]
 featured_img: 
 wpid: 3815
+all_meta: 
+  _thumbnail_id: 3816
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bicycle", "Bike Ride", "Mapmyride", "So It Goes"]
+post_tag: ["Bicycle", "Bike Ride", "Mapmyride"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # First ride of the season

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-06-25 04:35:35
 modified: 2007-06-25 04:35:35
 permalink: 2007/06/24/what-i-did-with-my-summer-vacation/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 373
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # What I did with my summer vacation

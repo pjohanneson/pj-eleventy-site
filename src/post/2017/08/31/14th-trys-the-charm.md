@@ -5,9 +5,19 @@ excerpt: "Woo hoo, a sale!"
 date: 2017-08-31 23:21:25
 modified: 2017-08-31 23:21:25
 permalink: 2017/08/31/14th-trys-the-charm/index.html
-tags: ["Flash Fiction", "The Overnight Shift", "Writing", "Writing"]
 featured_img: 
 wpid: 2434
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2241
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Flash Fiction", "The Overnight Shift", "Writing", "Writing"]
+post_tag: ["Flash Fiction", "The Overnight Shift", "Writing"]
+category: ["Writing"]
+tags: post
 ---
 
 # 14th try&#8217;s the charm

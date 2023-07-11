@@ -5,9 +5,17 @@ excerpt: "20/16 is waaaay better than 20/400."
 date: 2020-03-17 16:56:19
 modified: 2020-03-17 16:56:19
 permalink: 2020/03/17/two-years/index.html
-tags: ["Laser Surgery", "Lasik", "So It Goes"]
 featured_img: 
 wpid: 3804
+all_meta: 
+  _thumbnail_id: 2684
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Laser Surgery", "Lasik", "So It Goes"]
+post_tag: ["Laser Surgery", "Lasik"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Two years

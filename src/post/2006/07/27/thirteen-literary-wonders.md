@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-27 22:17:10
 modified: 2006-07-27 22:17:10
 permalink: 2006/07/27/thirteen-literary-wonders/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 276
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # Thirteen Literary Wonders

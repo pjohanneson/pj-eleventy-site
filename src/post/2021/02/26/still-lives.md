@@ -5,9 +5,22 @@ excerpt: "Rum, lemonade, flowers, and oranges."
 date: 2021-02-26 23:53:41
 modified: 2021-02-26 23:53:41
 permalink: 2021/02/26/still-lives/index.html
-tags: ["Bokeh", "Flowers", "Lemonade", "Oranges", "Specific Gravity", "Photos"]
 featured_img: 
 wpid: 4668
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4671
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bokeh", "Flowers", "Lemonade", "Oranges", "Specific Gravity", "Photos"]
+post_tag: ["Bokeh", "Flowers", "Lemonade", "Oranges", "Specific Gravity"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Still lives

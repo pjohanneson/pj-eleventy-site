@@ -5,9 +5,24 @@ excerpt: "I caught some lightning."
 date: 2022-07-19 12:46:01
 modified: 2022-07-19 12:46:01
 permalink: 2022/07/19/the-late-show-2/index.html
-tags: ["Lightning", "Photos"]
 featured_img: 
 wpid: 5512
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 5513
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/07/IMG_0026-2000.jpg
+  _webdados_fb_open_graph_specific_description: I caught some lightning.
+  
+  
+taxonomy_terms_all: ["Lightning", "Photos"]
+post_tag: ["Lightning"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Late Show

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-08-28 12:59:16
 modified: 2006-08-28 12:59:16
 permalink: 2006/08/28/flickrblogging-the-disappointment-img_3280/index.html
-tags: ["Amusing", "Flickrblogging", "Photos"]
 featured_img: 
 wpid: 281
+taxonomy_terms_all: ["Amusing", "Flickrblogging", "Photos"]
+post_tag: []
+category: ["Amusing", "Flickrblogging", "Photos"]
+tags: post
 ---
 
 # Flickrblogging &#8212; &#8220;The Disappointment&#8221; (IMG_3280)

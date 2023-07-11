@@ -5,9 +5,17 @@ excerpt: ""
 date: 2011-04-04 22:08:00
 modified: 2011-04-04 22:08:00
 permalink: 2011/04/04/my-weekend/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 822
+all_meta: 
+  aktt_tweeted: 1
+  aktt_notify_twitter: "yes"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # My weekend

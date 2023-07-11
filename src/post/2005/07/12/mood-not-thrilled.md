@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-12 05:31:00
 modified: 2005-07-12 05:31:00
 permalink: 2005/07/12/mood-not-thrilled/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 46
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Mood: Not Thrilled

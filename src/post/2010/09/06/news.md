@@ -5,9 +5,19 @@ excerpt: ""
 date: 2010-09-06 19:41:13
 modified: 2010-09-06 19:41:13
 permalink: 2010/09/06/news/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 746
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  _last_editor_used_jetpack: block-editor
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # News

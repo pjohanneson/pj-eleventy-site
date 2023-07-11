@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-10-07 04:24:35
 modified: 2009-10-07 04:24:35
 permalink: 2009/10/06/kata-weekend-in-gimli/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 614
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Kata weekend in Gimli

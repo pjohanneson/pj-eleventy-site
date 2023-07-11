@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-04 23:56:33
 modified: 2006-04-04 23:56:33
 permalink: 2006/04/04/research/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 196
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Research

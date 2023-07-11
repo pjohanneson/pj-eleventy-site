@@ -5,9 +5,18 @@ excerpt: ""
 date: 2009-02-18 03:56:04
 modified: 2009-02-18 03:56:04
 permalink: 2009/02/17/some-of-what-i-wrote-tonight/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 565
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # Some of what I wrote tonight

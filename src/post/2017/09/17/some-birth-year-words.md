@@ -5,9 +5,18 @@ excerpt: "What do &amp;#8220;duck hook&amp;#8221;, &amp;#8220;chronotherapy&amp;
 date: 2017-09-17 16:55:24
 modified: 2017-09-17 16:55:24
 permalink: 2017/09/17/some-birth-year-words/index.html
-tags: ["Logophilia", "Amusing", "Logophilia", "Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 2450
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Logophilia", "Amusing", "Logophilia", "Ne-e-e-e-e-erd!", "Writing"]
+post_tag: ["Logophilia"]
+category: ["Amusing", "Logophilia", "Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # Some birth-year words

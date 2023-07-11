@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-10 23:48:50
 modified: 2006-04-10 23:48:50
 permalink: 2006/04/10/not-sure-what-happened/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 204
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Not sure what happened&#8230;

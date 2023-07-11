@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-04-01 17:24:12
 modified: 2009-04-01 17:24:12
 permalink: 2009/04/01/its-not-so-much-what-shes-saying-its-how-shes-saying-it/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 578
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # It&#8217;s not so much what she&#8217;s saying, it&#8217;s how she&#8217;s saying it

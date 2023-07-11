@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-21 18:24:57
 modified: 2006-01-21 18:24:57
 permalink: 2006/01/21/um-interesting/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 138
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # Um&#8230;  Interesting&#8230;

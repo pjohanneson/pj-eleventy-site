@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-27 20:31:41
 modified: 2006-02-27 20:31:41
 permalink: 2006/02/27/bad-day/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 170
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # Bad day

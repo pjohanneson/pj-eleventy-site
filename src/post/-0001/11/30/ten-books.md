@@ -5,9 +5,17 @@ excerpt: "Thank a Facebook meme for this one."
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1452
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Ten books

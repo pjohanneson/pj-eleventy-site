@@ -5,9 +5,19 @@ excerpt: "Entropy grinds away at us, but we keep pushing back against it."
 date: 2014-11-08 05:36:31
 modified: 2014-11-08 05:36:31
 permalink: 2014/11/07/le-mot-juste/index.html
-tags: ["Movies", "So It Goes"]
 featured_img: 
 wpid: 1605
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Movies", "So It Goes"]
+post_tag: []
+category: ["Movies", "So It Goes"]
+tags: post
 ---
 
 # Tiens, cherchons le mot juste

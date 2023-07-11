@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-30 23:36:57
 modified: 2006-04-30 23:36:57
 permalink: 2006/04/30/2-stories/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 216
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # 2 stories

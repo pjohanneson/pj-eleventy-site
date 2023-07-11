@@ -5,7 +5,6 @@ excerpt: "It&amp;#8217;s  funny and it&amp;#8217;s heartbreaking."
 date: 2023-02-26 17:28:17
 modified: 2023-02-26 17:28:17
 permalink: 2023/02/26/guitar-lessons/index.html
-tags: ["Corb Lund", "Evans Theatre", "Movies", "Reviews"]
 featured_img: 
 wpid: 6004
 all_meta: 
@@ -50,6 +49,10 @@ all_meta:
   - ""
   
   
+taxonomy_terms_all: ["Corb Lund", "Evans Theatre", "Movies", "Reviews"]
+post_tag: ["Corb Lund", "Evans Theatre"]
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Guitar Lessons

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-05-25 02:47:00
 modified: 2005-05-25 02:47:00
 permalink: 2005/05/24/slack-writing-day/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 770
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Slack writing day

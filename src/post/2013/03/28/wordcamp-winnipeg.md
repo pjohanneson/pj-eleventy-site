@@ -5,9 +5,17 @@ excerpt: "I&amp;#8217;m presenting at WordCamp Winnipeg!"
 date: 2013-03-28 21:48:11
 modified: 2013-03-28 21:48:11
 permalink: 2013/03/28/wordcamp-winnipeg/index.html
-tags: ["WordPress"]
 featured_img: 
 wpid: 1210
+all_meta: 
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["WordPress"]
+post_tag: []
+category: ["WordPress"]
+tags: post
 ---
 
 # WordCamp Winnipeg

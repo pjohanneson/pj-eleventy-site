@@ -5,9 +5,18 @@ excerpt: "There was only one catch, and that was Catch-22."
 date: 2019-01-05 16:42:15
 modified: 2019-01-05 16:42:15
 permalink: 2019/01/05/morning-coffee/index.html
-tags: ["Books", "Photos"]
 featured_img: 
 wpid: 3102
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3101
+  
+  
+taxonomy_terms_all: ["Books", "Photos"]
+post_tag: []
+category: ["Books", "Photos"]
+tags: post
 ---
 
 # Morning coffee

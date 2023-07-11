@@ -5,9 +5,19 @@ excerpt: "Some photos from this afternoon."
 date: 2020-04-28 03:28:42
 modified: 2020-04-28 03:28:42
 permalink: 2020/04/27/down-by-the-river/index.html
-tags: ["Bike Ride", "Photos"]
 featured_img: 
 wpid: 3876
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3873
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Photos"]
+post_tag: ["Bike Ride"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Down by the river

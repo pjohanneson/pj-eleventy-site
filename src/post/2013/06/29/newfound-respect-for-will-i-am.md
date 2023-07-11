@@ -5,9 +5,17 @@ excerpt: ""
 date: 2013-06-29 17:40:19
 modified: 2013-06-29 17:40:19
 permalink: false
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1343
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Newfound respect for will.i.am

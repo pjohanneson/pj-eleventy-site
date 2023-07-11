@@ -5,9 +5,18 @@ excerpt: "So many pixels."
 date: 2020-06-04 01:25:20
 modified: 2020-06-04 01:25:20
 permalink: 2020/06/03/brenizer-bike/index.html
-tags: ["Bike", "Brenizer Method", "Hugin", "Panorama", "Photography", "Photos"]
 featured_img: 
 wpid: 3946
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike", "Brenizer Method", "Hugin", "Panorama", "Photography", "Photos"]
+post_tag: ["Bike", "Brenizer Method", "Hugin", "Panorama", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Brenizer bike

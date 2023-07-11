@@ -5,9 +5,23 @@ excerpt: "They liked the Peanuts Halloween signs."
 date: 2022-11-01 12:46:00
 modified: 2022-11-01 12:46:00
 permalink: 2022/11/01/hollow-bean-2022-the-costumes/index.html
-tags: ["Costumes", "Halloween", "Hollow Bean", "So It Goes"]
 featured_img: 
 wpid: 5719
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5718
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/109268621474228909
+  
+  
+taxonomy_terms_all: ["Costumes", "Halloween", "Hollow Bean", "So It Goes"]
+post_tag: ["Costumes", "Halloween", "Hollow Bean"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hollow Bean 2022: The Costumes

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-23 01:27:29
 modified: 2006-05-23 01:27:29
 permalink: 2006/05/22/story-9/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 231
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Story #9

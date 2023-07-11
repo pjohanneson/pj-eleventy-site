@@ -5,9 +5,18 @@ excerpt: "Candid photos at Tara&amp;#8217;s party."
 date: 2013-12-23 17:09:03
 modified: 2013-12-23 17:09:03
 permalink: 2013/12/23/candid-portraits/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 1458
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Candid portraits

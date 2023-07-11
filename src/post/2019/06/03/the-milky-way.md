@@ -5,9 +5,18 @@ excerpt: "Our galaxy."
 date: 2019-06-03 02:01:10
 modified: 2019-06-03 02:01:10
 permalink: 2019/06/02/the-milky-way/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3328
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3329
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # The Milky Way

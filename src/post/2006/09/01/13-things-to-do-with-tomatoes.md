@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-01 02:51:25
 modified: 2006-09-01 02:51:25
 permalink: 2006/08/31/13-things-to-do-with-tomatoes/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 283
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # 13 things to do with tomatoes

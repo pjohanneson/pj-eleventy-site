@@ -5,9 +5,26 @@ excerpt: "TIL about the Open Exoplanet Catalogue."
 date: 2014-05-03 15:00:06
 modified: 2014-05-03 15:00:06
 permalink: 2014/05/03/something-useful-on-the-internet/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 1533
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  epigraph: Go, then. There are other worlds than these.
+  epigraph_citation: Jake Chambers, in Stephen King's "The Gunslinger"
+  _wpas_done_all: 1
+  _oembed_544e074effbc36efc0668261c2da36a3: <iframe title="We Are Not Alone - Voivod"
+    width="500" height="375" src="https://www.youtube.com/embed/nFs5nqPX3OA?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_544e074effbc36efc0668261c2da36a3: 1679099444
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # Something useful on the Internet

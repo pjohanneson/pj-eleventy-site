@@ -5,9 +5,16 @@ excerpt: "B. good."
 date: 2012-10-31 13:22:41
 modified: 2012-10-31 13:22:41
 permalink: 2012/10/31/happy-hollow-bean-everybody/index.html
-tags: ["Amusing", "Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 1159
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Happy Hollow Bean, everybody

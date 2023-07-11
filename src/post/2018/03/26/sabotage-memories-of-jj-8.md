@@ -5,9 +5,23 @@ excerpt: "Listen all y&amp;#8217;all, it&amp;#8217;s a sabotage."
 date: 2018-03-26 17:55:09
 modified: 2018-03-26 17:55:09
 permalink: 2018/03/26/sabotage-memories-of-jj-8/index.html
-tags: ["Amusing", "JJ"]
 featured_img: 
 wpid: 2692
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_880c1ffc7a8efedce066a9e33ebf4457: <iframe title="Beastie Boys - Sabotage"
+    width="500" height="281" src="https://www.youtube.com/embed/z5rRZdiu1UE?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_880c1ffc7a8efedce066a9e33ebf4457: 1679099439
+  
+  
+taxonomy_terms_all: ["Amusing", "JJ"]
+post_tag: []
+category: ["Amusing", "JJ"]
+tags: post
 ---
 
 # Sabotage (Memories of JJ, #8)

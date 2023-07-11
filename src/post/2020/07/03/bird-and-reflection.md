@@ -5,9 +5,20 @@ excerpt: "On the biking path along 1st Street North today."
 date: 2020-07-03 21:14:47
 modified: 2020-07-03 21:14:47
 permalink: 2020/07/03/bird-and-reflection/index.html
-tags: ["Bdnmb", "Bird", "Wading Bird", "Photos"]
 featured_img: 
 wpid: 4049
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4047
+  _wp_old_slug: bird-id-needed
+  
+  
+taxonomy_terms_all: ["Bdnmb", "Bird", "Wading Bird", "Photos"]
+post_tag: ["Bdnmb", "Bird", "Wading Bird"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A bird and a reflection

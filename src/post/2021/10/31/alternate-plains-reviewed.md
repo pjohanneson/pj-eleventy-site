@@ -5,9 +5,22 @@ excerpt: "Reviewed! Woo hoo!"
 date: 2021-10-31 18:14:32
 modified: 2021-10-31 18:14:32
 permalink: 2021/10/31/alternate-plains-reviewed/index.html
-tags: ["Alternate Plains", "Reviewed", "Summmertime In The Void", "Reviews", "Writing"]
 featured_img: 
 wpid: 5152
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5153
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: Alternate Plains reviewed by Joanne Kelly
+  
+  
+taxonomy_terms_all: ["Alternate Plains", "Reviewed", "Summmertime In The Void", "Reviews", "Writing"]
+post_tag: ["Alternate Plains", "Reviewed", "Summmertime In The Void"]
+category: ["Reviews", "Writing"]
+tags: post
 ---
 
 # Alternate Plains reviewed

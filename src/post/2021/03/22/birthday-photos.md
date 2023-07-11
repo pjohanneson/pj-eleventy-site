@@ -5,9 +5,22 @@ excerpt: "Moonlit aurora."
 date: 2021-03-22 05:27:30
 modified: 2021-03-22 05:27:30
 permalink: 2021/03/22/birthday-photos/index.html
-tags: ["Astrophotography", "Aurora", "Aurora Borealis", "Moon", "Photos"]
 featured_img: 
 wpid: 4719
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4715
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora", "Aurora Borealis", "Moon", "Photos"]
+post_tag: ["Astrophotography", "Aurora", "Aurora Borealis", "Moon"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Birthday Photos

@@ -5,9 +5,19 @@ excerpt: ""
 date: 2013-11-29 14:10:05
 modified: 2013-11-29 14:10:05
 permalink: 2013/11/29/happy-buy-nothing-day/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1434
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  epigraph: Because Black Friday makes me a little queasy.
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Happy Buy Nothing Day

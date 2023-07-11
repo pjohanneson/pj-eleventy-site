@@ -5,9 +5,19 @@ excerpt: ""
 date: 2020-05-18 17:03:57
 modified: 2020-05-18 17:03:57
 permalink: 2020/05/18/snapshots-of-a-ride/index.html
-tags: ["Bike Ride", "Photography", "Photos", "Photos"]
 featured_img: 
 wpid: 3911
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 3910
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Photography", "Photos", "Photos"]
+post_tag: ["Bike Ride", "Photography", "Photos"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Snapshots of a ride

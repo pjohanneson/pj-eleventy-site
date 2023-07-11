@@ -5,9 +5,19 @@ excerpt: ""
 date: 2015-02-18 14:06:17
 modified: 2015-02-18 14:06:17
 permalink: 2015/02/18/the-fountain-of-indolence/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1687
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The Fountain of Indolence

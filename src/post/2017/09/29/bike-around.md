@@ -5,9 +5,18 @@ excerpt: "&amp;#8220;Our strongest memories are intensely tied to location.&amp;
 date: 2017-09-29 17:44:04
 modified: 2017-09-29 17:44:04
 permalink: 2017/09/29/bike-around/index.html
-tags: ["JJ", "So It Goes"]
 featured_img: 
 wpid: 2456
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["JJ", "So It Goes"]
+post_tag: []
+category: ["JJ", "So It Goes"]
+tags: post
 ---
 
 # Bike Around

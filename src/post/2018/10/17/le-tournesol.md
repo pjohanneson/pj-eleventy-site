@@ -5,9 +5,20 @@ excerpt: "Mais toi monsieur, tu ne sais que fermer les yeux."
 date: 2018-10-17 17:21:39
 modified: 2018-10-17 17:21:39
 permalink: 2018/10/17/le-tournesol/index.html
-tags: ["Music", "So It Goes"]
 featured_img: 
 wpid: 2957
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_fdecf90bcdc057f76d604140ecd84108: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Music", "So It Goes"]
+post_tag: []
+category: ["Music", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Le tournesol

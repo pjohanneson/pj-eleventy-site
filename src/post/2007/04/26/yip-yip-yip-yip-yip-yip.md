@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-26 23:28:44
 modified: 2007-04-26 23:28:44
 permalink: 2007/04/26/yip-yip-yip-yip-yip-yip/index.html
-tags: ["Amusing", "Flickrblogging", "Idiot Box"]
 featured_img: 
 wpid: 359
+taxonomy_terms_all: ["Amusing", "Flickrblogging", "Idiot Box"]
+post_tag: []
+category: ["Amusing", "Flickrblogging", "Idiot Box"]
+tags: post
 ---
 
 # Yip yip yip yip yip yip

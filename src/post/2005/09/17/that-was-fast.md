@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-17 00:51:00
 modified: 2005-09-17 00:51:00
 permalink: 2005/09/16/that-was-fast/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 86
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # That was fast

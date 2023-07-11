@@ -5,9 +5,19 @@ excerpt: "When is a ghost not a ghost? When he&amp;#8217;s still alive."
 date: 2016-11-07 18:28:21
 modified: 2016-11-07 18:28:21
 permalink: 2016/11/07/shower-inspiration/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1993
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 1753
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Shower Inspiration

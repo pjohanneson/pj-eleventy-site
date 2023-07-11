@@ -5,9 +5,18 @@ excerpt: "Great success."
 date: 2018-12-22 01:34:05
 modified: 2018-12-22 01:34:05
 permalink: 2018/12/21/sandan/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 3084
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Sandan

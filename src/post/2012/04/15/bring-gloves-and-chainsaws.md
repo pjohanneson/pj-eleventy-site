@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-04-15 03:59:01
 modified: 2012-04-15 03:59:01
 permalink: 2012/04/14/bring-gloves-and-chainsaws/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 987
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # Bring Gloves and Chainsaws

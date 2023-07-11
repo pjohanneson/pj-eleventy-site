@@ -5,9 +5,21 @@ excerpt: "Arbres réfléchis en&amp;#8230; arbres."
 date: 2021-10-03 00:36:00
 modified: 2021-10-03 00:36:00
 permalink: 2021/10/02/on-reflection-oct-1st/index.html
-tags: ["Autumn Colours", "Bike Ride", "Photography", "Reflection", "Trees", "Photos"]
 featured_img: 
 wpid: 5095
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Autumn Colours", "Bike Ride", "Photography", "Reflection", "Trees", "Photos"]
+post_tag: ["Autumn Colours", "Bike Ride", "Photography", "Reflection", "Trees"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # On Reflection: Oct. 1st

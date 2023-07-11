@@ -5,9 +5,19 @@ excerpt: ""
 date: 2007-05-13 04:48:29
 modified: 2007-05-13 04:48:29
 permalink: 2007/05/12/election-funnies/index.html
-tags: ["Amusing", "Life", "Photos"]
 featured_img: 
 wpid: 365
+all_meta: 
+  _edit_last: 1
+  _oembed_a50d07ae3a4b64b127b559bc9470d20c: '{{unknown}}'
+  _jetpack_dont_email_post_to_subs: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Life", "Photos"]
+post_tag: []
+category: ["Amusing", "Life", "Photos"]
+tags: post
 ---
 
 # Election funnies

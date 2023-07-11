@@ -5,9 +5,25 @@ excerpt: "Maybe it torques me a little that someone&amp;#8217;s &amp;#8220;monet
 date: 2012-06-13 01:17:09
 modified: 2012-06-13 01:17:09
 permalink: 2012/06/12/ficlets-2/index.html
-tags: ["Amusing", "Weird", "Writing"]
 featured_img: 
 wpid: 1056
+all_meta: 
+  _edit_last: 1
+  epigraph: The day he started eating cars was probably the point of no return.
+  epigraph_citation: from "Eating Everything that Ever Was"
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mstdn.ca/@pjohanneson/109406652061954628
+  
+  
+taxonomy_terms_all: ["Amusing", "Weird", "Writing"]
+post_tag: []
+category: ["Amusing", "Weird", "Writing"]
+tags: post
 ---
 
 # Ficlets

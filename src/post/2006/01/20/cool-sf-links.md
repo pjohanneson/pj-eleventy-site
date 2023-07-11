@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-20 04:19:15
 modified: 2006-01-20 04:19:15
 permalink: 2006/01/19/cool-sf-links/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 134
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Cool SF links

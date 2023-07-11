@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-08-16 12:55:29
 modified: 2007-08-16 12:55:29
 permalink: 2007/08/16/thirteen-irregular-word-uses/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 265
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Thirteen irregular word uses

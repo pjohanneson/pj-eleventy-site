@@ -5,9 +5,24 @@ excerpt: "Some of my best photos (well, in my opinion) of the year that was."
 date: 2021-12-31 17:31:23
 modified: 2021-12-31 17:31:23
 permalink: 2021/12/31/favourite-images-2021/index.html
-tags: ["Astrophotography", "Aurora", "Birds", "Bokeh", "Bunnies", "Cemetery", "Christmas Tree", "Clouds", "Fenceposts", "Flowers", "Frost", "Inuksuk", "Lilacs", "Milky Way", "On Reflection", "Photography", "Star Trails", "Startrails", "Sunset", "Year In Review", "Photos"]
 featured_img: 
 wpid: 5217
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _thumbnail_id: 5127
+  _webdados_fb_open_graph_specific_description: Some of my favourite photos from this
+    past year. Click through for more.
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora", "Birds", "Bokeh", "Bunnies", "Cemetery", "Christmas Tree", "Clouds", "Fenceposts", "Flowers", "Frost", "Inuksuk", "Lilacs", "Milky Way", "On Reflection", "Photography", "Star Trails", "Startrails", "Sunset", "Year In Review", "Photos"]
+post_tag: ["Astrophotography", "Aurora", "Birds", "Bokeh", "Bunnies", "Cemetery", "Christmas Tree", "Clouds", "Fenceposts", "Flowers", "Frost", "Inuksuk", "Lilacs", "Milky Way", "On Reflection", "Photography", "Star Trails", "Startrails", "Sunset", "Year In Review"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Favourite images, 2021

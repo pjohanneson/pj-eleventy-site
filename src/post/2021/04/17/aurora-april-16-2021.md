@@ -5,9 +5,29 @@ excerpt: "&amp;#8230;and a shot of the almost-demolished Kullbergs Warehouse, to
 date: 2021-04-17 17:54:31
 modified: 2021-04-17 17:54:31
 permalink: 2021/04/17/aurora-april-16-2021/index.html
-tags: ["Aurora", "Aurora Borealis", "Entropy", "Kullbergs Warehouse", "Photos"]
 featured_img: 
 wpid: 4783
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/04/IMG_3531-2000.jpg
+  _webdados_fb_open_graph_specific_description: Aurora and a destroyed warehouse
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4784
+  _oembed_75b94b1dbeec3fef8bf83889a6bdd3a5: <iframe title="Aurora, April 16, 11:00 &amp;ndash;
+    11:30pm" src="https://player.vimeo.com/video/538096065?h=b881d7ab6a&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_75b94b1dbeec3fef8bf83889a6bdd3a5: 1679099438
+  
+  
+taxonomy_terms_all: ["Aurora", "Aurora Borealis", "Entropy", "Kullbergs Warehouse", "Photos"]
+post_tag: ["Aurora", "Aurora Borealis", "Entropy", "Kullbergs Warehouse"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Aurora, April 16, 2021

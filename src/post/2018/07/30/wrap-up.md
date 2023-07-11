@@ -5,9 +5,19 @@ excerpt: "It&amp;#8217;s been a great week."
 date: 2018-07-30 12:50:13
 modified: 2018-07-30 12:50:13
 permalink: 2018/07/30/wrap-up/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 2830
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Wrap-up

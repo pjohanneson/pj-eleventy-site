@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-12-21 12:44:00
 modified: 2005-12-21 12:44:00
 permalink: 2005/12/21/all-uphill-from-here/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 118
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # All uphill from here

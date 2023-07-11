@@ -5,9 +5,19 @@ excerpt: "Still missing: robins and dandelions."
 date: 2014-04-05 22:28:33
 modified: 2014-04-05 22:28:33
 permalink: 2014/04/05/ah-spring/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1527
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _sd_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Ah, spring

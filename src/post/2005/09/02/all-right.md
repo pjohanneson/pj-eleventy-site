@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-02 00:31:00
 modified: 2005-09-02 00:31:00
 permalink: 2005/09/01/all-right/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 76
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # All right

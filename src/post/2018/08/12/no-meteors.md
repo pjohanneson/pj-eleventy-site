@@ -5,9 +5,19 @@ excerpt: "The 2018 Perseids were underwhelming, at least where I was."
 date: 2018-08-12 18:43:04
 modified: 2018-08-12 18:43:04
 permalink: 2018/08/12/no-meteors/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 2856
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2854
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
 ---
 
 # No meteors

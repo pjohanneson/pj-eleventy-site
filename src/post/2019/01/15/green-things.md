@@ -5,9 +5,19 @@ excerpt: "For the first time in my life, there are living things on the moon."
 date: 2019-01-15 22:45:25
 modified: 2019-01-15 22:45:25
 permalink: 2019/01/15/green-things/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 3123
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3124
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # Green Things

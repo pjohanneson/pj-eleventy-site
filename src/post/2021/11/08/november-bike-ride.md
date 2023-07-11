@@ -5,9 +5,23 @@ excerpt: "Hearts, a broken tree, and a water tower"
 date: 2021-11-08 02:14:05
 modified: 2021-11-08 02:14:05
 permalink: 2021/11/07/november-bike-ride/index.html
-tags: ["Bike Ride", "Pareidolia", "Photography", "Residential School", "Water Tower", "Photos"]
 featured_img: 
 wpid: 5174
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _last_editor_used_jetpack: block-editor
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: November bike ride - Hearts, a broken tree, and a water tower
+  _wpas_feature_enabled: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Pareidolia", "Photography", "Residential School", "Water Tower", "Photos"]
+post_tag: ["Bike Ride", "Pareidolia", "Photography", "Residential School", "Water Tower"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # November bike ride

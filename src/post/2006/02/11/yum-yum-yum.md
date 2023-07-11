@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-11 05:12:32
 modified: 2006-02-11 05:12:32
 permalink: 2006/02/10/yum-yum-yum/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 152
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Yum yum yum

@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-02-16 22:00:49
 modified: 2009-02-16 22:00:49
 permalink: 2009/02/16/happy-louis-riel-day/index.html
-tags: ["Patriotic? Me?"]
 featured_img: 
 wpid: 563
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Patriotic? Me?"]
+post_tag: []
+category: ["Patriotic? Me?"]
+tags: post
 ---
 
 # Happy Louis Riel Day!

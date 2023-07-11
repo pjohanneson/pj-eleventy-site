@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-29 20:13:47
 modified: 2006-04-29 20:13:47
 permalink: 2006/04/29/big-party/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 215
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Goodbye, B and B

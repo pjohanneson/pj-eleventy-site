@@ -5,9 +5,20 @@ excerpt: "About 600 km worth of driving, all told."
 date: 2018-07-28 01:12:10
 modified: 2018-07-28 01:12:10
 permalink: 2018/07/27/writing-retreat-2018-tuesday-thursday/index.html
-tags: ["Photos", "So It Goes", "Writing"]
 featured_img: 
 wpid: 2812
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2813
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes", "Writing"]
+post_tag: []
+category: ["Photos", "So It Goes", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat, 2018: Tuesday–Thursday

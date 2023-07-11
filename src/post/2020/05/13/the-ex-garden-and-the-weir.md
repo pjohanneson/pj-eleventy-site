@@ -5,9 +5,19 @@ excerpt: "Ruins and riverrun."
 date: 2020-05-13 00:43:47
 modified: 2020-05-13 00:43:47
 permalink: 2020/05/12/the-ex-garden-and-the-weir/index.html
-tags: ["Beauty In Decay", "Entropy", "River", "Ruins", "Weir", "Photos", "So It Goes"]
 featured_img: 
 wpid: 3904
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3900
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Beauty In Decay", "Entropy", "River", "Ruins", "Weir", "Photos", "So It Goes"]
+post_tag: ["Beauty In Decay", "Entropy", "River", "Ruins", "Weir"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # The ex-garden and the weir

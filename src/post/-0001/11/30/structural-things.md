@@ -5,9 +5,20 @@ excerpt: "Careful, that&amp;#8217;s a load-bearing poster."
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["Fantasy", "Pre-apocalyptic Fiction", "Writing"]
 featured_img: 
 wpid: 4562
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Fantasy", "Pre-apocalyptic Fiction", "Writing"]
+post_tag: ["Fantasy", "Pre-apocalyptic Fiction"]
+category: ["Writing"]
+tags: post
 ---
 
 # Structural things

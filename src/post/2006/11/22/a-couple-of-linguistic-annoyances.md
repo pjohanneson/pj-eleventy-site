@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-11-22 13:41:15
 modified: 2006-11-22 13:41:15
 permalink: 2006/11/22/a-couple-of-linguistic-annoyances/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 306
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # A couple of linguistic annoyances

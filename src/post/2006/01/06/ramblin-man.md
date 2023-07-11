@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-06 04:07:00
 modified: 2006-01-06 04:07:00
 permalink: 2006/01/05/ramblin-man/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 123
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Ramblin&#8217; man

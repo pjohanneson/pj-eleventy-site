@@ -5,9 +5,19 @@ excerpt: "Congrats!"
 date: 2019-01-09 01:31:47
 modified: 2019-01-09 01:31:47
 permalink: 2019/01/08/william-gibson-grand-master/index.html
-tags: ["Grandmaster", "Science Fiction", "William Gibson", "Books", "Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 3112
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3116
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Grandmaster", "Science Fiction", "William Gibson", "Books", "Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: ["Grandmaster", "Science Fiction", "William Gibson"]
+category: ["Books", "Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # William Gibson: Grand Master

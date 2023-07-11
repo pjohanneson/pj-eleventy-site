@@ -5,9 +5,20 @@ excerpt: "A couple bits of wisdom I discovered on a PBS show."
 date: 2021-06-26 03:33:08
 modified: 2021-06-26 03:33:08
 permalink: 2021/06/25/just-people-like-you-and-me/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 4909
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Just people, like you and me

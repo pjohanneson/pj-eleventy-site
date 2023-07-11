@@ -5,9 +5,19 @@ excerpt: "Well, blow me down."
 date: 2020-02-21 18:12:00
 modified: 2020-02-21 18:12:00
 permalink: 2020/02/21/wind-aurora/index.html
-tags: ["Astrophotography", "Whoops", "Amusing", "Photos"]
 featured_img: 
 wpid: 3791
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3794
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Whoops", "Amusing", "Photos"]
+post_tag: ["Astrophotography", "Whoops"]
+category: ["Amusing", "Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Wind + Aurora

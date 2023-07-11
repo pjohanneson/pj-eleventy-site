@@ -5,9 +5,20 @@ excerpt: "Jim loved kids. He would often go for walks with his children and (lat
 date: 2017-01-11 13:48:54
 modified: 2017-01-11 13:48:54
 permalink: 2017/01/11/my-fathers-obituary/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 2122
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2114
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # My father&#8217;s obituary

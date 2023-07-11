@@ -5,9 +5,19 @@ excerpt: ""
 date: 2012-07-08 15:47:51
 modified: 2012-07-08 15:47:51
 permalink: 2012/07/08/a-zombie-tale/index.html
-tags: ["Tweet", "Writing"]
 featured_img: 
 wpid: 1091
+all_meta: 
+  geo_latitude: 49
+  geo_longitude: -99
+  geo_public: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Tweet", "Writing"]
+post_tag: []
+category: ["Tweet", "Writing"]
+tags: post
 ---
 
 # A Zombie Tale

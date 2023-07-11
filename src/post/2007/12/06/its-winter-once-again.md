@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-12-06 04:52:16
 modified: 2007-12-06 04:52:16
 permalink: 2007/12/05/its-winter-once-again/index.html
-tags: ["Life", "Photos", "Weather"]
 featured_img: 
 wpid: 399
+taxonomy_terms_all: ["Life", "Photos", "Weather"]
+post_tag: []
+category: ["Life", "Photos", "Weather"]
+tags: post
 ---
 
 # It&#8217;s winter, once again

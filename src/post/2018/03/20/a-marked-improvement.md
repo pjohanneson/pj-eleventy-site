@@ -5,9 +5,19 @@ excerpt: "20/400 to 20/16 in four days."
 date: 2018-03-20 21:13:13
 modified: 2018-03-20 21:13:13
 permalink: 2018/03/20/a-marked-improvement/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 2681
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2684
+  
+  
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # A markèd improvement

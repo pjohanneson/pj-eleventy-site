@@ -5,9 +5,18 @@ excerpt: "Wednesday of our week in Ottawa."
 date: 2017-10-16 04:13:02
 modified: 2017-10-16 04:13:02
 permalink: 2017/10/15/aviation-museum-rideau-hall/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2520
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Canadian Aviation Museum / Rideau Hall

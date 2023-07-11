@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-04 02:01:28
 modified: 2006-06-04 02:01:28
 permalink: 2006/06/03/movies-from-last-weekend/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 242
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Movies from Last Weekend

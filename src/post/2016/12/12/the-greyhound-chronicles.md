@@ -5,9 +5,19 @@ excerpt: "Spoiler alert: Eventually, I got home."
 date: 2016-12-12 23:14:17
 modified: 2016-12-12 23:14:17
 permalink: 2016/12/12/the-greyhound-chronicles/index.html
-tags: ["Amusing", "Life", "So It Goes", "Travel", "Writing"]
 featured_img: 
 wpid: 2047
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2055
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Life", "So It Goes", "Travel", "Writing"]
+post_tag: []
+category: ["Amusing", "Life", "So It Goes", "Travel", "Writing"]
+tags: post
 ---
 
 # The Greyhound Chronicles

@@ -5,9 +5,19 @@ excerpt: "Nice lens flare, there."
 date: 2018-10-25 17:15:10
 modified: 2018-10-25 17:15:10
 permalink: 2018/10/25/a-not-entirely-dark-not-so-deserted-highway/index.html
-tags: ["Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 2971
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2973
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # A not-entirely-dark, not-so-deserted highway

@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-11-20 03:06:58
 modified: 2009-11-20 03:06:58
 permalink: 2009/11/19/diptych/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 653
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
 ---
 
 # Diptych

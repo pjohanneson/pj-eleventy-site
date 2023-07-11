@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-05 23:51:32
 modified: 2006-03-05 23:51:32
 permalink: 2006/03/05/party-party-party/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 177
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Party party party

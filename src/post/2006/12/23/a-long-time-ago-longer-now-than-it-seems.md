@@ -5,9 +5,18 @@ excerpt: ""
 date: 2006-12-23 16:38:44
 modified: 2006-12-23 16:38:44
 permalink: 2006/12/23/a-long-time-ago-longer-now-than-it-seems/index.html
-tags: ["Movies"]
 featured_img: 
 wpid: 315
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _oembed_ebb9ac8ee8a7f774baa18e6dcf3e6c32: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Movies"]
+post_tag: []
+category: ["Movies"]
+tags: post
 ---
 
 # A long time ago, longer now than it seems&#8230;

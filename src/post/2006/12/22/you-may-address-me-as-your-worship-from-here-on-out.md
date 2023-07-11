@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-22 18:32:52
 modified: 2006-12-22 18:32:52
 permalink: 2006/12/22/you-may-address-me-as-your-worship-from-here-on-out/index.html
-tags: ["Amusing", "Memes"]
 featured_img: 
 wpid: 314
+taxonomy_terms_all: ["Amusing", "Memes"]
+post_tag: []
+category: ["Amusing", "Memes"]
+tags: post
 ---
 
 # You may address me as &#8220;Your Worship&#8221; from here on out&#8230;

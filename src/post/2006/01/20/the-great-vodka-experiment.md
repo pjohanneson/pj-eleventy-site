@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-20 04:06:47
 modified: 2006-01-20 04:06:47
 permalink: 2006/01/19/the-great-vodka-experiment/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 133
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # The Great Vodka Experiment

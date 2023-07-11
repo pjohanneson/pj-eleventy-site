@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-26 12:57:23
 modified: 2006-07-26 12:57:23
 permalink: 2006/07/26/good-tunes/index.html
-tags: ["Life", "Rockin' Out"]
 featured_img: 
 wpid: 275
+taxonomy_terms_all: ["Life", "Rockin' Out"]
+post_tag: []
+category: ["Life", "Rockin' Out"]
+tags: post
 ---
 
 # Good Tunes

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-11-24 20:24:29
 modified: 2004-11-24 20:24:29
 permalink: 2004/11/24/not-much-lately/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 25
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Not much lately&#8230;

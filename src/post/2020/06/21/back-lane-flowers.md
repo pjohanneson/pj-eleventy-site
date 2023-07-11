@@ -5,9 +5,19 @@ excerpt: "A splash of colour that caught my eye."
 date: 2020-06-21 21:12:05
 modified: 2020-06-21 21:12:05
 permalink: 2020/06/21/back-lane-flowers/index.html
-tags: ["Around Town", "Bdnmb", "Bike Ride", "Flowers", "Photography", "Photos"]
 featured_img: 
 wpid: 3992
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 3993
+  
+  
+taxonomy_terms_all: ["Around Town", "Bdnmb", "Bike Ride", "Flowers", "Photography", "Photos"]
+post_tag: ["Around Town", "Bdnmb", "Bike Ride", "Flowers", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Back lane flowers

@@ -5,9 +5,18 @@ excerpt: "Here goes nothin&amp;#8217;!"
 date: 2020-07-18 15:28:36
 modified: 2020-07-18 15:28:36
 permalink: 2020/07/18/writing-retreat-2020/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 4096
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _wp_old_date: "2020-07-19"
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing Retreat 2020

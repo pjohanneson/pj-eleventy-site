@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-02-25 05:41:56
 modified: 2008-02-25 05:41:56
 permalink: 2008/02/25/flickrblogging-img_3206/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 410
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_3206

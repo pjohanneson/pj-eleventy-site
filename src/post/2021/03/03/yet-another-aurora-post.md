@@ -5,9 +5,30 @@ excerpt: "They put on a show again last night."
 date: 2021-03-03 19:01:47
 modified: 2021-03-03 19:01:47
 permalink: 2021/03/03/yet-another-aurora-post/index.html
-tags: ["Photos", "Videos"]
 featured_img: 
 wpid: 4683
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/03/IMG_0842-2000.jpg
+  _webdados_fb_open_graph_specific_description: The aurora put on a show again last
+    night. Click through to see more.
+  _thumbnail_id: 4687
+  _wpas_done_all: 1
+  _oembed_0f3dd21436859f7cba8890faad4a059d: <iframe title="Aurora Borealis&amp;mdash;March
+    2nd, 2021" src="https://player.vimeo.com/video/519036360?h=ba2d827bd2&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_0f3dd21436859f7cba8890faad4a059d: 1679099443
+  
+  
+taxonomy_terms_all: ["Photos", "Videos"]
+post_tag: []
+category: ["Photos", "Videos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Yet another aurora post

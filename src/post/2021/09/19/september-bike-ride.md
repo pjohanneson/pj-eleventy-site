@@ -5,9 +5,22 @@ excerpt: "About 24km today, and I took my camera along."
 date: 2021-09-19 02:01:25
 modified: 2021-09-19 02:01:25
 permalink: 2021/09/18/september-bike-ride/index.html
-tags: ["Brandon", "Photography", "Photos", "Pixie Village", "Round Town", "Sunflowers", "Photos"]
 featured_img: 
 wpid: 5081
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 5080
+  
+  
+taxonomy_terms_all: ["Brandon", "Photography", "Photos", "Pixie Village", "Round Town", "Sunflowers", "Photos"]
+post_tag: ["Brandon", "Photography", "Photos", "Pixie Village", "Round Town", "Sunflowers"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # September Bike Ride

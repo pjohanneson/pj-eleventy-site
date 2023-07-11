@@ -5,9 +5,18 @@ excerpt: "Casinos are not my thing."
 date: 2013-09-30 13:05:53
 modified: 2013-09-30 13:05:53
 permalink: 2013/09/30/bingo/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1419
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Bingo!

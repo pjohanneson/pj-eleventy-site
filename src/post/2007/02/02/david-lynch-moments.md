@@ -5,9 +5,16 @@ excerpt: ""
 date: 2007-02-02 04:16:34
 modified: 2007-02-02 04:16:34
 permalink: 2007/02/01/david-lynch-moments/index.html
-tags: ["Movies", "Weird"]
 featured_img: 
 wpid: 325
+all_meta: 
+  _last_editor_used_jetpack: block-editor
+  
+  
+taxonomy_terms_all: ["Movies", "Weird"]
+post_tag: []
+category: ["Movies", "Weird"]
+tags: post
 ---
 
 # &#8220;I&#8217;m there right now&#8221;

@@ -5,9 +5,18 @@ excerpt: "&amp;#8230;though I think my sister pronounces it &amp;#8220;bad influ
 date: 2020-04-13 17:16:00
 modified: 2020-04-13 17:16:00
 permalink: 2020/04/13/im-a-trend-setter/index.html
-tags: ["Happer Yeast", "Amusing"]
 featured_img: 
 wpid: 3842
+all_meta: 
+  _thumbnail_id: 3838
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Happer Yeast", "Amusing"]
+post_tag: ["Happer Yeast"]
+category: ["Amusing"]
+tags: post
+include_wp_css: 1
 ---
 
 # I&#8217;m a trend-setter

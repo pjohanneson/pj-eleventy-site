@@ -5,9 +5,22 @@ excerpt: "Not bad for a Thursday."
 date: 2020-07-25 00:10:03
 modified: 2020-07-25 00:10:03
 permalink: 2020/07/24/writing-retreat-2020-day-6/index.html
-tags: ["Photos", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 4138
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4139
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_mess: A Thursday at the cabin is a pretty good Thursday.
+  _last_editor_used_jetpack: block-editor
+  
+  
+taxonomy_terms_all: ["Photos", "Writing", "Photos", "Writing"]
+post_tag: ["Photos", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020, Day 6

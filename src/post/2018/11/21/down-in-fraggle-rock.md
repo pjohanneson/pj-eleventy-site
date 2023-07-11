@@ -5,9 +5,18 @@ excerpt: "Goodness, what didn&amp;#8217;t he do?"
 date: 2018-11-21 22:45:40
 modified: 2018-11-21 22:45:40
 permalink: 2018/11/21/down-in-fraggle-rock/index.html
-tags: ["Alligator Pie", "Cancon", "Canlit", "Amusing", "Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 3014
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Alligator Pie", "Cancon", "Canlit", "Amusing", "Books", "Ne-e-e-e-e-erd!"]
+post_tag: ["Alligator Pie", "Cancon", "Canlit"]
+category: ["Amusing", "Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Down in Fraggle Rock

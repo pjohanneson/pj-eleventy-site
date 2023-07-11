@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-15 03:50:30
 modified: 2006-02-15 03:50:30
 permalink: 2006/02/14/happy-valentines-day/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 156
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Happy Valentine&#8217;s Day

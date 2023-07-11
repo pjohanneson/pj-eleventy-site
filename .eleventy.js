@@ -22,7 +22,6 @@ async function getImage( src, alt = '', ret = 'imgTag' ) {
     formats: ["webp", "jpeg"]
   });
   let data = metadata.webp[metadata.webp.length - 1];
-  // console.log( data );
   if ( 'og' === ret ) {
   	return `<meta name="og:image" content="${baseURL}${data.url}">`;
   }

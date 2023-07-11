@@ -5,9 +5,18 @@ excerpt: "Plan B is bad. Really bad."
 date: 2020-04-20 22:04:00
 modified: 2020-04-20 22:04:00
 permalink: 2020/04/20/an-epiphany/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 3853
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3854
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # An epiphany

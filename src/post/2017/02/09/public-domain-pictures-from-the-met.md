@@ -5,9 +5,20 @@ excerpt: "Art! Art for free and unfettered use!"
 date: 2017-02-09 18:45:53
 modified: 2017-02-09 18:45:53
 permalink: 2017/02/09/public-domain-pictures-from-the-met/index.html
-tags: ["Art", "Creative Commons", "Munch", "Public Domain", "Turner", "Van Gogh", "Photos"]
 featured_img: 
 wpid: 2193
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2195
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Art", "Creative Commons", "Munch", "Public Domain", "Turner", "Van Gogh", "Photos"]
+post_tag: ["Art", "Creative Commons", "Munch", "Public Domain", "Turner", "Van Gogh"]
+category: ["Photos"]
+tags: post
 ---
 
 # Public Domain Pictures from the Met

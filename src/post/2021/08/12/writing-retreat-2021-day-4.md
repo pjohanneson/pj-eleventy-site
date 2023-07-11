@@ -5,9 +5,22 @@ excerpt: "What I did on my vacation, Wednesday edition."
 date: 2021-08-12 14:48:25
 modified: 2021-08-12 14:48:25
 permalink: 2021/08/12/writing-retreat-2021-day-4/index.html
-tags: ["Astrophotography", "Meteor Shower", "Perseids", "Startrails", "Photos", "Writing"]
 featured_img: 
 wpid: 5038
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5033
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Meteor Shower", "Perseids", "Startrails", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Meteor Shower", "Perseids", "Startrails"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2021, day 4

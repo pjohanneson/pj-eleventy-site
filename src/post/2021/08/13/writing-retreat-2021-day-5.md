@@ -5,9 +5,23 @@ excerpt: "Thursday at the cabin et ailleurs."
 date: 2021-08-13 16:05:55
 modified: 2021-08-13 16:05:55
 permalink: 2021/08/13/writing-retreat-2021-day-5/index.html
-tags: ["Astrophotography", "Meteor", "Milky Way", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 5042
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 5048
+  _wpas_mess: 'Thursday: more writing, more Milky Way. Click through for more photos.'
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Meteor", "Milky Way", "Writing", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Meteor", "Milky Way", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2021, day 5

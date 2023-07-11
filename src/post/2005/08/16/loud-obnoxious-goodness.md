@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-16 01:04:00
 modified: 2005-08-16 01:04:00
 permalink: 2005/08/15/loud-obnoxious-goodness/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 68
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Loud obnoxious goodness

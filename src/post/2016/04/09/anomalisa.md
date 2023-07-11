@@ -5,9 +5,19 @@ excerpt: "I didn&amp;#8217;t know what to expect; I couldn&amp;#8217;t anticipat
 date: 2016-04-09 15:59:15
 modified: 2016-04-09 15:59:15
 permalink: 2016/04/09/anomalisa/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 1891
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  epigraph: Check out the zoo. It's zoo-sized!
+  
+  
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Anomalisa

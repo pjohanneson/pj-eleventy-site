@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-16 18:56:55
 modified: 2008-12-16 18:56:55
 permalink: 2008/12/16/gramma-j/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 506
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Gramma J

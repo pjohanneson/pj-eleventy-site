@@ -5,9 +5,20 @@ excerpt: "A fine night for astrophotography."
 date: 2018-09-01 15:12:23
 modified: 2018-09-01 15:12:23
 permalink: 2018/09/01/dark-sky-riding-mountain/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 2890
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 2888
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Dark Sky—Riding Mountain

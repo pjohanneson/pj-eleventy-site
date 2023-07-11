@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-02 02:48:00
 modified: 2005-09-02 02:48:00
 permalink: 2005/09/01/one-for-doug/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 77
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # One for Doug

@@ -5,9 +5,25 @@ excerpt: "A gentler NaNoWriMo, at least for me."
 date: 2022-11-01 22:26:45
 modified: 2022-11-01 22:26:45
 permalink: 2022/11/01/writing-goals-november-2022/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 5722
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/109270901847589524
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing Goals: November 2022

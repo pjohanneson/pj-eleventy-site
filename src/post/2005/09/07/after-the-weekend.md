@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-07 23:31:00
 modified: 2005-09-07 23:31:00
 permalink: 2005/09/07/after-the-weekend/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 79
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # After the weekend

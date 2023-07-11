@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-22 23:21:15
 modified: 2008-12-22 23:21:15
 permalink: 2008/12/22/ha-ha-ha-waah/index.html
-tags: ["Patriotic? Me?"]
 featured_img: 
 wpid: 518
+taxonomy_terms_all: ["Patriotic? Me?"]
+post_tag: []
+category: ["Patriotic? Me?"]
+tags: post
 ---
 
 # Ha ha ha waah

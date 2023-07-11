@@ -5,9 +5,20 @@ excerpt: "Picking five photos of the province wasn&amp;#8217;t easy."
 date: 2018-10-16 17:46:43
 modified: 2018-10-16 17:46:43
 permalink: 2018/10/16/mcnally-robinson-photo-submission/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 2948
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2949
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # McNally Robinson Photo Submission

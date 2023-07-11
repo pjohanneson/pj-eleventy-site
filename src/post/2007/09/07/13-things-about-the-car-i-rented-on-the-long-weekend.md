@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-07 02:24:11
 modified: 2007-09-07 02:24:11
 permalink: 2007/09/06/13-things-about-the-car-i-rented-on-the-long-weekend/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 386
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # 13 things about the car I rented on the long weekend

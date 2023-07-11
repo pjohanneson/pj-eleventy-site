@@ -5,9 +5,19 @@ excerpt: "Seriously, cake?"
 date: 2014-09-12 17:52:40
 modified: 2014-09-12 17:52:40
 permalink: 2014/09/12/overheard-on-campus/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 1579
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # Overheard on campus

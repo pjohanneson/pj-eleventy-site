@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-06 22:34:45
 modified: 2006-04-06 22:34:45
 permalink: 2006/04/06/horses-and-comedy/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 198
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Today&#8230;

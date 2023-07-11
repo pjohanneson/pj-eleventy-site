@@ -5,9 +5,16 @@ excerpt: ""
 date: 2005-10-31 22:17:00
 modified: 2005-10-31 22:17:00
 permalink: 2005/10/31/explain-said-the-interrogation-machine/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 108
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # &#8220;Explain,&#8221; said the interrogation machine&#8230;

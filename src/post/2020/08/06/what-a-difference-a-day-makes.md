@@ -5,9 +5,19 @@ excerpt: "Twenty-four little hours."
 date: 2020-08-06 17:19:18
 modified: 2020-08-06 17:19:18
 permalink: 2020/08/06/what-a-difference-a-day-makes/index.html
-tags: ["Garage Demolition", "Squirrel!", "So It Goes"]
 featured_img: 
 wpid: 4158
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4161
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Garage Demolition", "Squirrel!", "So It Goes"]
+post_tag: ["Garage Demolition", "Squirrel!"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # What a difference a day makes

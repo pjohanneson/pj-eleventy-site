@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-04 20:04:11
 modified: 2007-03-04 20:04:11
 permalink: 2007/03/04/snow-again/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 335
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Snow (again)

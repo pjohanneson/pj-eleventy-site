@@ -5,9 +5,22 @@ excerpt: "This year&amp;#8217;s published output."
 date: 2021-12-30 18:11:52
 modified: 2021-12-30 18:11:52
 permalink: 2021/12/30/awards-eligibility-2021/index.html
-tags: ["Awards Eligibility", "Prairiesf", "Publications", "Summertime In The Void", "The Atlas", "Writing 2021", "Writing"]
 featured_img: 
 wpid: 5214
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 5047
+  _webdados_fb_open_graph_specific_description: Stories published in 2021 by yours truly.
+  
+  
+taxonomy_terms_all: ["Awards Eligibility", "Prairiesf", "Publications", "Summertime In The Void", "The Atlas", "Writing 2021", "Writing"]
+post_tag: ["Awards Eligibility", "Prairiesf", "Publications", "Summertime In The Void", "The Atlas", "Writing 2021"]
+category: ["Writing"]
+tags: post
 ---
 
 # Awards Eligibility 2021

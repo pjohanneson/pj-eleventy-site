@@ -5,9 +5,23 @@ excerpt: "I took a lot of photos in 2020."
 date: 2020-12-31 18:00:00
 modified: 2020-12-31 18:00:00
 permalink: 2020/12/31/my-best-photos-2020/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4492
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4073
+  _edit_last: 1
+  _wpas_mess: "My best photos, 2020\u2014click through to see them all."
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # My best photos, 2020

@@ -5,9 +5,20 @@ excerpt: "An evening of stargazing."
 date: 2020-09-20 13:46:10
 modified: 2020-09-20 13:46:10
 permalink: 2020/09/20/stargazing-with-the-gang/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4278
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4274
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Stargazing with the gang

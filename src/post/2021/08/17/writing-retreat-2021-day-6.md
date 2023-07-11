@@ -5,9 +5,22 @@ excerpt: "My last full day at the cabin."
 date: 2021-08-17 02:21:34
 modified: 2021-08-17 02:21:34
 permalink: 2021/08/16/writing-retreat-2021-day-6/index.html
-tags: ["Landscape", "Minnedosa", "Panorama", "Photography", "Prairiesf", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 5050
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5053
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Landscape", "Minnedosa", "Panorama", "Photography", "Prairiesf", "Writing", "Photos", "Writing"]
+post_tag: ["Landscape", "Minnedosa", "Panorama", "Photography", "Prairiesf", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2021, day 6

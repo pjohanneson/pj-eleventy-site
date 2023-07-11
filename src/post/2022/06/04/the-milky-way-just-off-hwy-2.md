@@ -5,9 +5,27 @@ excerpt: "Up past my bedtime, but it was worth it."
 date: 2022-06-04 16:05:55
 modified: 2022-06-04 16:05:55
 permalink: 2022/06/04/the-milky-way-just-off-hwy-2/index.html
-tags: ["Astrophotography", "Galaxy", "Timelapse", "Photos", "Videos"]
 featured_img: 
 wpid: 5444
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/06/IMG_8489-2000.jpg
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 5448
+  _oembed_c629e7b3b940c75623cee068278d147e: <iframe title="Milky Way rising" src="https://player.vimeo.com/video/717092317?h=25bcdf32bf&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_c629e7b3b940c75623cee068278d147e: 1679099437
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Galaxy", "Timelapse", "Photos", "Videos"]
+post_tag: ["Astrophotography", "Galaxy", "Timelapse"]
+category: ["Photos", "Videos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Milky Way, just off Hwy 2

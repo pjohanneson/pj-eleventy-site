@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-03 01:30:24
 modified: 2006-03-03 01:30:24
 permalink: 2006/03/02/everything-that-never-happened-update/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 173
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # &#8220;Everything that never happened&#8221; update #1

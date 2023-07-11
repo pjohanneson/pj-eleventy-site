@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-11-09 22:17:00
 modified: 2005-11-09 22:17:00
 permalink: 2005/11/09/more-radio-call-in-genius/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 110
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # More Radio-Call-In Genius

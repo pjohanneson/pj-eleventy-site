@@ -5,9 +5,19 @@ excerpt: "It&amp;#8217;s been a busy few days."
 date: 2019-07-27 14:44:18
 modified: 2019-07-27 14:44:18
 permalink: 2019/07/27/writing-retreat-days-3-through-5/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 3430
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3428
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat: Days 3 through 5

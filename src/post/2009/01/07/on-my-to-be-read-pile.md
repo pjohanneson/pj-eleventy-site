@@ -5,9 +5,12 @@ excerpt: ""
 date: 2009-01-07 17:20:39
 modified: 2009-01-07 17:20:39
 permalink: 2009/01/07/on-my-to-be-read-pile/index.html
-tags: ["Books", "Photos"]
 featured_img: 
 wpid: 532
+taxonomy_terms_all: ["Books", "Photos"]
+post_tag: []
+category: ["Books", "Photos"]
+tags: post
 ---
 
 # On my to-be-read pile

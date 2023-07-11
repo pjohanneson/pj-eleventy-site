@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-08-08 12:39:50
 modified: 2006-08-08 12:39:50
 permalink: 2006/08/08/family-reunion-air-museum/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 278
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Family Reunion; Air Museum

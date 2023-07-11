@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-05 03:20:28
 modified: 2006-10-05 03:20:28
 permalink: 2006/10/04/if-youre-wondering-how-my-grading-went/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 295
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # If you&#8217;re wondering how my grading went&#8230;

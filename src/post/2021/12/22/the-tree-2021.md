@@ -5,9 +5,24 @@ excerpt: "Merry Holidays, everyone!"
 date: 2021-12-22 00:13:21
 modified: 2021-12-22 00:13:21
 permalink: 2021/12/21/the-tree-2021/index.html
-tags: ["Bokeh", "Christmas", "Photos"]
 featured_img: 
 wpid: 5203
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 5210
+  _wpas_mess: Merry Holidays!
+  _wpas_feature_enabled: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Bokeh", "Christmas", "Photos"]
+post_tag: ["Bokeh", "Christmas"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Tree, 2021

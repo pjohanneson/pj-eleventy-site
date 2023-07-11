@@ -5,9 +5,16 @@ excerpt: "I seem to have a lot on my plate between now and the end of November."
 date: 2012-10-04 12:42:29
 modified: 2012-10-04 12:42:29
 permalink: 2012/10/04/october-is-busy/index.html
-tags: ["Life", "So It Goes"]
 featured_img: 
 wpid: 1125
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Life", "So It Goes"]
+post_tag: []
+category: ["Life", "So It Goes"]
+tags: post
 ---
 
 # October is Busy

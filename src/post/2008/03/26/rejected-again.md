@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-26 15:44:34
 modified: 2008-03-26 15:44:34
 permalink: 2008/03/26/rejected-again/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 418
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Rejected again

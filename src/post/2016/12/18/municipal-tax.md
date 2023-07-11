@@ -5,9 +5,18 @@ excerpt: "Taxation without representation."
 date: 2016-12-18 15:58:10
 modified: 2016-12-18 15:58:10
 permalink: 2016/12/18/municipal-tax/index.html
-tags: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 2076
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: []
+category: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # Municipal tax?

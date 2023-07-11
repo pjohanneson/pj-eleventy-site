@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-12-16 18:58:16
 modified: 2009-12-16 18:58:16
 permalink: 2009/12/16/this-morning-came-awful-early/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 659
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # This morning came awful early

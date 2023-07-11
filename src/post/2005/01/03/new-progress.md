@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-01-03 01:11:58
 modified: 2005-01-03 01:11:58
 permalink: 2005/01/02/new-progress/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 32
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # New progress

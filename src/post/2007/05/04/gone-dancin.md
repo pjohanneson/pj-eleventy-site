@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-04 04:42:54
 modified: 2007-05-04 04:42:54
 permalink: 2007/05/03/gone-dancin/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 360
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Gone Dancin&#8217;

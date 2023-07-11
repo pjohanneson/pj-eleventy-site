@@ -5,9 +5,20 @@ excerpt: "Wild seeds taking root."
 date: 2020-08-23 18:24:36
 modified: 2020-08-23 18:24:36
 permalink: 2020/08/23/eleanor-kidd-gardens/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4208
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4207
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Eleanor Kidd gardens

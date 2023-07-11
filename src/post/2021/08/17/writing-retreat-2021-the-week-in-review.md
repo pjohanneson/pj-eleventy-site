@@ -5,9 +5,23 @@ excerpt: "How&amp;#8217;d I do?"
 date: 2021-08-17 02:41:14
 modified: 2021-08-17 02:41:14
 permalink: 2021/08/16/writing-retreat-2021-the-week-in-review/index.html
-tags: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Prairiesf", "Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5058
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 5051
+  _wpas_mess: Another year's retreat has come and gone
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Prairiesf", "Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Prairiesf", "Star Trails", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2021: The week in review

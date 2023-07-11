@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-22 00:00:36
 modified: 2007-03-22 00:00:36
 permalink: 2007/03/21/birthday-boy/index.html
-tags: ["Amusing", "Movies", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 343
+taxonomy_terms_all: ["Amusing", "Movies", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Movies", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Birthday Boy

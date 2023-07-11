@@ -5,9 +5,19 @@ excerpt: "The northern lights obliged me."
 date: 2018-01-20 06:14:13
 modified: 2018-01-20 06:14:13
 permalink: 2018/01/20/an-evening-out-with-the-stars/index.html
-tags: ["JJ", "Ne-e-e-e-e-erd!", "Photos", "So It Goes"]
 featured_img: 
 wpid: 2664
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2668
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["JJ", "Ne-e-e-e-e-erd!", "Photos", "So It Goes"]
+post_tag: []
+category: ["JJ", "Ne-e-e-e-e-erd!", "Photos", "So It Goes"]
+tags: post
 ---
 
 # An evening out with the stars

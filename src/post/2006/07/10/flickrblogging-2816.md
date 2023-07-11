@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-10 12:44:16
 modified: 2006-07-10 12:44:16
 permalink: 2006/07/10/flickrblogging-2816/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 264
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; 2816

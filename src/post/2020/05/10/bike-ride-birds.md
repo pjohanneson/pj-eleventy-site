@@ -5,9 +5,19 @@ excerpt: "Chirp chirp chirp."
 date: 2020-05-10 03:42:07
 modified: 2020-05-10 03:42:07
 permalink: 2020/05/09/bike-ride-birds/index.html
-tags: ["Bike Ride", "Birds", "Photography", "Photos"]
 featured_img: 
 wpid: 3891
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3888
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Birds", "Photography", "Photos"]
+post_tag: ["Bike Ride", "Birds", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike ride birds

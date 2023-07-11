@@ -5,7 +5,6 @@ excerpt: "Unsuccessfully, as it turns out."
 date: 2023-01-30 03:19:07
 modified: 2023-01-30 03:19:07
 permalink: 2023/01/29/comet-chasing/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 5790
 all_meta: 
@@ -50,6 +49,11 @@ all_meta:
   - "1"
   
   
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Comet chasing

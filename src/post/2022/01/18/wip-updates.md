@@ -5,9 +5,23 @@ excerpt: "This may not mean anything to anyone but me. It might not even mean mu
 date: 2022-01-18 01:54:38
 modified: 2022-01-18 01:54:38
 permalink: 2022/01/17/wip-updates/index.html
-tags: ["Inspiration", "Praise The Torch", "Writing"]
 featured_img: 
 wpid: 5229
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 5230
+  _wpas_mess: Praise ice when over it, eh?
+  _wpas_feature_enabled: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Inspiration", "Praise The Torch", "Writing"]
+post_tag: ["Inspiration", "Praise The Torch"]
+category: ["Writing"]
+tags: post
 ---
 
 # WiP updates

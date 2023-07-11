@@ -5,9 +5,20 @@ excerpt: "I side with Foster &amp;#038; SFWA."
 date: 2020-11-18 23:36:25
 modified: 2020-11-18 23:36:25
 permalink: 2020/11/18/alan-v-disney/index.html
-tags: ["Alan Dean Foster", "Business", "Contracts", "Disney", "Writing"]
 featured_img: 
 wpid: 4388
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _wpas_mess: Alan Dean Foster takes on Disney. I'm cheering for Foster.
+  
+  
+taxonomy_terms_all: ["Alan Dean Foster", "Business", "Contracts", "Disney", "Writing"]
+post_tag: ["Alan Dean Foster", "Business", "Contracts", "Disney"]
+category: ["Writing"]
+tags: post
 ---
 
 # Alan v. Disney

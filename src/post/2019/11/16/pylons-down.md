@@ -5,9 +5,18 @@ excerpt: ""
 date: 2019-11-16 22:32:13
 modified: 2019-11-16 22:32:13
 permalink: 2019/11/16/pylons-down/index.html
-tags: ["Headingley", "Thanksgiving Storm", "Winnipeg", "Photos"]
 featured_img: 
 wpid: 3684
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3686
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Headingley", "Thanksgiving Storm", "Winnipeg", "Photos"]
+post_tag: ["Headingley", "Thanksgiving Storm", "Winnipeg"]
+category: ["Photos"]
+tags: post
 ---
 
 # Pylons down

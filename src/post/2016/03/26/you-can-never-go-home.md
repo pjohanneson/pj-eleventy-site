@@ -5,9 +5,19 @@ excerpt: "Check out prairiegirl cartoons&amp;#8217; Ghost Town."
 date: 2016-03-26 17:32:07
 modified: 2016-03-26 17:32:07
 permalink: 2016/03/26/you-can-never-go-home/index.html
-tags: ["Life", "So It Goes"]
 featured_img: 
 wpid: 1889
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _oembed_e3a40eb307039aa8b9caa37f8214b346: '{{unknown}}'
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Life", "So It Goes"]
+post_tag: []
+category: ["Life", "So It Goes"]
+tags: post
 ---
 
 # You can never go home

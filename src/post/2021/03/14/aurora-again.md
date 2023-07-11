@@ -5,9 +5,27 @@ excerpt: "More aurora photos."
 date: 2021-03-14 06:28:57
 modified: 2021-03-14 06:28:57
 permalink: 2021/03/14/aurora-again/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4701
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4704
+  _edit_last: 1
+  _oembed_effd9369154b7174bd465ba9c4bccef8: <iframe title="Aurora, 9-10pm, March 13,
+    2021" src="https://player.vimeo.com/video/523341602?h=c4d99d27c7&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_effd9369154b7174bd465ba9c4bccef8: 1679099438
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Aurora Again

@@ -5,9 +5,18 @@ excerpt: "But seriously. Zombie Banana."
 date: 2017-11-01 03:25:13
 modified: 2017-11-01 03:25:13
 permalink: 2017/10/31/halloween-2017-count/index.html
-tags: ["Hallowe'en", "So It Goes"]
 featured_img: 
 wpid: 2621
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Hallowe'en", "So It Goes"]
+post_tag: ["Hallowe'en"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hallowe&#8217;en 2017 count

@@ -5,9 +5,22 @@ excerpt: "Photos from my bike ride."
 date: 2021-07-09 17:51:53
 modified: 2021-07-09 17:51:53
 permalink: 2021/07/09/cemetery-critters/index.html
-tags: ["Bike Ride", "Bokeh", "Cemetery", "Critters", "Graveyard", "Wildlife", "Photos"]
 featured_img: 
 wpid: 4945
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4943
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Bokeh", "Cemetery", "Critters", "Graveyard", "Wildlife", "Photos"]
+post_tag: ["Bike Ride", "Bokeh", "Cemetery", "Critters", "Graveyard", "Wildlife"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Cemetery critters

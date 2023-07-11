@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-11-04 18:41:54
 modified: 2009-11-04 18:41:54
 permalink: 2009/11/04/triple-threat/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 646
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Triple threat

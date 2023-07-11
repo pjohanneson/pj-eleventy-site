@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-08-14 14:51:02
 modified: 2007-08-14 14:51:02
 permalink: 2007/08/14/its-on-the-internet/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 381
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # It&#8217;s on the Internet&#8230;

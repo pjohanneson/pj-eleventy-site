@@ -5,9 +5,18 @@ excerpt: ""
 date: 2009-10-09 02:13:04
 modified: 2009-10-09 02:13:04
 permalink: 2009/10/08/writing-group-meeting/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 618
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing group meeting

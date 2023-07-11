@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-12-06 20:20:07
 modified: 2004-12-06 20:20:07
 permalink: 2004/12/06/because-this-is-the-kind-of-thing-blogging-is-meant-for/index.html
-tags: ["Reviews", "Writing"]
 featured_img: 
 wpid: 30
+taxonomy_terms_all: ["Reviews", "Writing"]
+post_tag: []
+category: ["Reviews", "Writing"]
+tags: post
 ---
 
 # Because this is the kind of thing blogging is meant for&#8230;

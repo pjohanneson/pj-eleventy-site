@@ -5,9 +5,20 @@ excerpt: "That&amp;#8217;s some gorgeous cover art, too."
 date: 2017-04-14 15:01:49
 modified: 2017-04-14 15:01:49
 permalink: 2017/04/14/review-the-collapsing-empire/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 2229
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _oembed_a37463e67dbabc5785ac9f36d98010d4: '{{unknown}}'
+  _oembed_47f1549bd599aa9ede219239c6176023: '{{unknown}}'
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: The Collapsing Empire

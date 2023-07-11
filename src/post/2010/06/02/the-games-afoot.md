@@ -5,9 +5,18 @@ excerpt: "Pirates!  (and not the zombie-fighting kind either)"
 date: 2010-06-02 01:19:41
 modified: 2010-06-02 01:19:41
 permalink: 2010/06/01/the-games-afoot/index.html
-tags: ["So It Goes", "Weird", "Writing"]
 featured_img: 
 wpid: 711
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Weird", "Writing"]
+post_tag: []
+category: ["So It Goes", "Weird", "Writing"]
+tags: post
 ---
 
 # The game&#8217;s afoot

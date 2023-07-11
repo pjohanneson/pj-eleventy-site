@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-10-07 14:10:03
 modified: 2011-10-07 14:10:03
 permalink: 2011/10/07/task-list/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 901
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Task list

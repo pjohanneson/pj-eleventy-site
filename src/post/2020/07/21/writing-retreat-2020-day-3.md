@@ -5,9 +5,19 @@ excerpt: "Not bad for a Monday."
 date: 2020-07-21 21:53:01
 modified: 2020-07-21 21:53:01
 permalink: 2020/07/21/writing-retreat-2020-day-3/index.html
-tags: ["Astrophotography", "Lensbaby", "Photography", "Prairiesf", "Soligor", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 4109
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4098
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Lensbaby", "Photography", "Prairiesf", "Soligor", "Writing", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Lensbaby", "Photography", "Prairiesf", "Soligor", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020, Day 3

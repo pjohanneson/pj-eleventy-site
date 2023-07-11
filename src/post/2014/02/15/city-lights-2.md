@@ -5,9 +5,17 @@ excerpt: ""
 date: 2014-02-15 07:28:12
 modified: 2014-02-15 07:28:12
 permalink: 2014/02/15/city-lights-2/index.html
-tags: ["Brandon", "City", "Flickr", "Night", "Photo", "Flickrblogging"]
 featured_img: 
 wpid: 1495
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Brandon", "City", "Flickr", "Night", "Photo", "Flickrblogging"]
+post_tag: ["Brandon", "City", "Flickr", "Night", "Photo"]
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # City Lights

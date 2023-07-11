@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-09 15:29:00
 modified: 2005-07-09 15:29:00
 permalink: 2005/07/09/photos/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 45
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Photos

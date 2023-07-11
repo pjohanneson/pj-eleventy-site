@@ -5,9 +5,21 @@ excerpt: "Some lovely colours."
 date: 2020-10-13 17:52:24
 modified: 2020-10-13 17:52:24
 permalink: 2020/10/13/sunrise-this-morning/index.html
-tags: ["Panorama", "Sunrise", "Photos"]
 featured_img: 
 wpid: 4337
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4336
+  _wpas_mess: "\"There's a sunrise and a sunset every single day, and they're absolutely
+    free. Don't miss so many of them.\" \u2014@bluejowalton"
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Panorama", "Sunrise", "Photos"]
+post_tag: ["Panorama", "Sunrise"]
+category: ["Photos"]
+tags: post
 ---
 
 # Sunrise this morning

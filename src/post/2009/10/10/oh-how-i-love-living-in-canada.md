@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-10-10 16:53:50
 modified: 2009-10-10 16:53:50
 permalink: 2009/10/10/oh-how-i-love-living-in-canada/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 620
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Oh how I love living in Canada

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-06 01:26:14
 modified: 2006-09-06 01:26:14
 permalink: 2006/09/05/peer-pressure-flickrblogging-6074/index.html
-tags: ["Amusing", "Flickrblogging"]
 featured_img: 
 wpid: 285
+taxonomy_terms_all: ["Amusing", "Flickrblogging"]
+post_tag: []
+category: ["Amusing", "Flickrblogging"]
+tags: post
 ---
 
 # Peer Pressure (flickrblogging &#8212; 6074)

@@ -5,9 +5,21 @@ excerpt: "Some photos of poor visibility."
 date: 2020-10-30 22:21:01
 modified: 2020-10-30 22:21:01
 permalink: 2020/10/30/foggy-morning/index.html
-tags: ["Fog", "Frost", "Photos"]
 featured_img: 
 wpid: 4362
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4357
+  _wpas_done_all: 1
+  _wpas_mess: Foggy morning (click through for more photos)
+  
+  
+taxonomy_terms_all: ["Fog", "Frost", "Photos"]
+post_tag: ["Fog", "Frost"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Foggy morning

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-01 02:58:00
 modified: 2005-07-01 02:58:00
 permalink: 2005/06/30/things-i-can-do-in-my-basement/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 40
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Things I can do in my basement

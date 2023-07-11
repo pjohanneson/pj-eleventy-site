@@ -5,9 +5,25 @@ excerpt: "Hours and hours in the dark, condensed into 90 seconds."
 date: 2020-09-29 01:32:48
 modified: 2020-09-29 01:32:48
 permalink: 2020/09/28/star-trails-2020-so-far/index.html
-tags: ["Astrophotography", "Astrovideo", "Star Trails", "Video", "Photos"]
 featured_img: 
 wpid: 4301
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4267
+  _oembed_aed04e306669e3cc150182c17b708e04: <iframe title="Star Trails (Feb. &amp;ndash;
+    Sep. 2020)" src="https://player.vimeo.com/video/462862727?h=18bcf308c6&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_aed04e306669e3cc150182c17b708e04: 1679099444
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Astrovideo", "Star Trails", "Video", "Photos"]
+post_tag: ["Astrophotography", "Astrovideo", "Star Trails", "Video"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Star Trails 2020 (so far)

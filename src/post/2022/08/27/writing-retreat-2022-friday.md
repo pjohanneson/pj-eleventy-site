@@ -5,9 +5,25 @@ excerpt: "My last full day at the cabin."
 date: 2022-08-27 00:50:37
 modified: 2022-08-27 00:50:37
 permalink: 2022/08/26/writing-retreat-2022-friday/index.html
-tags: ["Astrophotography", "Milky Way", "Photography", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5623
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108897754536492321
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/08/IMG_3811-2000.jpg
+  _wp_old_date: "2022-08-27"
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Photography", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Milky Way", "Photography", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2022: Friday

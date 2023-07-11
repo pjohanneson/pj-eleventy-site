@@ -5,9 +5,22 @@ excerpt: "Just what it says."
 date: 2022-03-02 18:53:56
 modified: 2022-03-02 18:53:56
 permalink: 2022/03/02/daisies-tulips/index.html
-tags: ["Daisies", "Flowers", "Tulips", "Photos"]
 featured_img: 
 wpid: 5288
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5290
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Daisies", "Flowers", "Tulips", "Photos"]
+post_tag: ["Daisies", "Flowers", "Tulips"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Daisies &#038; tulips

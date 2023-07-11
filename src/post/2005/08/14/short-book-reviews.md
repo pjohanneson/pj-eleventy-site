@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-14 18:50:00
 modified: 2005-08-14 18:50:00
 permalink: 2005/08/14/short-book-reviews/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 67
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Short book reviews

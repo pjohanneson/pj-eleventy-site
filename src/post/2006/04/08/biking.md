@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-08 22:43:00
 modified: 2006-04-08 22:43:00
 permalink: 2006/04/08/biking/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 201
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Biking

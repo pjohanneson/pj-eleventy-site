@@ -5,9 +5,18 @@ excerpt: ""
 date: 2011-12-01 16:57:07
 modified: 2011-12-01 16:57:07
 permalink: false
-tags: ["Amusing", "Rockin' Out", "Weird"]
 featured_img: 
 wpid: 909
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  
+  
+taxonomy_terms_all: ["Amusing", "Rockin' Out", "Weird"]
+post_tag: []
+category: ["Amusing", "Rockin' Out", "Weird"]
+tags: post
 ---
 
 # Holiday-themed WTF

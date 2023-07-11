@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-26 02:51:00
 modified: 2005-08-26 02:51:00
 permalink: 2005/08/25/as-promised/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 74
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # As promised&#8230;

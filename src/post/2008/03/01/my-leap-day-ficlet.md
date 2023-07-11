@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-01 02:39:13
 modified: 2008-03-01 02:39:13
 permalink: 2008/02/29/my-leap-day-ficlet/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 412
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # My Leap Day ficlet

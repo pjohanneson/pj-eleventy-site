@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-23 03:43:47
 modified: 2006-06-23 03:43:47
 permalink: 2006/06/22/weird-thirteen/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 243
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Weird thirteen

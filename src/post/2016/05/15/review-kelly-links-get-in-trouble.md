@@ -5,9 +5,23 @@ excerpt: "You have no idea where you&amp;#8217;re going, but it&amp;#8217;s goin
 date: 2016-05-15 20:04:12
 modified: 2016-05-15 20:04:12
 permalink: 2016/05/15/review-kelly-links-get-in-trouble/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 1909
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  epigraph: |-
+    "You've got little cats on your gun," Edgar Lowes said.
+    "Hello Kitty stickers," she said. "I count coup."
+  epigraph_citation: From "Light" by Kelly Link
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # Review: Kelly Link&#8217;s Get in Trouble

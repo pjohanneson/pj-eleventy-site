@@ -5,9 +5,18 @@ excerpt: "Money for nothin&amp;#8217;. (Well, sort of.)"
 date: 2015-12-01 06:01:04
 modified: 2015-12-01 06:01:04
 permalink: 2015/12/01/access-copyright/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1827
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Access Copyright

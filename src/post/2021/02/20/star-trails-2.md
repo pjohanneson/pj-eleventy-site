@@ -5,9 +5,21 @@ excerpt: "Cold but bright."
 date: 2021-02-20 05:48:57
 modified: 2021-02-20 05:48:57
 permalink: 2021/02/19/star-trails-2/index.html
-tags: ["Astrophotography", "Startrails", "Photos"]
 featured_img: 
 wpid: 4646
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4647
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Startrails", "Photos"]
+post_tag: ["Astrophotography", "Startrails"]
+category: ["Photos"]
+tags: post
 ---
 
 # Star Trails

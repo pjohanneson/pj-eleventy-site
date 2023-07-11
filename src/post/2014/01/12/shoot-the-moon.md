@@ -5,9 +5,24 @@ excerpt: "Somehow, moon shots are now selling Cadillacs."
 date: 2014-01-12 17:04:59
 modified: 2014-01-12 17:04:59
 permalink: 2014/01/12/shoot-the-moon/index.html
-tags: ["So It Goes", "Youtubery"]
 featured_img: 
 wpid: 1478
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _oembed_a5cf91790ab717ae4aa5b9236422ede1: '{{unknown}}'
+  _oembed_edd5f6fe995feb1dcc2e404c35f1ac07: <iframe title="Chang&#039;E 3 landing on
+    the Moon in full HD video" width="500" height="281" src="https://www.youtube.com/embed/XNAGFTRvgDY?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_edd5f6fe995feb1dcc2e404c35f1ac07: 1679099443
+  
+  
+taxonomy_terms_all: ["So It Goes", "Youtubery"]
+post_tag: []
+category: ["So It Goes", "Youtubery"]
+tags: post
 ---
 
 # Shoot the Moon

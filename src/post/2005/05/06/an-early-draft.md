@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-05-06 16:37:00
 modified: 2005-05-06 16:37:00
 permalink: 2005/05/06/an-early-draft/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 765
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # An Early Draft

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-30 23:39:22
 modified: 2007-05-30 23:39:22
 permalink: 2007/05/30/update-2/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 371
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Update

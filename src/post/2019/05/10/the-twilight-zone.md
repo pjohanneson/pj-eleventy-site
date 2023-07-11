@@ -5,9 +5,18 @@ excerpt: "As you know, Harold, exposition requires a light touch."
 date: 2019-05-10 01:15:33
 modified: 2019-05-10 01:15:33
 permalink: 2019/05/09/the-twilight-zone/index.html
-tags: ["Idiot Box", "Reviews", "Writing"]
 featured_img: 
 wpid: 3289
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Idiot Box", "Reviews", "Writing"]
+post_tag: []
+category: ["Idiot Box", "Reviews", "Writing"]
+tags: post
 ---
 
 # The Twilight Zone

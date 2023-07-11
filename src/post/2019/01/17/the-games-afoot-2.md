@@ -5,9 +5,19 @@ excerpt: "An ineffable game, no less."
 date: 2019-01-17 14:15:52
 modified: 2019-01-17 14:15:52
 permalink: 2019/01/17/the-games-afoot-2/index.html
-tags: ["Throwback Thursday", "Amusing", "Books"]
 featured_img: 
 wpid: 3130
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3131
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Throwback Thursday", "Amusing", "Books"]
+post_tag: ["Throwback Thursday"]
+category: ["Amusing", "Books"]
+tags: post
 ---
 
 # The game&#8217;s afoot

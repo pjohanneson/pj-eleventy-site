@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-02-04 22:08:48
 modified: 2007-02-04 22:08:48
 permalink: 2007/02/04/another-brick-in-the-wall-flickrblogging-3459/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 326
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Another Brick in the Wall (flickrblogging &#8212; 3459)

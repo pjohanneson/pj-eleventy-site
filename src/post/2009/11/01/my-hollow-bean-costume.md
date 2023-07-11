@@ -5,9 +5,16 @@ excerpt: "Why my wife laughed and laughed and laughed, until I put my pants back
 date: 2009-11-01 17:43:12
 modified: 2009-11-01 17:43:12
 permalink: 2009/11/01/my-hollow-bean-costume/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 642
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # My Hollow Bean costume

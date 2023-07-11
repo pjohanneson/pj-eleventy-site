@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-06-13 03:31:40
 modified: 2008-06-13 03:31:40
 permalink: 2008/06/12/my-category-5-post/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 433
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # My Category 5 post

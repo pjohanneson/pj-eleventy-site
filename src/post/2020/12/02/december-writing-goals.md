@@ -5,9 +5,21 @@ excerpt: "Write faster, Johanneson."
 date: 2020-12-02 00:00:57
 modified: 2020-12-02 00:00:57
 permalink: 2020/12/01/december-writing-goals/index.html
-tags: ["How It Is Already December?", "Writing"]
 featured_img: 
 wpid: 4405
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _last_editor_used_jetpack: block-editor
+  _edit_last: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 3187
+  
+  
+taxonomy_terms_all: ["How It Is Already December?", "Writing"]
+post_tag: ["How It Is Already December?"]
+category: ["Writing"]
+tags: post
 ---
 
 # December writing goals

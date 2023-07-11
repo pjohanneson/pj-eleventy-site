@@ -5,9 +5,19 @@ excerpt: "It&amp;#8217;s nice that such scenery is available within riding dista
 date: 2019-06-26 02:53:52
 modified: 2019-06-26 02:53:52
 permalink: 2019/06/25/bike-ride-3/index.html
-tags: ["Bdnmb", "Bike Ride", "Westman", "Photos"]
 featured_img: 
 wpid: 3393
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3390
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bdnmb", "Bike Ride", "Westman", "Photos"]
+post_tag: ["Bdnmb", "Bike Ride", "Westman"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike ride

@@ -5,9 +5,20 @@ excerpt: "After dark."
 date: 2020-09-18 16:27:58
 modified: 2020-09-18 16:27:58
 permalink: 2020/09/18/clear-skies-at-the-farm/index.html
-tags: ["Astrophotography", "Halfway Tree", "Milky Way", "Visiting Family", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4263
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4258
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Halfway Tree", "Milky Way", "Visiting Family", "Photos", "So It Goes"]
+post_tag: ["Astrophotography", "Halfway Tree", "Milky Way", "Visiting Family"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Clear skies at the farm

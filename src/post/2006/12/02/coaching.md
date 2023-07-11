@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-02 04:45:28
 modified: 2006-12-02 04:45:28
 permalink: 2006/12/01/coaching/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 307
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Coaching

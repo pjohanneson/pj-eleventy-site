@@ -5,9 +5,18 @@ excerpt: "Pick a book, check the total num­ber of pages, and divide by φ (aka 
 date: 2013-03-29 19:46:54
 modified: 2013-03-29 19:46:54
 permalink: 2013/03/29/the-golden-sentence/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 1212
+all_meta: 
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # The Golden Sentence

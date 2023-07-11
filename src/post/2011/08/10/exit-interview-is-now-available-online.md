@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-08-10 11:39:09
 modified: 2011-08-10 11:39:09
 permalink: 2011/08/10/exit-interview-is-now-available-online/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 884
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # &#8220;Exit Interview&#8221; is now available online

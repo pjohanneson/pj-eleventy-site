@@ -5,9 +5,19 @@ excerpt: "I did not expect that."
 date: 2018-11-27 18:31:22
 modified: 2018-11-27 18:31:22
 permalink: 2018/11/27/sunday-morning-police-blotter/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3027
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3030
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Sunday morning police blotter

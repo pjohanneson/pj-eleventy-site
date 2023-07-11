@@ -14,3 +14,4 @@ Convert my site to Eleventy.
 
 - Snarfing WordPress posts: https://stevenwoodson.com/blog/pulling-wordpress-content-into-eleventy/
 - Image handling: https://www.aleksandrhovhannisyan.com/blog/eleventy-image-plugin/
+- Mobile hamburger menu: https://alvarotrigo.com/blog/hamburger-menu-css-responsive/

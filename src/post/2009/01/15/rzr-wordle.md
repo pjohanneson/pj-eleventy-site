@@ -5,9 +5,18 @@ excerpt: ""
 date: 2009-01-15 23:15:47
 modified: 2009-01-15 23:15:47
 permalink: 2009/01/15/rzr-wordle/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 541
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # RZR wordle

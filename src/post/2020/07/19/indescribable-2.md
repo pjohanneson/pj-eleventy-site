@@ -5,9 +5,18 @@ excerpt: "Some things just can&amp;#8217;t be described, I guess."
 date: 2020-07-19 02:13:25
 modified: 2020-07-19 02:13:25
 permalink: 2020/07/18/indescribable-2/index.html
-tags: ["Amusing", "So It Goes", "Writing"]
 featured_img: 
 wpid: 4080
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4079
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes", "Writing"]
+post_tag: []
+category: ["Amusing", "So It Goes", "Writing"]
+tags: post
 ---
 
 # Indescribable

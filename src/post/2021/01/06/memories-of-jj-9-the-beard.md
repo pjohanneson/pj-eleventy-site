@@ -5,9 +5,21 @@ excerpt: "I mean&amp;#8230;"
 date: 2021-01-06 15:45:00
 modified: 2021-01-06 15:45:00
 permalink: 2021/01/06/memories-of-jj-9-the-beard/index.html
-tags: ["JJ"]
 featured_img: 
 wpid: 4510
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _thumbnail_id: 4514
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["JJ"]
+post_tag: []
+category: ["JJ"]
+tags: post
 ---
 
 # Memories of JJ, 9: The Beard

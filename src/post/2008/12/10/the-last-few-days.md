@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-10 04:29:50
 modified: 2008-12-10 04:29:50
 permalink: 2008/12/09/the-last-few-days/index.html
-tags: ["Life", "Movies", "Reviews", "Rockin' Out", "Writing"]
 featured_img: 
 wpid: 498
+taxonomy_terms_all: ["Life", "Movies", "Reviews", "Rockin' Out", "Writing"]
+post_tag: []
+category: ["Life", "Movies", "Reviews", "Rockin' Out", "Writing"]
+tags: post
 ---
 
 # The last few days

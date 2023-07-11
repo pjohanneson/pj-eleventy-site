@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-05-25 23:21:36
 modified: 2009-05-25 23:21:36
 permalink: 2009/05/25/two-in-a-week/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 596
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Two in a week

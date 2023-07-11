@@ -5,9 +5,27 @@ excerpt: "…seven for a secret that&amp;#8217;s never been told."
 date: 2022-09-26 02:05:38
 modified: 2022-09-26 02:05:38
 permalink: 2022/09/25/blackbirds-in-my-yard/index.html
-tags: ["Blackbirds", "Photos"]
 featured_img: 
 wpid: 5685
+all_meta: 
+  _wpas_skip_5318444: 1
+  _wpas_skip_24701283: 1
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/109062255247213634
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/09/IMG_4637-2000.jpg
+  _webdados_fb_open_graph_specific_description: Count the secrets
+  
+  
+taxonomy_terms_all: ["Blackbirds", "Photos"]
+post_tag: ["Blackbirds"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Blackbirds in my yard

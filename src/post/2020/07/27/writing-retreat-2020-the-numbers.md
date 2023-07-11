@@ -5,9 +5,20 @@ excerpt: "How&amp;#8217;d I do?"
 date: 2020-07-27 14:45:13
 modified: 2020-07-27 14:45:13
 permalink: 2020/07/27/writing-retreat-2020-the-numbers/index.html
-tags: ["Astrophotography", "Bike Ride", "Kayak", "Landscape", "Manitoba", "Photography", "Prairies", "Prairiesf", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 4154
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4107
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Bike Ride", "Kayak", "Landscape", "Manitoba", "Photography", "Prairies", "Prairiesf", "Writing", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Bike Ride", "Kayak", "Landscape", "Manitoba", "Photography", "Prairies", "Prairiesf", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020: The Numbers

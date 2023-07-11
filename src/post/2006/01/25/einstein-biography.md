@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-25 01:56:33
 modified: 2006-01-25 01:56:33
 permalink: 2006/01/24/einstein-biography/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 142
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Einstein biography for $3

@@ -5,9 +5,22 @@ excerpt: "A noir set in 1970s Mexico City."
 date: 2021-09-20 01:10:54
 modified: 2021-09-20 01:10:54
 permalink: 2021/09/19/review-velvet-was-the-night/index.html
-tags: ["Noir", "Review", "Silvia Moreno-garcia", "Velvet Was The Night", "Reviews"]
 featured_img: 
 wpid: 5083
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 5084
+  _wpas_mess: 'Velvet Was the Night: a noir set in 1970s Mexico City'
+  
+  
+taxonomy_terms_all: ["Noir", "Review", "Silvia Moreno-garcia", "Velvet Was The Night", "Reviews"]
+post_tag: ["Noir", "Review", "Silvia Moreno-garcia", "Velvet Was The Night"]
+category: ["Reviews"]
+tags: post
 ---
 
 # Review: Velvet Was the Night

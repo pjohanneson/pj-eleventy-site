@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-12-22 04:47:36
 modified: 2007-12-22 04:47:36
 permalink: 2007/12/21/winter-wonders/index.html
-tags: ["Life", "Photos", "Weather"]
 featured_img: 
 wpid: 402
+taxonomy_terms_all: ["Life", "Photos", "Weather"]
+post_tag: []
+category: ["Life", "Photos", "Weather"]
+tags: post
 ---
 
 # Winter Wonders

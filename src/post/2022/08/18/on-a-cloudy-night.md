@@ -5,9 +5,27 @@ excerpt: "Lightning, Jupiter, and some rather occluded aurora."
 date: 2022-08-18 15:15:14
 modified: 2022-08-18 15:15:14
 permalink: 2022/08/18/on-a-cloudy-night/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Clouds", "Jupiter", "Lightning", "Photos"]
 featured_img: 
 wpid: 5562
+all_meta: 
+  _last_editor_used_jetpack: block-editor
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/08/IMG_0869-2000.jpg
+  _webdados_fb_open_graph_specific_description: Lightning, Jupiter, and some rather
+    occluded aurora.
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108844529771086766
+  swanwick_fake_thumbnail_id: 5563
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Clouds", "Jupiter", "Lightning", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis", "Clouds", "Jupiter", "Lightning"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # On a cloudy night

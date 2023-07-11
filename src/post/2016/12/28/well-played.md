@@ -5,9 +5,17 @@ excerpt: ""
 date: 2016-12-28 20:15:30
 modified: 2016-12-28 20:15:30
 permalink: 2016/12/28/well-played/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 2107
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # Well played 

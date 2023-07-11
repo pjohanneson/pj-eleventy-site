@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-07-03 20:14:49
 modified: 2011-07-03 20:14:49
 permalink: 2011/07/03/fireworks/index.html
-tags: ["Flickrblogging", "Patriotic? Me?", "Photos"]
 featured_img: 
 wpid: 874
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Patriotic? Me?", "Photos"]
+post_tag: []
+category: ["Flickrblogging", "Patriotic? Me?", "Photos"]
+tags: post
 ---
 
 # Fireworks

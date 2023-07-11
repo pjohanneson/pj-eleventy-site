@@ -5,9 +5,19 @@ excerpt: "Building worlds, man, it&amp;#8217;s not as easy as it looks."
 date: 2013-08-14 23:05:25
 modified: 2013-08-14 23:05:25
 permalink: 2013/08/14/world-building/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 1386
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  epigraph: '"As you know, Bob, a good expository info-dump stops a story cold."'
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # World-building

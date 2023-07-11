@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-15 03:37:59
 modified: 2007-03-15 03:37:59
 permalink: 2007/03/14/ficlets/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 339
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Ficlets

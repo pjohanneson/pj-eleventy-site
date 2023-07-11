@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-10 14:17:14
 modified: 2008-12-10 14:17:14
 permalink: 2008/12/10/godspeed-grandma-j/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 500
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Godspeed, Grandma J

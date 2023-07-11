@@ -5,7 +5,6 @@ excerpt: "&amp;#8220;All maps are wrong. If the [enemies] come, they will be los
 date: 2023-02-27 02:51:00
 modified: 2023-02-27 02:51:00
 permalink: 2023/02/26/the-land-across/index.html
-tags: ["Gene Wolfe", "Needs A Re-read", "Books", "Reviews"]
 featured_img: 
 wpid: 6005
 all_meta: 
@@ -41,6 +40,10 @@ all_meta:
   - "1"
   
   
+taxonomy_terms_all: ["Gene Wolfe", "Needs A Re-read", "Books", "Reviews"]
+post_tag: ["Gene Wolfe", "Needs A Re-read"]
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # The Land Across

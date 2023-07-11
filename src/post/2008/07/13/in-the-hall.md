@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-07-13 03:01:12
 modified: 2008-07-13 03:01:12
 permalink: 2008/07/12/in-the-hall/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 436
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # In the hall of the awesome king

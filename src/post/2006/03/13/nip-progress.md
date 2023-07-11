@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-13 04:26:53
 modified: 2006-03-13 04:26:53
 permalink: 2006/03/12/nip-progress/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 181
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # NiP Progress

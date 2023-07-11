@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-26 13:51:39
 modified: 2006-01-26 13:51:39
 permalink: 2006/01/26/birthday-fun-2/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 144
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Birthday fun

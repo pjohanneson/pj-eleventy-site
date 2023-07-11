@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-14 02:03:42
 modified: 2006-01-14 02:03:42
 permalink: 2006/01/13/happy-b-day/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 125
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Happy B-Day&#8230;

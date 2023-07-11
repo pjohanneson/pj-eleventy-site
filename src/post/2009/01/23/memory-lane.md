@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-01-23 13:13:08
 modified: 2009-01-23 13:13:08
 permalink: 2009/01/23/memory-lane/index.html
-tags: ["Flickrblogging", "Lego", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 549
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Lego", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Flickrblogging", "Lego", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Memory lane

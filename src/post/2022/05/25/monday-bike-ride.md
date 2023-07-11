@@ -5,9 +5,25 @@ excerpt: "Bikin&amp;#8217; &amp;#8217;round town."
 date: 2022-05-25 02:32:00
 modified: 2022-05-25 02:32:00
 permalink: 2022/05/24/monday-bike-ride/index.html
-tags: ["Photos", "Photos"]
 featured_img: 
 wpid: 5417
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_mess: Click through for more photos.
+  _wpas_feature_enabled: 1
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/05/IMG_8282-2000.jpg
+  _wp_old_date: "2022-05-28"
+  
+  
+taxonomy_terms_all: ["Photos", "Photos"]
+post_tag: ["Photos"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Monday bike ride

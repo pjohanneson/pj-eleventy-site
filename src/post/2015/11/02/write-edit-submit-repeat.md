@@ -5,9 +5,20 @@ excerpt: "Speak, Huginn, speak, Muninn; bring me tales of the wide world.  &amp;
 date: 2015-11-02 04:20:23
 modified: 2015-11-02 04:20:23
 permalink: 2015/11/01/write-edit-submit-repeat/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1813
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  epigraph: Yank not my chain, hrafn.
+  epigraph_citation: "\xD3\xF0inn"
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Write, edit, submit, repeat

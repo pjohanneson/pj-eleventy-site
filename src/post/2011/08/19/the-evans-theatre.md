@@ -5,9 +5,16 @@ excerpt: "I&amp;#8217;ve been webmonkeyin&amp;#8217; again."
 date: 2011-08-19 03:46:14
 modified: 2011-08-19 03:46:14
 permalink: 2011/08/18/the-evans-theatre/index.html
-tags: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 888
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: []
+category: ["Movies", "Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # The Evans Theatre

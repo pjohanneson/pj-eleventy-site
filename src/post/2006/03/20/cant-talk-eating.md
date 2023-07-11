@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-20 22:15:50
 modified: 2006-03-20 22:15:50
 permalink: 2006/03/20/cant-talk-eating/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 187
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Can&#8217;t Talk.  Eating.

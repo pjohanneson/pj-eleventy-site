@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-11-21 02:38:17
 modified: 2008-11-21 02:38:17
 permalink: 2008/11/20/music-im-enjoying-tonight/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 471
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Music I&#8217;m enjoying tonight

@@ -5,9 +5,20 @@ excerpt: "The sun shines on everything."
 date: 2020-08-27 12:48:40
 modified: 2020-08-27 12:48:40
 permalink: 2020/08/27/reflections-at-sunset/index.html
-tags: ["Moon", "Prairie", "Sunset", "Photos"]
 featured_img: 
 wpid: 4218
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4219
+  
+  
+taxonomy_terms_all: ["Moon", "Prairie", "Sunset", "Photos"]
+post_tag: ["Moon", "Prairie", "Sunset"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Reflections at Sunset

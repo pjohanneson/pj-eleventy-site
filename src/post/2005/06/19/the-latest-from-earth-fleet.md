@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-06-19 00:33:00
 modified: 2005-06-19 00:33:00
 permalink: 2005/06/18/the-latest-from-earth-fleet/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 38
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The latest from Earth Fleet

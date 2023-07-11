@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-05-25 13:29:06
 modified: 2011-05-25 13:29:06
 permalink: 2011/05/25/keycon-28-1/index.html
-tags: ["Books", "So It Goes", "Writing"]
 featured_img: 
 wpid: 865
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Books", "So It Goes", "Writing"]
+post_tag: []
+category: ["Books", "So It Goes", "Writing"]
+tags: post
 ---
 
 # Keycon 28 (1)

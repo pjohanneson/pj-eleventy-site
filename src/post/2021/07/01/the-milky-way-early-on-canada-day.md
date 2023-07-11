@@ -5,9 +5,24 @@ excerpt: "July 1st, but only just."
 date: 2021-07-01 17:25:53
 modified: 2021-07-01 17:25:53
 permalink: 2021/07/01/the-milky-way-early-on-canada-day/index.html
-tags: ["Astrophotography", "Country Roads", "Galaxy", "Milky Way", "Photos"]
 featured_img: 
 wpid: 4919
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4916
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/07/IMG_0233-2000.jpg
+  _webdados_fb_open_graph_specific_description: Very, very early on July 1st.
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Country Roads", "Galaxy", "Milky Way", "Photos"]
+post_tag: ["Astrophotography", "Country Roads", "Galaxy", "Milky Way"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Milky Way, early on Canada Day

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-16 03:16:43
 modified: 2006-06-16 03:16:43
 permalink: 2006/06/15/lego-car/index.html
-tags: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 253
+taxonomy_terms_all: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Lego car

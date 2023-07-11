@@ -5,9 +5,19 @@ excerpt: "They turned out all right."
 date: 2018-11-18 16:34:58
 modified: 2018-11-18 16:34:58
 permalink: 2018/11/18/star-trails-through-the-haze/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3011
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3009
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Star trails, through the haze

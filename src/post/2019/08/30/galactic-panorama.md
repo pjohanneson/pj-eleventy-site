@@ -5,9 +5,19 @@ excerpt: "On a clear night you can see forever."
 date: 2019-08-30 13:18:35
 modified: 2019-08-30 13:18:35
 permalink: 2019/08/30/galactic-panorama/index.html
-tags: ["Astrophotography", "Milky Way", "Star Trails", "Photos"]
 featured_img: 
 wpid: 3505
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3504
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Milky Way", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Galactic panorama

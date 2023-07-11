@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-07 14:00:53
 modified: 2008-03-07 14:00:53
 permalink: 2008/03/07/provincial-shiai/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 414
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Provincial shiai

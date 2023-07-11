@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-19 00:11:00
 modified: 2005-07-19 00:11:00
 permalink: 2005/07/18/canada-post-and-library-books/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 51
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Canada Post and Library Books

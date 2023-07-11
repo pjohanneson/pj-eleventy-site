@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-07-09 17:25:03
 modified: 2012-07-09 17:25:03
 permalink: 2012/07/09/snippet/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1096
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Snippet

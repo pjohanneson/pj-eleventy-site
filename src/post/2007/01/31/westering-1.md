@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-31 23:03:29
 modified: 2007-01-31 23:03:29
 permalink: 2007/01/31/westering-1/index.html
-tags: ["Life", "Travel"]
 featured_img: 
 wpid: 323
+taxonomy_terms_all: ["Life", "Travel"]
+post_tag: []
+category: ["Life", "Travel"]
+tags: post
 ---
 
 # Westering (1)

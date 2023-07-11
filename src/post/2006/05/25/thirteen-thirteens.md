@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-25 12:42:01
 modified: 2006-05-25 12:42:01
 permalink: 2006/05/25/thirteen-thirteens/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 234
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Thirteen thirteens

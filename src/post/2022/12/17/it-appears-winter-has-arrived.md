@@ -5,9 +5,26 @@ excerpt: "Snow under a blue sky."
 date: 2022-12-17 21:45:19
 modified: 2022-12-17 21:45:19
 permalink: 2022/12/17/it-appears-winter-has-arrived/index.html
-tags: ["Snow", "Sundogs", "Photos"]
 featured_img: 
 wpid: 5757
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5762
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mstdn.ca/@pjohanneson/109531203435556041
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  
+  
+taxonomy_terms_all: ["Snow", "Sundogs", "Photos"]
+post_tag: ["Snow", "Sundogs"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # It appears winter has arrived

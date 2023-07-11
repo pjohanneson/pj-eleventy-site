@@ -5,7 +5,6 @@ excerpt: "It looks colder than it was, honestly."
 date: 2023-01-03 23:20:28
 modified: 2023-01-03 23:20:28
 permalink: 2023/01/03/frosty-at-noon/index.html
-tags: ["Blue Sky", "Winter", "Photos"]
 featured_img: 
 wpid: 5775
 all_meta: 
@@ -47,6 +46,11 @@ all_meta:
   - "5777"
   
   
+taxonomy_terms_all: ["Blue Sky", "Winter", "Photos"]
+post_tag: ["Blue Sky", "Winter"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Frosty at noon

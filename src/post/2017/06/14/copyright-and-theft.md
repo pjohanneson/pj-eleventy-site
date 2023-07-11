@@ -5,9 +5,19 @@ excerpt: ""
 date: 2017-06-14 17:33:42
 modified: 2017-06-14 17:33:42
 permalink: 2017/06/14/copyright-and-theft/index.html
-tags: ["Canada", "Copyright", "Medium", "University", "Writing"]
 featured_img: 
 wpid: 2341
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  incom_status: default
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Canada", "Copyright", "Medium", "University", "Writing"]
+post_tag: ["Canada", "Copyright", "Medium", "University"]
+category: ["Writing"]
+tags: post
 ---
 
 # Copyright and Theft

@@ -5,9 +5,33 @@ excerpt: "Some of the things I do as I write a story."
 date: 2020-06-25 01:32:38
 modified: 2020-06-25 01:32:38
 permalink: 2020/06/24/who-is-the-black-beast/index.html
-tags: ["Fiction", "Michael Swanwick", "Palimpsests", "Pastiche", "Poetry", "Short Story", "Ted Hughes", "Writing"]
 featured_img: 
 wpid: 4000
+all_meta: 
+  _wpcom_is_markdown: 1
+  _oembed_6c6e490abc008f9ecc81b4f6f0002752: <blockquote class="twitter-tweet" data-width="550"
+    data-dnt="true"><p lang="en" dir="ltr">If it helps, that chapter was inspired by
+    a poem in Ted Hughes&#39; collection CROW.</p>&mdash; Michael Swanwick (@MichaelSwanwick)
+    <a href="https://twitter.com/MichaelSwanwick/status/1205569895674589184?ref_src=twsrc%5Etfw">December
+    13, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js"
+    charset="utf-8"></script>
+  _oembed_time_6c6e490abc008f9ecc81b4f6f0002752: 1593048261
+  _wpas_done_all: 1
+  _thumbnail_id: 3888
+  _oembed_12bb1d0d8d73627ba45fb4488bf018da: <blockquote class="twitter-tweet" data-width="500"
+    data-dnt="true"><p lang="en" dir="ltr">If it helps, that chapter was inspired by
+    a poem in Ted Hughes&#39; collection CROW.</p>&mdash; Michael Swanwick (@MichaelSwanwick)
+    <a href="https://twitter.com/MichaelSwanwick/status/1205569895674589184?ref_src=twsrc%5Etfw">December
+    13, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js"
+    charset="utf-8"></script>
+  _oembed_time_12bb1d0d8d73627ba45fb4488bf018da: 1679099444
+  
+  
+taxonomy_terms_all: ["Fiction", "Michael Swanwick", "Palimpsests", "Pastiche", "Poetry", "Short Story", "Ted Hughes", "Writing"]
+post_tag: ["Fiction", "Michael Swanwick", "Palimpsests", "Pastiche", "Poetry", "Short Story", "Ted Hughes"]
+category: ["Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Who is the Black Beast?

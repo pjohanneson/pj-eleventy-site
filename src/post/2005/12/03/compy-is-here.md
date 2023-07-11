@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-12-03 13:37:00
 modified: 2005-12-03 13:37:00
 permalink: 2005/12/03/compy-is-here/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 115
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Compy is here

@@ -5,9 +5,24 @@ excerpt: "Even at night, the sun can shine."
 date: 2020-09-30 17:49:36
 modified: 2020-09-30 17:49:36
 permalink: 2020/09/30/autumn-aurora/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Moonlight", "Photos"]
 featured_img: 
 wpid: 4310
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4313
+  _wpas_done_all: 1
+  _oembed_342e2978da2aca1f3f0c6c9d5e98f413: <iframe title="Aurora Borealis" src="https://player.vimeo.com/video/463529470?h=e98a20b507&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_342e2978da2aca1f3f0c6c9d5e98f413: 1679099444
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Moonlight", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis", "Moonlight"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Autumn Aurora

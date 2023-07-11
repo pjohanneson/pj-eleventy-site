@@ -5,9 +5,33 @@ excerpt: "Cataloguing the monsters, ghouls, zombies, and parkas that asked me fo
 date: 2014-11-01 15:36:15
 modified: 2014-11-01 15:36:15
 permalink: 2014/11/01/the-halloween-tally/index.html
-tags: ["Hallowe'en", "Flickrblogging", "So It Goes"]
 featured_img: 
 wpid: 1599
+all_meta: 
+  _wpcom_is_markdown: 1
+  _sd_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_0901ff4f596d6de44434917629de2b11: <a href="https://www.flickr.com/photos/pj/15497279730/"><img
+    src="https://farm4.staticflickr.com/3937/15497279730_59c1f62205_z.jpg" alt="Hallowe&#039;en
+    tally" width="480" height="640" /></a>
+  _oembed_time_0901ff4f596d6de44434917629de2b11: 1415119043
+  _oembed_9414be9a92f8a06d96924555ed170436: '{{unknown}}'
+  _oembed_a71f193e4e7730e91679f2f459315f3b: <a href="https://www.flickr.com/photos/pj/15497279730/"><img
+    src="https://live.staticflickr.com/3937/15497279730_59c1f62205_z.jpg" alt="Hallowe&#039;en
+    tally" width="480" height="640" /></a>
+  _oembed_time_a71f193e4e7730e91679f2f459315f3b: 1679099441
+  _oembed_0b36fdec4fdaaf6c21cb48f830c3b8c6: <iframe title="Wunderbar Vikings - WUNDERBAR!"
+    width="500" height="375" src="https://www.youtube.com/embed/fYsx_EqIPG0?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_0b36fdec4fdaaf6c21cb48f830c3b8c6: 1679099442
+  
+  
+taxonomy_terms_all: ["Hallowe'en", "Flickrblogging", "So It Goes"]
+post_tag: ["Hallowe'en"]
+category: ["Flickrblogging", "So It Goes"]
+tags: post
 ---
 
 # The Hallowe&#8217;en Tally

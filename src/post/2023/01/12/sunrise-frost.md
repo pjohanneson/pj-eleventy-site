@@ -5,7 +5,6 @@ excerpt: "Photos from the outside world."
 date: 2023-01-12 20:07:19
 modified: 2023-01-12 20:07:19
 permalink: 2023/01/12/sunrise-frost/index.html
-tags: ["Winter", "Photos"]
 featured_img: 
 wpid: 5784
 all_meta: 
@@ -50,6 +49,11 @@ all_meta:
   - "1"
   
   
+taxonomy_terms_all: ["Winter", "Photos"]
+post_tag: ["Winter"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Sunrise; frost

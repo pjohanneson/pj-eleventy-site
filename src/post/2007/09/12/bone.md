@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-12 02:34:19
 modified: 2007-09-12 02:34:19
 permalink: 2007/09/11/bone/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 388
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Bone

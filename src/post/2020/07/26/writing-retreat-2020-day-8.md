@@ -5,9 +5,20 @@ excerpt: "It&amp;#8217;s been a great week."
 date: 2020-07-26 16:53:28
 modified: 2020-07-26 16:53:28
 permalink: 2020/07/26/writing-retreat-2020-day-8/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 4148
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4147
+  _wpas_mess: The last full day of my retreat.
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat 2020, Day 8

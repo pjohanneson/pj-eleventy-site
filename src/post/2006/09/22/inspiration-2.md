@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-22 01:22:41
 modified: 2006-09-22 01:22:41
 permalink: 2006/09/21/inspiration-2/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 289
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Inspiration

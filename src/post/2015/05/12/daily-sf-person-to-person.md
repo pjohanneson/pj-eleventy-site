@@ -5,9 +5,19 @@ excerpt: "Jake called from Heaven again."
 date: 2015-05-12 13:53:02
 modified: 2015-05-12 13:53:02
 permalink: 2015/05/12/daily-sf-person-to-person/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1713
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Daily SF: &#8220;Person to Person&#8221;

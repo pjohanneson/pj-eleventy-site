@@ -5,9 +5,17 @@ excerpt: ""
 date: 2012-05-01 22:39:42
 modified: 2012-05-01 22:39:42
 permalink: 2012/05/01/moving-home/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 990
+all_meta: 
+  _edit_last: 1
+  _wp_old_slug: moving-hom
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Moving Home

@@ -5,9 +5,24 @@ excerpt: "Some flowers, some flooding, and a faded logo."
 date: 2022-05-29 02:40:09
 modified: 2022-05-29 02:40:09
 permalink: 2022/05/28/saturday-snaps/index.html
-tags: ["Dandelions", "Flood", "MTS", "Puddles", "Photos"]
 featured_img: 
 wpid: 5419
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_mess: Today's ride; click through for more photos
+  _wpas_feature_enabled: 1
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/05/IMG_8282-2000.jpg
+  
+  
+taxonomy_terms_all: ["Dandelions", "Flood", "MTS", "Puddles", "Photos"]
+post_tag: ["Dandelions", "Flood", "MTS", "Puddles"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Saturday snaps

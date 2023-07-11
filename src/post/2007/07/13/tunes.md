@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-13 17:00:51
 modified: 2007-07-13 17:00:51
 permalink: 2007/07/13/tunes/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 377
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # Tunes

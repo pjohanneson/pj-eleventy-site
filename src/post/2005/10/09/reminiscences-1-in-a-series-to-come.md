@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-09 18:47:00
 modified: 2005-10-09 18:47:00
 permalink: 2005/10/09/reminiscences-1-in-a-series-to-come/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 98
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Reminiscences (#1 in a series to come)

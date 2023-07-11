@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-03 02:34:00
 modified: 2005-08-03 02:34:00
 permalink: 2005/08/02/the-wedding/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 62
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The wedding

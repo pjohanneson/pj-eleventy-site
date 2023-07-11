@@ -5,9 +5,28 @@ excerpt: "More hoarfrost photos? More hoarfrost photos."
 date: 2021-01-09 19:26:22
 modified: 2021-01-09 19:26:22
 permalink: 2021/01/09/even-frostier/index.html
-tags: ["Frost", "Photos"]
 featured_img: 
 wpid: 4543
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/01/IMG_9497-2000.jpg
+  _webdados_fb_open_graph_specific_description: Another day, another set of hoarfrost
+    photos.
+  _wpas_done_all: 1
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mstdn.ca/@pjohanneson/109695673226496033
+  
+  
+taxonomy_terms_all: ["Frost", "Photos"]
+post_tag: ["Frost"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Even frostier

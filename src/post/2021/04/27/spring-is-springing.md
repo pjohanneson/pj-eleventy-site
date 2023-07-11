@@ -5,9 +5,22 @@ excerpt: "Buds on the trees."
 date: 2021-04-27 17:55:15
 modified: 2021-04-27 17:55:15
 permalink: 2021/04/27/spring-is-springing/index.html
-tags: ["Spring", "Photos"]
 featured_img: 
 wpid: 4805
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4803
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Spring", "Photos"]
+post_tag: ["Spring"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Spring is springing

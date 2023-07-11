@@ -5,9 +5,18 @@ excerpt: "Don&amp;#8217;t try this at home."
 date: 2013-06-26 23:00:51
 modified: 2013-06-26 23:00:51
 permalink: 2013/06/26/things-i-never-want-to-do-again/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1335
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Things I never want to do again

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-05-28 01:47:00
 modified: 2005-05-28 01:47:00
 permalink: 2005/05/27/first-draft/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 34
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # First Draft

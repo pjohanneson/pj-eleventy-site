@@ -5,9 +5,20 @@ excerpt: "Thanks for everything, Dad."
 date: 2017-01-06 16:19:54
 modified: 2017-01-06 16:19:54
 permalink: 2017/01/06/jim-johanneson/index.html
-tags: ["Life", "Photos", "So It Goes"]
 featured_img: 
 wpid: 2113
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2114
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Life", "Photos", "So It Goes"]
+post_tag: []
+category: ["Life", "Photos", "So It Goes"]
+tags: post
 ---
 
 # Jim Johanneson

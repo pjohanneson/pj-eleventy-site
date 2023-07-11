@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-09-10 02:05:51
 modified: 2012-09-10 02:05:51
 permalink: 2012/09/09/some-terminology/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1117
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Some terminology

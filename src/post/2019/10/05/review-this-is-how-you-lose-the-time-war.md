@@ -5,9 +5,18 @@ excerpt: "A wild time-travel novella about two agents working on opposite sides 
 date: 2019-10-05 19:28:24
 modified: 2019-10-05 19:28:24
 permalink: 2019/10/05/review-this-is-how-you-lose-the-time-war/index.html
-tags: ["Reviews"]
 featured_img: 
 wpid: 3614
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3615
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Reviews"]
+post_tag: []
+category: ["Reviews"]
+tags: post
 ---
 
 # Review: This is How You Lose the Time War

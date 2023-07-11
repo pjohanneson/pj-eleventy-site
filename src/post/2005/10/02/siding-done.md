@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-02 14:58:00
 modified: 2005-10-02 14:58:00
 permalink: 2005/10/02/siding-done/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 94
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Siding (done)

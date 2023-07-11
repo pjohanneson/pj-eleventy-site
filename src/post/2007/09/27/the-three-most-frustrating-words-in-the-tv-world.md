@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-27 05:00:15
 modified: 2007-09-27 05:00:15
 permalink: 2007/09/27/the-three-most-frustrating-words-in-the-tv-world/index.html
-tags: ["Idiot Box", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 392
+taxonomy_terms_all: ["Idiot Box", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Idiot Box", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # The three most frustrating words in the TV world&#8230;

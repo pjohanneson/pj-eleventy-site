@@ -5,9 +5,16 @@ excerpt: "&amp;#8220;A beginning is the time for taking the most delicate care&a
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3973
+all_meta: 
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # A couple of beginnings

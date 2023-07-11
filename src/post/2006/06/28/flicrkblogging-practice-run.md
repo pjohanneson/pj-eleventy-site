@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-28 12:49:32
 modified: 2006-06-28 12:49:32
 permalink: 2006/06/28/flicrkblogging-practice-run/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 258
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flicrkblogging &#8212; Practice Run

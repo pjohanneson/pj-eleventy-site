@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-24 03:28:43
 modified: 2007-04-24 03:28:43
 permalink: 2007/04/23/remains-of-earth-day/index.html
-tags: ["Amusing", "Life"]
 featured_img: 
 wpid: 356
+taxonomy_terms_all: ["Amusing", "Life"]
+post_tag: []
+category: ["Amusing", "Life"]
+tags: post
 ---
 
 # Remains of Earth Day

@@ -5,9 +5,23 @@ excerpt: "Two very different movies."
 date: 2022-07-31 15:45:09
 modified: 2022-07-31 15:45:09
 permalink: 2022/07/31/michelle-yeoh-double-feature/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 5530
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108742726666734754
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5531
+  _edit_last: 1
+  _share_on_mastodon: 1
+  
+  
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Michelle Yeoh Double Feature

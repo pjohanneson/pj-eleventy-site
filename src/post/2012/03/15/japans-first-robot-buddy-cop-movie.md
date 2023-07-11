@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-03-15 22:18:38
 modified: 2012-03-15 22:18:38
 permalink: 2012/03/15/japans-first-robot-buddy-cop-movie/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "So It Goes", "Weird"]
 featured_img: 
 wpid: 968
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "So It Goes", "Weird"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "So It Goes", "Weird"]
+tags: post
 ---
 
 # &#8220;Japan&#8217;s first robot buddy cop movie&#8221;

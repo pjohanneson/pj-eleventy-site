@@ -5,9 +5,20 @@ excerpt: "A good start."
 date: 2020-07-20 03:27:54
 modified: 2020-07-20 03:27:54
 permalink: 2020/07/19/writing-retreat-2020-day-1-2/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 4094
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4091
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020, Day 1 &#038; 2

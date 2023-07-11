@@ -5,9 +5,23 @@ excerpt: "Photos from inside the house."
 date: 2022-08-03 22:40:06
 modified: 2022-08-03 22:40:06
 permalink: 2022/08/03/chez-nous/index.html
-tags: ["Coffee", "Percolator", "Photos"]
 featured_img: 
 wpid: 5550
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108761344503889218
+  
+  
+taxonomy_terms_all: ["Coffee", "Percolator", "Photos"]
+post_tag: ["Coffee", "Percolator"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Chez nous

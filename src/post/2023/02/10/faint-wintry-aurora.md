@@ -5,7 +5,6 @@ excerpt: "The camera sees more than the eye."
 date: 2023-02-10 04:20:26
 modified: 2023-02-10 04:20:26
 permalink: 2023/02/09/faint-wintry-aurora/index.html
-tags: ["Astrophotography", "Photos", "So It Goes"]
 featured_img: 
 wpid: 5801
 all_meta: 
@@ -57,10 +56,12 @@ all_meta:
   - "5802"
   - "5802"
   - "5802"
-  _pingme: 1
-  _encloseme: 1
   
   
+taxonomy_terms_all: ["Astrophotography", "Photos", "So It Goes"]
+post_tag: ["Astrophotography"]
+category: ["Photos", "So It Goes"]
+tags: post
 ---
 
 # Faint, wintry aurora

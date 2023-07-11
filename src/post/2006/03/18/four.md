@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-18 00:14:16
 modified: 2006-03-18 00:14:16
 permalink: 2006/03/17/four/index.html
-tags: ["Memes"]
 featured_img: 
 wpid: 185
+taxonomy_terms_all: ["Memes"]
+post_tag: []
+category: ["Memes"]
+tags: post
 ---
 
 # Four

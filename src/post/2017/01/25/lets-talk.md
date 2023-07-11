@@ -5,9 +5,25 @@ excerpt: "This is not a fun read."
 date: 2017-01-25 18:06:05
 modified: 2017-01-25 18:06:05
 permalink: 2017/01/25/lets-talk/index.html
-tags: ["Bellletstalk", "JJ", "So It Goes"]
 featured_img: 
 wpid: 2176
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2143
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  _oembed_7daf77152bcc1e6a090271f8a91d55a9: <iframe title="Pink Floyd  Keep Talking
+    Lyrics" width="500" height="281" src="https://www.youtube.com/embed/_qsPPIKjYRs?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_7daf77152bcc1e6a090271f8a91d55a9: 1679099440
+  
+  
+taxonomy_terms_all: ["Bellletstalk", "JJ", "So It Goes"]
+post_tag: ["Bellletstalk"]
+category: ["JJ", "So It Goes"]
+tags: post
 ---
 
 # Let&#8217;s Talk

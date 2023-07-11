@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-03 04:00:00
 modified: 2008-03-03 04:00:00
 permalink: 2008/03/02/flickrblogging-0463/index.html
-tags: ["Amusing", "Flickrblogging"]
 featured_img: 
 wpid: 413
+taxonomy_terms_all: ["Amusing", "Flickrblogging"]
+post_tag: []
+category: ["Amusing", "Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; 0463

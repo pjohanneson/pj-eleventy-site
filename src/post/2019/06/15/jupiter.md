@@ -5,9 +5,18 @@ excerpt: "&amp;#8230;from my back yard."
 date: 2019-06-15 23:51:47
 modified: 2019-06-15 23:51:47
 permalink: 2019/06/15/jupiter/index.html
-tags: ["Astrophotography", "Backyard", "Photos"]
 featured_img: 
 wpid: 3354
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3355
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Backyard", "Photos"]
+post_tag: ["Astrophotography", "Backyard"]
+category: ["Photos"]
+tags: post
 ---
 
 # Jupiter

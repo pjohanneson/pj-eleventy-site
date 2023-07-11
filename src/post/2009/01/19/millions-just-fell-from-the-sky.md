@@ -5,9 +5,20 @@ excerpt: ""
 date: 2009-01-19 02:14:46
 modified: 2009-01-19 02:14:46
 permalink: 2009/01/18/millions-just-fell-from-the-sky/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 547
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Millions just fell from the sky

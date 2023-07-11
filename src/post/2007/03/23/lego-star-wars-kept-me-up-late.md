@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-23 12:51:34
 modified: 2007-03-23 12:51:34
 permalink: 2007/03/23/lego-star-wars-kept-me-up-late/index.html
-tags: ["Life", "Movies", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 344
+taxonomy_terms_all: ["Life", "Movies", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Movies", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Lego Star Wars kept me up late

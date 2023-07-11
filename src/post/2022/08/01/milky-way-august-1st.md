@@ -5,9 +5,24 @@ excerpt: "The galaxy where we all reside."
 date: 2022-08-01 15:50:21
 modified: 2022-08-01 15:50:21
 permalink: 2022/08/01/milky-way-august-1st/index.html
-tags: ["Astrophotography", "Milky Way", "Photography", "Photos"]
 featured_img: 
 wpid: 5538
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/08/galaxy-pano-2000.jpg
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108748408501513942
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Photography", "Photos"]
+post_tag: ["Astrophotography", "Milky Way", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Milky Way: August 1st

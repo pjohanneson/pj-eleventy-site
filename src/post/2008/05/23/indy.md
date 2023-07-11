@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-05-23 04:15:02
 modified: 2008-05-23 04:15:02
 permalink: 2008/05/22/indy/index.html
-tags: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
 featured_img: 
 wpid: 430
+taxonomy_terms_all: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
+post_tag: []
+category: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
+tags: post
 ---
 
 # Indy

@@ -5,9 +5,20 @@ excerpt: "Some late-night outdoor photography."
 date: 2020-02-29 07:30:10
 modified: 2020-02-29 07:30:10
 permalink: 2020/02/29/thirty-minutes-aimed-south/index.html
-tags: ["Astrophotography", "Star Trails", "Photos"]
 featured_img: 
 wpid: 3797
+all_meta: 
+  _thumbnail_id: 3798
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Thirty minutes, aimed south

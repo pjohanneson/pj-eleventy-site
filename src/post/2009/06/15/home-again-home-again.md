@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-06-15 02:19:35
 modified: 2009-06-15 02:19:35
 permalink: 2009/06/14/home-again-home-again/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 601
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Home again, home again

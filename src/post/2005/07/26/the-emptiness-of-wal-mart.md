@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-26 21:52:00
 modified: 2005-07-26 21:52:00
 permalink: 2005/07/26/the-emptiness-of-wal-mart/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 58
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The Emptiness of Wal-Mart

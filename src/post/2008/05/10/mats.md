@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-05-10 23:44:00
 modified: 2008-05-10 23:44:00
 permalink: 2008/05/10/mats/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 427
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Mats

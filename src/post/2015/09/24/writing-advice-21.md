@@ -5,9 +5,18 @@ excerpt: "Make things change, forever."
 date: 2015-09-24 13:56:32
 modified: 2015-09-24 13:56:32
 permalink: 2015/09/24/writing-advice-21/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1795
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing Advice (no. 21 in a series of ∞)

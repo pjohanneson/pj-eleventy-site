@@ -5,9 +5,22 @@ excerpt: "It was cold, but worth it."
 date: 2020-12-14 06:15:43
 modified: 2020-12-14 06:15:43
 permalink: 2020/12/14/geminids-2020/index.html
-tags: ["Astrophotography", "Geminids", "Meteor Shower", "Meteors", "Photos"]
 featured_img: 
 wpid: 4442
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4441
+  _wpas_mess: So I managed to get a meteor on camera.
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Geminids", "Meteor Shower", "Meteors", "Photos"]
+post_tag: ["Astrophotography", "Geminids", "Meteor Shower", "Meteors"]
+category: ["Photos"]
+tags: post
 ---
 
 # Geminids 2020

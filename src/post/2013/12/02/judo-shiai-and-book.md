@@ -5,9 +5,18 @@ excerpt: ""
 date: 2013-12-02 23:11:39
 modified: 2013-12-02 23:11:39
 permalink: 2013/12/02/judo-shiai-and-book/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 1437
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # Judo: shiai and book

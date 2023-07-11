@@ -5,9 +5,19 @@ excerpt: "I think &amp;#8220;Vincent and Charlie&amp;#8221; is a good story. I h
 date: 2019-03-05 16:39:37
 modified: 2019-03-05 16:39:37
 permalink: 2019/03/05/aurora-awards/index.html
-tags: ["Aurora Awards", "Awards Season", "Prix Aurora", "Shameless Self-promotion", "Writing"]
 featured_img: 
 wpid: 3177
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2950
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Aurora Awards", "Awards Season", "Prix Aurora", "Shameless Self-promotion", "Writing"]
+post_tag: ["Aurora Awards", "Awards Season", "Prix Aurora", "Shameless Self-promotion"]
+category: ["Writing"]
+tags: post
 ---
 
 # Aurora Awards

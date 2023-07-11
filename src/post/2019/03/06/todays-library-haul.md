@@ -5,9 +5,18 @@ excerpt: "Three books I&amp;#8217;m very much looking forward to reading."
 date: 2019-03-06 02:33:50
 modified: 2019-03-06 02:33:50
 permalink: 2019/03/05/todays-library-haul/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 3181
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3180
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # Today&#8217;s library haul

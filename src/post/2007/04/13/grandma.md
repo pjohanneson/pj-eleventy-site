@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-13 12:51:36
 modified: 2007-04-13 12:51:36
 permalink: 2007/04/13/grandma/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 354
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Grandma

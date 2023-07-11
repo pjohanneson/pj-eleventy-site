@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-19 13:07:40
 modified: 2006-09-19 13:07:40
 permalink: 2006/09/19/another-snippet-from-salyx/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 288
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Another snippet from &#8220;Salyx&#8221;

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-11-10 03:34:43
 modified: 2006-11-10 03:34:43
 permalink: 2006/11/09/13-basslines/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 305
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # 13 basslines

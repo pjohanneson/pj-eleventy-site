@@ -5,9 +5,18 @@ excerpt: "Hope I didn&amp;#8217;t jinx anything."
 date: 2019-09-16 21:45:54
 modified: 2019-09-16 21:45:54
 permalink: 2019/09/16/first-line/index.html
-tags: ["Cancon", "I Mother Earth", "Parallel Prairies", "Writing"]
 featured_img: 
 wpid: 3516
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3517
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Cancon", "I Mother Earth", "Parallel Prairies", "Writing"]
+post_tag: ["Cancon", "I Mother Earth", "Parallel Prairies"]
+category: ["Writing"]
+tags: post
 ---
 
 # First line

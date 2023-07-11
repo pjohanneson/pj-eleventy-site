@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-12-07 02:57:32
 modified: 2007-12-07 02:57:32
 permalink: 2007/12/06/new-ficlet-jenny-who-is-a-dog/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 400
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # New ficlet &#8212; &#8220;Jenny, who is a dog&#8221;

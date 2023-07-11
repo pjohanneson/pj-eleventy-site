@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-10-06 02:13:45
 modified: 2008-10-06 02:13:45
 permalink: 2008/10/05/another-start/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 454
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # Another start

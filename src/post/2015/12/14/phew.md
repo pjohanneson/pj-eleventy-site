@@ -5,9 +5,18 @@ excerpt: "I think mine was 3.[mumble]. Ish."
 date: 2015-12-14 18:24:50
 modified: 2015-12-14 18:24:50
 permalink: 2015/12/14/phew/index.html
-tags: ["Amusing", "So It Goes"]
 featured_img: 
 wpid: 1832
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes"]
+post_tag: []
+category: ["Amusing", "So It Goes"]
+tags: post
 ---
 
 # Phew

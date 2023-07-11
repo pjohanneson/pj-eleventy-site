@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-19 22:43:00
 modified: 2005-10-19 22:43:00
 permalink: 2005/10/19/my-first-meme/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 101
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # My First Meme

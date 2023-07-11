@@ -5,9 +5,20 @@ excerpt: "RIP."
 date: 2020-09-15 22:49:49
 modified: 2020-09-15 22:49:49
 permalink: 2020/09/15/godspeed-ron/index.html
-tags: ["Family", "Life", "So It Goes"]
 featured_img: 
 wpid: 4245
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4246
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Family", "Life", "So It Goes"]
+post_tag: ["Family"]
+category: ["Life", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Godspeed, Ron

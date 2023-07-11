@@ -5,9 +5,18 @@ excerpt: "I read some good books this year."
 date: 2019-11-30 02:11:50
 modified: 2019-11-30 02:11:50
 permalink: 2019/11/29/books-i-enjoyed-in-2019/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 3705
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3183
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # Books I enjoyed in 2019

@@ -5,9 +5,24 @@ excerpt: "Some truly tiny houses."
 date: 2021-07-11 02:56:40
 modified: 2021-07-11 02:56:40
 permalink: 2021/07/10/pixie-village/index.html
-tags: ["Bike Ride", "Pixie Village", "Photos"]
 featured_img: 
 wpid: 4957
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4953
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_description: Teeny tiny houses in the trees. Click
+    through for more photos.
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Pixie Village", "Photos"]
+post_tag: ["Bike Ride", "Pixie Village"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Pixie village

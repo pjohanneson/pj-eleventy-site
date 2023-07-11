@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-18 03:45:00
 modified: 2005-07-18 03:45:00
 permalink: 2005/07/17/the-visit/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 50
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The Visit

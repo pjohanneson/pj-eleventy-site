@@ -5,9 +5,18 @@ excerpt: ""
 date: 2010-11-01 13:34:56
 modified: 2010-11-01 13:34:56
 permalink: 2010/11/01/nanowrimo/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 776
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Nanowrimo

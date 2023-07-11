@@ -5,9 +5,22 @@ excerpt: ""
 date: 2011-04-17 17:41:57
 modified: 2011-04-17 17:41:57
 permalink: 2011/04/17/well-thats-convenient/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 826
+all_meta: 
+  _edit_last: 1
+  aktt_notify_twitter:
+  - "yes"
+  - "yes"
+  aktt_tweeted:
+  - "1"
+  - "1"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Well that&#8217;s convenient

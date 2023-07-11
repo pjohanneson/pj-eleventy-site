@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-30 13:42:30
 modified: 2006-10-30 13:42:30
 permalink: 2006/10/30/flickrblogging-img_0336/index.html
-tags: ["Amusing", "Flickrblogging"]
 featured_img: 
 wpid: 302
+taxonomy_terms_all: ["Amusing", "Flickrblogging"]
+post_tag: []
+category: ["Amusing", "Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_0336

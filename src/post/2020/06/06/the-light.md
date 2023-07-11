@@ -5,9 +5,20 @@ excerpt: "Also, a robin."
 date: 2020-06-06 01:34:02
 modified: 2020-06-06 01:34:02
 permalink: 2020/06/05/the-light/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3952
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3954
+  _wp_old_slug: soft-and-surreal
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # The light, the light

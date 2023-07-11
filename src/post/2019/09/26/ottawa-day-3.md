@@ -5,9 +5,17 @@ excerpt: "&amp;#8220;Do you have your passport?&amp;#8221;"
 date: 2019-09-26 01:56:11
 modified: 2019-09-26 01:56:11
 permalink: 2019/09/25/ottawa-day-3/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3567
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Ottawa, day 3

@@ -5,9 +5,24 @@ excerpt: "&amp;#8220;Allons voir dans un petit berceau / L&amp;#8217;auteur de l
 date: 2016-12-22 18:16:20
 modified: 2016-12-22 18:16:20
 permalink: 2016/12/22/compare-contrast-2/index.html
-tags: ["Music", "Rockin' Out", "Youtubery"]
 featured_img: 
 wpid: 2093
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_bb003c75854b1fa0b32d2a12a10810e9: "<iframe title=\"\xC7a bergers\" width=\"500\"
+    height=\"281\" src=\"https://www.youtube.com/embed/tUgyCAjYmDU?feature=oembed\"
+    frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  _oembed_time_bb003c75854b1fa0b32d2a12a10810e9: 1679099440
+  _oembed_7c8e58b0e9b33493fe270d13df9881f1: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Music", "Rockin' Out", "Youtubery"]
+post_tag: []
+category: ["Music", "Rockin' Out", "Youtubery"]
+tags: post
 ---
 
 # Compare &#038; contrast

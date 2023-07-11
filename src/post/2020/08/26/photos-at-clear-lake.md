@@ -5,9 +5,20 @@ excerpt: "Stacked stones and the sun."
 date: 2020-08-26 13:49:09
 modified: 2020-08-26 13:49:09
 permalink: 2020/08/26/photos-at-clear-lake/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 4215
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4211
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Photos at Clear Lake

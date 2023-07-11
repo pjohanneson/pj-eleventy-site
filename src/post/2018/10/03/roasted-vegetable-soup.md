@@ -5,9 +5,19 @@ excerpt: "The perfect antidote to a grey and drizzly day."
 date: 2018-10-03 13:02:36
 modified: 2018-10-03 13:02:36
 permalink: 2018/10/03/roasted-vegetable-soup/index.html
-tags: ["Blogtober 2018", "Gourmandise", "Recipes"]
 featured_img: 
 wpid: 2912
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2911
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Blogtober 2018", "Gourmandise", "Recipes"]
+post_tag: ["Blogtober 2018"]
+category: ["Gourmandise", "Recipes"]
+tags: post
 ---
 
 # Roasted vegetable soup

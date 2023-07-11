@@ -5,9 +5,18 @@ excerpt: ""
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["Writing"]
 featured_img: 
 wpid: 1568
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # io9 articles on writing

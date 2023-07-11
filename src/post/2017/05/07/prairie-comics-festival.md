@@ -5,9 +5,21 @@ excerpt: "Comics, comics, and more comics."
 date: 2017-05-07 20:50:03
 modified: 2017-05-07 20:50:03
 permalink: 2017/05/07/prairie-comics-festival/index.html
-tags: ["Books", "Writing"]
 featured_img: 
 wpid: 2248
+all_meta: 
+  _wpcom_is_markdown: 1
+  _jetpack_dont_email_post_to_subs: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2249
+  _edit_last: 1
+  _wp_old_slug: prairie%e2%80%8b-comics-festival
+  
+  
+taxonomy_terms_all: ["Books", "Writing"]
+post_tag: []
+category: ["Books", "Writing"]
+tags: post
 ---
 
 # Prairie​ Comics Festival

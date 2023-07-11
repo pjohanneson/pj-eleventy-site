@@ -5,9 +5,19 @@ excerpt: "Some more photos for you to check out."
 date: 2019-08-12 01:16:58
 modified: 2019-08-12 01:16:58
 permalink: 2019/08/11/reflections-and-sunflowers/index.html
-tags: ["Bike Ride", "River", "Photos"]
 featured_img: 
 wpid: 3466
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3462
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "River", "Photos"]
+post_tag: ["Bike Ride", "River"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Reflections and Sunflowers

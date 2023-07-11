@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-25 12:53:29
 modified: 2006-07-25 12:53:29
 permalink: 2006/07/25/the-hotel/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 274
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # The Hotel

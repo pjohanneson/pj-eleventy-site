@@ -5,9 +5,18 @@ excerpt: "Well, the conscious ones, anyways."
 date: 2019-10-28 22:15:40
 modified: 2019-10-28 22:15:40
 permalink: 2019/10/28/some-themes-references/index.html
-tags: ["Parallel Prairies", "Prairiesf", "Writing"]
 featured_img: 
 wpid: 3642
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2950
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Parallel Prairies", "Prairiesf", "Writing"]
+post_tag: ["Parallel Prairies", "Prairiesf"]
+category: ["Writing"]
+tags: post
 ---
 
 # Some themes &#038; references

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-26 22:09:05
 modified: 2006-02-26 22:09:05
 permalink: 2006/02/26/sledding/index.html
-tags: ["Life", "Photos", "Writing"]
 featured_img: 
 wpid: 167
+taxonomy_terms_all: ["Life", "Photos", "Writing"]
+post_tag: []
+category: ["Life", "Photos", "Writing"]
+tags: post
 ---
 
 # Sledding

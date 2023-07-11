@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-24 17:48:50
 modified: 2006-09-24 17:48:50
 permalink: 2006/09/24/you-learn-something-new-every-day/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 291
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # You learn something new every day

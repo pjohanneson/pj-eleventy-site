@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-03 22:53:52
 modified: 2006-02-03 22:53:52
 permalink: 2006/02/03/william-gibsons-bio/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 148
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # William Gibson&#8217;s bio

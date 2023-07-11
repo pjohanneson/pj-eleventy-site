@@ -5,9 +5,20 @@ excerpt: "2½ hours of my life: 40 seconds of video."
 date: 2020-07-05 03:38:48
 modified: 2020-07-05 03:38:48
 permalink: 2020/07/04/clouds/index.html
-tags: ["Clouds", "Timelapse", "Movies", "Photos"]
 featured_img: 
 wpid: 4057
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4058
+  _wpas_done_all: 1
+  _oembed_aa4c67297459bbf3e3e9a3c8d2e8466d: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Clouds", "Timelapse", "Movies", "Photos"]
+post_tag: ["Clouds", "Timelapse"]
+category: ["Movies", "Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Clouds

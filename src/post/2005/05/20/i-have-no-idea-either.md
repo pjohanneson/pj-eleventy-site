@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-05-20 14:50:00
 modified: 2005-05-20 14:50:00
 permalink: 2005/05/20/i-have-no-idea-either/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 769
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # I have no idea either.

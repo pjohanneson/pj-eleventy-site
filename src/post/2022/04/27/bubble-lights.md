@@ -5,9 +5,21 @@ excerpt: "A snippet from tonight&amp;#8217;s very first-draft writing."
 date: 2022-04-27 04:11:58
 modified: 2022-04-27 04:11:58
 permalink: 2022/04/26/bubble-lights/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 5358
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 5255
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Bubble lights

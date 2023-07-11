@@ -5,9 +5,18 @@ excerpt: "It could&amp;#8217;ve been worse."
 date: 2019-11-05 23:52:12
 modified: 2019-11-05 23:52:12
 permalink: 2019/11/05/a-bit-of-excitement/index.html
-tags: ["Bdnmb", "Brandon", "Downtown", "Photos", "So It Goes"]
 featured_img: 
 wpid: 3669
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3668
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bdnmb", "Brandon", "Downtown", "Photos", "So It Goes"]
+post_tag: ["Bdnmb", "Brandon", "Downtown"]
+category: ["Photos", "So It Goes"]
+tags: post
 ---
 
 # A bit of excitement

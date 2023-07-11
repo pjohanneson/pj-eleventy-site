@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-09 03:00:59
 modified: 2007-05-09 03:00:59
 permalink: 2007/05/08/fun-but-not-productive/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 361
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Fun, but not productive

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-10-09 23:31:39
 modified: 2008-10-09 23:31:39
 permalink: 2008/10/09/almost-geothermal/index.html
-tags: ["Geothermal", "Life"]
 featured_img: 
 wpid: 460
+taxonomy_terms_all: ["Geothermal", "Life"]
+post_tag: []
+category: ["Geothermal", "Life"]
+tags: post
 ---
 
 # Almost Geothermal

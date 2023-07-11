@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-10-02 04:41:59
 modified: 2008-10-02 04:41:59
 permalink: 2008/10/01/standing-on-guard/index.html
-tags: ["Patriotic? Me?", "Rockin' Out", "Youtubery"]
 featured_img: 
 wpid: 451
+taxonomy_terms_all: ["Patriotic? Me?", "Rockin' Out", "Youtubery"]
+post_tag: []
+category: ["Patriotic? Me?", "Rockin' Out", "Youtubery"]
+tags: post
 ---
 
 # Standing on guard

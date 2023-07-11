@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-22 15:20:49
 modified: 2007-04-22 15:20:49
 permalink: 2007/04/22/of-funerals-and-family/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 355
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Of Funerals and Family

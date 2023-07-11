@@ -5,9 +5,16 @@ excerpt: "You being lazy and unmo­ti­vated and not writ­ing allows another wr
 date: 2012-03-20 21:47:31
 modified: 2012-03-20 21:47:31
 permalink: 2012/03/20/some-sage-writing-advice/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 973
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Some sage writing advice

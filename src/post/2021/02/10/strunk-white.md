@@ -5,9 +5,21 @@ excerpt: "Do you find other people&amp;#8217;s dreams boring?"
 date: 2021-02-10 14:24:00
 modified: 2021-02-10 14:24:00
 permalink: 2021/02/10/strunk-white/index.html
-tags: ["Dreams", "Strunk And White", "The Oneirochronon", "Books", "Weird", "Writing"]
 featured_img: 
 wpid: 4615
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Dreams", "Strunk And White", "The Oneirochronon", "Books", "Weird", "Writing"]
+post_tag: ["Dreams", "Strunk And White", "The Oneirochronon"]
+category: ["Books", "Weird", "Writing"]
+tags: post
 ---
 
 # Strunk + White

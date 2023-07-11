@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-16 00:53:00
 modified: 2005-09-16 00:53:00
 permalink: 2005/09/15/siding-4/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 84
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Siding (4)

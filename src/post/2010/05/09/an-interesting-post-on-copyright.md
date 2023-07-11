@@ -5,9 +5,16 @@ excerpt: ""
 date: 2010-05-09 14:59:54
 modified: 2010-05-09 14:59:54
 permalink: 2010/05/09/an-interesting-post-on-copyright/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 708
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # An interesting post on copyright

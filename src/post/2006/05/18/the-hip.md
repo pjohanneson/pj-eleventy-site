@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-18 12:52:21
 modified: 2006-05-18 12:52:21
 permalink: 2006/05/18/the-hip/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 226
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # The Hip

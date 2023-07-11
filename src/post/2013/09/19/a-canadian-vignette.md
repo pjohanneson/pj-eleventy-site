@@ -5,9 +5,18 @@ excerpt: "Geese, man. They&amp;#8217;ve got the right idea."
 date: 2013-09-19 21:57:37
 modified: 2013-09-19 21:57:37
 permalink: 2013/09/19/a-canadian-vignette/index.html
-tags: ["Amusing", "Movies", "So It Goes"]
 featured_img: 
 wpid: 1407
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Movies", "So It Goes"]
+post_tag: []
+category: ["Amusing", "Movies", "So It Goes"]
+tags: post
 ---
 
 # A Canadian vignette

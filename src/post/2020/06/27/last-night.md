@@ -5,9 +5,23 @@ excerpt: "Everyone: your galaxy."
 date: 2020-06-27 15:13:17
 modified: 2020-06-27 15:13:17
 permalink: 2020/06/27/last-night/index.html
-tags: ["Astrophotography", "Astrovideo", "Galaxy", "Milky Way", "Timelapse", "Photos"]
 featured_img: 
 wpid: 4007
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4008
+  _wpas_done_all: 1
+  _oembed_cc3755c8b1902a8c39dec9c61a13f11e: <iframe title="The Galaxy" src="https://player.vimeo.com/video/433143342?h=91be1811d3&amp;dnt=1&amp;app_id=122963"
+    width="500" height="333" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_cc3755c8b1902a8c39dec9c61a13f11e: 1679099443
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Astrovideo", "Galaxy", "Milky Way", "Timelapse", "Photos"]
+post_tag: ["Astrophotography", "Astrovideo", "Galaxy", "Milky Way", "Timelapse"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Last night

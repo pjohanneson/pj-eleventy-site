@@ -5,9 +5,29 @@ excerpt: "I watched the aurora for almost two hours."
 date: 2022-03-31 14:45:37
 modified: 2022-03-31 14:45:37
 permalink: 2022/03/31/aurora-at-the-end-of-march/index.html
-tags: ["Aurora", "Aurora Borealis", "Photography", "Timelapse", "Photos"]
 featured_img: 
 wpid: 5338
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5333
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: Photos from 2 hours watching the northern lights
+  _wpas_feature_enabled: 1
+  _oembed_760a014d9adfc5bb383a7133d99a65d9: <iframe title="Aurora Borealis, March 30,
+    2022" src="https://player.vimeo.com/video/694453755?h=e4b9caec5e&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_760a014d9adfc5bb383a7133d99a65d9: 1679099437
+  
+  
+taxonomy_terms_all: ["Aurora", "Aurora Borealis", "Photography", "Timelapse", "Photos"]
+post_tag: ["Aurora", "Aurora Borealis", "Photography", "Timelapse"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Aurora at the end of March

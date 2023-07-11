@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-06-12 18:52:54
 modified: 2008-06-12 18:52:54
 permalink: 2008/06/12/back-in-the-east/index.html
-tags: ["Life", "Travel"]
 featured_img: 
 wpid: 432
+taxonomy_terms_all: ["Life", "Travel"]
+post_tag: []
+category: ["Life", "Travel"]
+tags: post
 ---
 
 # Back in the east

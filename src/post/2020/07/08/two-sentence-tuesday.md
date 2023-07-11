@@ -5,9 +5,18 @@ excerpt: "Something I just wrote, not long ago."
 date: 2020-07-08 02:02:12
 modified: 2020-07-08 02:02:12
 permalink: 2020/07/07/two-sentence-tuesday/index.html
-tags: ["But On Tuesday", "Two Sentence Sunday", "Writing", "Writing"]
 featured_img: 
 wpid: 4061
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2847
+  
+  
+taxonomy_terms_all: ["But On Tuesday", "Two Sentence Sunday", "Writing", "Writing"]
+post_tag: ["But On Tuesday", "Two Sentence Sunday", "Writing"]
+category: ["Writing"]
+tags: post
 ---
 
 # Two sentence Tuesday

@@ -5,9 +5,20 @@ excerpt: "This is issued as a license to make art. It does not mean the art has 
 date: 2019-03-13 22:35:26
 modified: 2019-03-13 22:35:26
 permalink: 2019/03/13/artistic-license/index.html
-tags: ["Artistic License", "So It Goes"]
 featured_img: 
 wpid: 3188
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3184
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Artistic License", "So It Goes"]
+post_tag: ["Artistic License"]
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Artistic License

@@ -5,9 +5,17 @@ excerpt: "The game of wizards."
 date: 2012-06-17 05:18:40
 modified: 2012-06-17 05:18:40
 permalink: 2012/06/17/munchkin/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 1069
+all_meta: 
+  _edit_last: 1
+  _wp_old_slug: 1-new-flickr-photos
+  
+  
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Some Munchkin

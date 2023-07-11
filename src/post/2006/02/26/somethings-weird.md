@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-26 06:25:48
 modified: 2006-02-26 06:25:48
 permalink: 2006/02/26/somethings-weird/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 165
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Something&#8217;s weird.

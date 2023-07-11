@@ -5,9 +5,18 @@ excerpt: "TL;DR: They liked it, overall, and also they enjoyed my story."
 date: 2019-06-14 21:48:48
 modified: 2019-06-14 21:48:48
 permalink: 2019/06/14/another-parallel-prairies-review/index.html
-tags: ["Parallel Prairies", "Reviews", "Writing"]
 featured_img: 
 wpid: 3346
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2936
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Parallel Prairies", "Reviews", "Writing"]
+post_tag: ["Parallel Prairies"]
+category: ["Reviews", "Writing"]
+tags: post
 ---
 
 # Another Parallel Prairies review

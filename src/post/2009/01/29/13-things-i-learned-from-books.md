@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-01-29 18:57:08
 modified: 2009-01-29 18:57:08
 permalink: 2009/01/29/13-things-i-learned-from-books/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 553
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # 13 things I learned from books

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-17 01:46:40
 modified: 2007-03-17 01:46:40
 permalink: 2007/03/16/westering-3/index.html
-tags: ["Photos", "Travel"]
 featured_img: 
 wpid: 341
+taxonomy_terms_all: ["Photos", "Travel"]
+post_tag: []
+category: ["Photos", "Travel"]
+tags: post
 ---
 
 # Westering (3)

@@ -5,9 +5,20 @@ excerpt: "I set my alarm for 2:30 AM, because I don&amp;#8217;t understand &amp;
 date: 2018-07-24 20:37:37
 modified: 2018-07-24 20:37:37
 permalink: 2018/07/24/writing-retreat-2018-monday/index.html
-tags: ["Photos", "So It Goes", "Writing"]
 featured_img: 
 wpid: 2804
+all_meta: 
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2800
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes", "Writing"]
+post_tag: []
+category: ["Photos", "So It Goes", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2018: Monday

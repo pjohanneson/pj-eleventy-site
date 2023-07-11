@@ -5,9 +5,25 @@ excerpt: "We go to a church on Somethin&amp;#8217; and First, right next to the 
 date: 2014-06-14 17:19:48
 modified: 2014-06-14 17:19:48
 permalink: 2014/06/14/compare-contrast/index.html
-tags: ["Movies", "Rockin' Out"]
 featured_img: 
 wpid: 1546
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_2229a2cfeaca3290f7271187ce8028fb: <iframe title="Lugen Brothers   Son of a
+    Bitch To The Core" width="500" height="375" src="https://www.youtube.com/embed/bdggB3tigKg?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_2229a2cfeaca3290f7271187ce8028fb: 1679099442
+  _oembed_cf7058d13dd3a02390cde16a2524d253: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Movies", "Rockin' Out"]
+post_tag: []
+category: ["Movies", "Rockin' Out"]
+tags: post
 ---
 
 # Compare &#038; Contrast

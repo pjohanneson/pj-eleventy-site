@@ -5,9 +5,22 @@ excerpt: "More bike ride photos."
 date: 2021-09-23 03:19:24
 modified: 2021-09-23 03:19:24
 permalink: 2021/09/22/corn-sunset/index.html
-tags: ["Bike Ride", "Corn", "Hdr", "Photography", "Sunset", "Photos"]
 featured_img: 
 wpid: 5087
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  swanwick_fake_thumbnail_id: 5088
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Corn", "Hdr", "Photography", "Sunset", "Photos"]
+post_tag: ["Bike Ride", "Corn", "Hdr", "Photography", "Sunset"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Corn &#038; Sunset

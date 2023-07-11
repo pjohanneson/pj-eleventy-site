@@ -5,9 +5,24 @@ excerpt: "B. good, everyone."
 date: 2022-10-31 16:24:51
 modified: 2022-10-31 16:24:51
 permalink: 2022/10/31/hollow-bean-2022/index.html
-tags: ["Hollow Bean", "So It Goes"]
 featured_img: 
 wpid: 5715
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5157
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/109263814336177882
+  _edit_lock: "1679095031:1"
+  
+  
+taxonomy_terms_all: ["Hollow Bean", "So It Goes"]
+post_tag: ["Hollow Bean"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hollow Bean 2022

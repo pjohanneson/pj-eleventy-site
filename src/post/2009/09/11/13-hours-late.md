@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-09-11 18:19:05
 modified: 2009-09-11 18:19:05
 permalink: 2009/09/11/13-hours-late/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 609
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # 13 hours late

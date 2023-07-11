@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-12 03:12:36
 modified: 2008-03-12 03:12:36
 permalink: 2008/03/11/nage-no-kata-2/index.html
-tags: ["Judo", "Movies", "Youtubery"]
 featured_img: 
 wpid: 417
+taxonomy_terms_all: ["Judo", "Movies", "Youtubery"]
+post_tag: []
+category: ["Judo", "Movies", "Youtubery"]
+tags: post
 ---
 
 # Nage-no-kata

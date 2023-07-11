@@ -5,9 +5,19 @@ excerpt: "Photos from Jazz Fest 2018."
 date: 2018-03-19 02:31:16
 modified: 2018-03-19 02:31:16
 permalink: 2018/03/18/jazz-fest-2018/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 2673
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2678
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Collège Louis Riel at Jazz Fest 2018

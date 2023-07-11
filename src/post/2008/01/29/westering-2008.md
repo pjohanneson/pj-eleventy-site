@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-01-29 14:09:06
 modified: 2008-01-29 14:09:06
 permalink: 2008/01/29/westering-2008/index.html
-tags: ["Photos", "Travel"]
 featured_img: 
 wpid: 404
+taxonomy_terms_all: ["Photos", "Travel"]
+post_tag: []
+category: ["Photos", "Travel"]
+tags: post
 ---
 
 # Westering, 2008

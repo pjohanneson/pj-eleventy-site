@@ -5,9 +5,17 @@ excerpt: ""
 date: 2006-07-20 12:50:13
 modified: 2006-07-20 12:50:13
 permalink: 2006/07/20/thirteen-synopses/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 271
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Thirteen synopses

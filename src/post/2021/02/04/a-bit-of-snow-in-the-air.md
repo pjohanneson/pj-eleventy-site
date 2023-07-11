@@ -5,9 +5,21 @@ excerpt: "Not quite whiteout conditions (but I was glad I wasn&amp;#8217;t on th
 date: 2021-02-04 03:02:09
 modified: 2021-02-04 03:02:09
 permalink: 2021/02/03/a-bit-of-snow-in-the-air/index.html
-tags: ["Bokeh", "Bokeh Trees", "Snow", "Snowfall", "Trees", "Winter", "Photos"]
 featured_img: 
 wpid: 4596
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4597
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bokeh", "Bokeh Trees", "Snow", "Snowfall", "Trees", "Winter", "Photos"]
+post_tag: ["Bokeh", "Bokeh Trees", "Snow", "Snowfall", "Trees", "Winter"]
+category: ["Photos"]
+tags: post
 ---
 
 # A bit of snow in the air

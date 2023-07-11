@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-09-21 02:07:52
 modified: 2011-09-21 02:07:52
 permalink: 2011/09/20/stray-thoughts/index.html
-tags: ["Amusing", "So It Goes"]
 featured_img: 
 wpid: 899
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes"]
+post_tag: []
+category: ["Amusing", "So It Goes"]
+tags: post
 ---
 
 # Stray thoughts as I biked to 10th Street to visit G., and then home again

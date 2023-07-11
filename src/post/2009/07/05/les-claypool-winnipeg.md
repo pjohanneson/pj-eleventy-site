@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-07-05 01:21:50
 modified: 2009-07-05 01:21:50
 permalink: 2009/07/04/les-claypool-winnipeg/index.html
-tags: ["Rockin' Out", "Youtubery"]
 featured_img: 
 wpid: 605
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Rockin' Out", "Youtubery"]
+post_tag: []
+category: ["Rockin' Out", "Youtubery"]
+tags: post
 ---
 
 # Les Claypool @ Winnipeg

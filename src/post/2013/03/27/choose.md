@@ -5,9 +5,17 @@ excerpt: "Which short-short story should Craig and I pitch at the Gimli Film Fes
 date: 2013-03-27 20:08:36
 modified: 2013-03-27 20:08:36
 permalink: 2013/03/27/choose/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1200
+all_meta: 
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Choose!

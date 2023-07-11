@@ -5,9 +5,27 @@ excerpt: "I swear I don&amp;#8217;t deliberately line my stories up with &amp;#8
 date: 2022-02-23 23:33:37
 modified: 2022-02-23 23:33:37
 permalink: 2022/02/23/a-moment-of-clarity/index.html
-tags: ["Cancon", "Dried Flowers", "Palimpsests", "Writing"]
 featured_img: 
 wpid: 5277
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 5255
+  _edit_last: 1
+  _oembed_fc682f16244ada0bae28e4bee9fd64ee: <iframe title="13 Engines Moment Of Clarity"
+    width="500" height="281" src="https://www.youtube.com/embed/TLQ9ClBme7M?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_fc682f16244ada0bae28e4bee9fd64ee: 1679099437
+  
+  
+taxonomy_terms_all: ["Cancon", "Dried Flowers", "Palimpsests", "Writing"]
+post_tag: ["Cancon", "Dried Flowers", "Palimpsests"]
+category: ["Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # A moment of clarity

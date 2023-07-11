@@ -5,9 +5,17 @@ excerpt: ""
 date: 2009-05-07 12:54:53
 modified: 2009-05-07 12:54:53
 permalink: 2009/05/07/one-step-closer-to-a-theory-of-everything/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 586
+all_meta: 
+  aktt_notify_twitter: "no"
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # One step closer to a theory of everything

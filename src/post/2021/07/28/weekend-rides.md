@@ -5,9 +5,22 @@ excerpt: "Summer mornings are photogenic."
 date: 2021-07-28 03:09:07
 modified: 2021-07-28 03:09:07
 permalink: 2021/07/27/weekend-rides/index.html
-tags: ["Canola", "Fencepost", "Paddleboard", "Photos"]
 featured_img: 
 wpid: 4972
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 4973
+  
+  
+taxonomy_terms_all: ["Canola", "Fencepost", "Paddleboard", "Photos"]
+post_tag: ["Canola", "Fencepost", "Paddleboard"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Weekend rides

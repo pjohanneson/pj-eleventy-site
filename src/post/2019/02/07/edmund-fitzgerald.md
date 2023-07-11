@@ -5,9 +5,25 @@ excerpt: "All that remains are the faces and the names of the wives and the sons
 date: 2019-02-07 18:15:36
 modified: 2019-02-07 18:15:36
 permalink: 2019/02/07/edmund-fitzgerald/index.html
-tags: ["Tbt", "Music", "So It Goes"]
 featured_img: 
 wpid: 3150
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3151
+  _wpas_done_all: 1
+  _oembed_76c7cde16796fd838f0879f949a510e7: <iframe title="&quot;The Wreck of the Edmund
+    Fitzgerald&quot; - Gordon Lightfoot (HD w/ Lyrics)" width="500" height="281" src="https://www.youtube.com/embed/9vST6hVRj2A?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_76c7cde16796fd838f0879f949a510e7: 1679099439
+  
+  
+taxonomy_terms_all: ["Tbt", "Music", "So It Goes"]
+post_tag: ["Tbt"]
+category: ["Music", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Edmund Fitzgerald

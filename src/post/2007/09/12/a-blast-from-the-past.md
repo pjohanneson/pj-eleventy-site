@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-12 23:24:55
 modified: 2007-09-12 23:24:55
 permalink: 2007/09/12/a-blast-from-the-past/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Rockin' Out", "Weird", "Youtubery"]
 featured_img: 
 wpid: 389
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Rockin' Out", "Weird", "Youtubery"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Rockin' Out", "Weird", "Youtubery"]
+tags: post
 ---
 
 # A blast from the past

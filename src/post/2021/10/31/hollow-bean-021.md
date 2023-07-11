@@ -5,9 +5,21 @@ excerpt: "B. good."
 date: 2021-10-31 21:17:27
 modified: 2021-10-31 21:17:27
 permalink: 2021/10/31/hollow-bean-021/index.html
-tags: ["Halloween", "Hollow Bean", "Books"]
 featured_img: 
 wpid: 5156
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 5157
+  
+  
+taxonomy_terms_all: ["Halloween", "Hollow Bean", "Books"]
+post_tag: ["Halloween", "Hollow Bean"]
+category: ["Books"]
+tags: post
 ---
 
 # Hollow Bean &#8216;021

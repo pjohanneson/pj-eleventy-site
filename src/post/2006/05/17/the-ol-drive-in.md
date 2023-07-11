@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-17 01:00:17
 modified: 2006-05-17 01:00:17
 permalink: 2006/05/16/the-ol-drive-in/index.html
-tags: ["Life", "Movies", "Photos"]
 featured_img: 
 wpid: 224
+taxonomy_terms_all: ["Life", "Movies", "Photos"]
+post_tag: []
+category: ["Life", "Movies", "Photos"]
+tags: post
 ---
 
 # The ol&#8217; drive-in&#8230;

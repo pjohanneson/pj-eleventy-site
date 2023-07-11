@@ -5,9 +5,18 @@ excerpt: "ACI Mentorship reading titles: &amp;#8220;Exit Interview&amp;#8221;, &
 date: 2013-06-09 20:46:23
 modified: 2013-06-09 20:46:23
 permalink: 2013/06/09/apprenticeship-reading/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 1313
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Apprenticeship Reading

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-07 04:39:09
 modified: 2006-12-07 04:39:09
 permalink: 2006/12/06/so/index.html
-tags: ["Amusing", "Judo", "Photos"]
 featured_img: 
 wpid: 308
+taxonomy_terms_all: ["Amusing", "Judo", "Photos"]
+post_tag: []
+category: ["Amusing", "Judo", "Photos"]
+tags: post
 ---
 
 # So&#8230;

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-10 04:32:01
 modified: 2007-04-10 04:32:01
 permalink: 2007/04/09/flickrblogging-img_5900/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 352
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_5900

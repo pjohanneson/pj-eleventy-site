@@ -5,9 +5,18 @@ excerpt: "&amp;#8230;it&amp;#8217;s a pretty good one."
 date: 2015-06-05 13:45:38
 modified: 2015-06-05 13:45:38
 permalink: 2015/06/05/as-rejection-letters-go/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1735
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # As rejection letters go&#8230;

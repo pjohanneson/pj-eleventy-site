@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-19 01:23:43
 modified: 2006-02-19 01:23:43
 permalink: 2006/02/18/nostalgia-and-its-perils/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 158
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # Nostalgia and its perils

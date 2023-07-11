@@ -5,9 +5,19 @@ excerpt: "Another possible submission for McNally Robinson&amp;#8217;s photo boo
 date: 2018-10-13 16:33:28
 modified: 2018-10-13 16:33:28
 permalink: 2018/10/13/a-creek/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 2946
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2945
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # A creek

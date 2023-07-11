@@ -5,9 +5,19 @@ excerpt: "Water, water everywhere, so let&amp;#8217;s all have a drink."
 date: 2020-07-01 22:26:39
 modified: 2020-07-01 22:26:39
 permalink: 2020/07/01/the-river-is-high/index.html
-tags: ["2020", "Bike Ride", "Lots Of Water", "Panorama", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4038
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4036
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["2020", "Bike Ride", "Lots Of Water", "Panorama", "Photos", "So It Goes"]
+post_tag: ["2020", "Bike Ride", "Lots Of Water", "Panorama"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # The river is high

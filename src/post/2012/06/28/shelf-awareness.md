@@ -6,9 +6,16 @@ In no particular order, Michael Swanwick, William Gibson, Joe Haldeman, Elmore L
 date: 2012-06-28 12:52:19
 modified: 2012-06-28 12:52:19
 permalink: 2012/06/28/shelf-awareness/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 1084
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Shelf Awareness&#8217; Q&#038;A

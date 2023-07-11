@@ -5,9 +5,23 @@ excerpt: "Photos from a 13km bike ride."
 date: 2022-06-04 15:46:58
 modified: 2022-06-04 15:46:58
 permalink: 2022/06/04/deer-flowers/index.html
-tags: ["Bike Ride", "Deer", "Flowers", "Photos"]
 featured_img: 
 wpid: 5439
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/06/IMG_8334-2000.jpg
+  swanwick_fake_thumbnail_id: 5440
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Deer", "Flowers", "Photos"]
+post_tag: ["Bike Ride", "Deer", "Flowers"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Deer + Flowers

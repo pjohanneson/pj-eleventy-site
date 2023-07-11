@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-18 13:05:32
 modified: 2006-04-18 13:05:32
 permalink: 2006/04/18/photos-from-the-easter-weekend/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 210
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Photos from the Easter weekend

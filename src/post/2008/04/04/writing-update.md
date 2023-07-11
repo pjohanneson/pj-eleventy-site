@@ -5,9 +5,18 @@ excerpt: ""
 date: 2008-04-04 01:54:36
 modified: 2008-04-04 01:54:36
 permalink: 2008/04/03/writing-update/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 421
+all_meta: 
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1538557005;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2794;}i:1;a:1:{s:2:"id";i:2804;}i:2;a:1:{s:2:"id";i:63;}}}}
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing update

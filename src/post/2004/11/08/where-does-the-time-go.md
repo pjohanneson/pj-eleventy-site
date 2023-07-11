@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-11-08 20:05:34
 modified: 2004-11-08 20:05:34
 permalink: 2004/11/08/where-does-the-time-go/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 21
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Where does the time go?

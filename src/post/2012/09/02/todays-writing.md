@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-09-02 21:20:23
 modified: 2012-09-02 21:20:23
 permalink: 2012/09/02/todays-writing/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1112
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Today&#8217;s writing

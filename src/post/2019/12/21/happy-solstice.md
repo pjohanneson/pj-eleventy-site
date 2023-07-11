@@ -5,9 +5,18 @@ excerpt: "Now we&amp;#8217;re on the upslope."
 date: 2019-12-21 16:32:34
 modified: 2019-12-21 16:32:34
 permalink: 2019/12/21/happy-solstice/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3722
+all_meta: 
+  _wpas_done_all: 1
+  _thumbnail_id: 3517
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Happy solstice

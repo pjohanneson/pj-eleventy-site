@@ -5,9 +5,22 @@ excerpt: ""
 date: 2021-08-02 16:47:00
 modified: 2021-08-02 16:47:00
 permalink: 2021/08/02/deer-and-paparazzi/index.html
-tags: ["Deer", "Photos"]
 featured_img: 
 wpid: 4993
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4991
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Deer", "Photos"]
+post_tag: ["Deer"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Deer and paparazzi

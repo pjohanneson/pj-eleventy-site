@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-11-09 04:22:47
 modified: 2007-11-09 04:22:47
 permalink: 2007/11/08/the-farm/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 397
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # The farm

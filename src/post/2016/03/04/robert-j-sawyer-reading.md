@@ -5,9 +5,18 @@ excerpt: ""
 date: 2016-03-04 05:48:09
 modified: 2016-03-04 05:48:09
 permalink: 2016/03/03/robert-j-sawyer-reading/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 1883
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Robert J. Sawyer reading

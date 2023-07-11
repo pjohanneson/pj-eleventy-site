@@ -5,9 +5,26 @@ excerpt: "This post has nothing to do with a church and a spider."
 date: 2019-12-15 19:06:17
 modified: 2019-12-15 19:06:17
 permalink: 2019/12/15/subvert-all-the-expectations/index.html
-tags: ["Subverting Expectations", "Books", "Writing"]
 featured_img: 
 wpid: 3718
+all_meta: 
+  _wpcom_is_markdown: 1
+  _oembed_d16924358e480d52f754bf6792b3a959: <blockquote class="twitter-tweet" data-width="550"
+    data-dnt="true"><p lang="en" dir="ltr">&quot;subverting expectations&quot; is not
+    something that just by existing makes something good. Expectations exist for a reason.
+    If you plan on subverting them, you need to subvert with the goal of something BETTER.</p>&mdash;
+    MZ Goddess (@MaxieZeusGod) <a href="https://twitter.com/MaxieZeusGod/status/1181002256814137345?ref_src=twsrc%5Etfw">October
+    7, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js"
+    charset="utf-8"></script>
+  _oembed_time_d16924358e480d52f754bf6792b3a959: 1576428280
+  _thumbnail_id: 3544
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Subverting Expectations", "Books", "Writing"]
+post_tag: ["Subverting Expectations"]
+category: ["Books", "Writing"]
+tags: post
 ---
 
 # Subvert all the expectations

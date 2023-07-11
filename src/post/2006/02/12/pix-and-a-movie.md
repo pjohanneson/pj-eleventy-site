@@ -5,9 +5,18 @@ excerpt: ""
 date: 2006-02-12 19:17:12
 modified: 2006-02-12 19:17:12
 permalink: 2006/02/12/pix-and-a-movie/index.html
-tags: ["Movies", "Photos"]
 featured_img: 
 wpid: 153
+all_meta: 
+  Current music: Bohemian Rhapsody -- my wife is watching Wayne's World on the boob
+    cube
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1538557003;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:275;}i:1;a:1:{s:2:"id";i:2176;}i:2;a:1:{s:2:"id";i:341;}}}}
+  
+  
+taxonomy_terms_all: ["Movies", "Photos"]
+post_tag: []
+category: ["Movies", "Photos"]
+tags: post
 ---
 
 # Pix and movies

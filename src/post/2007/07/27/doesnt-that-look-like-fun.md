@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-27 02:48:08
 modified: 2007-07-27 02:48:08
 permalink: 2007/07/26/doesnt-that-look-like-fun/index.html
-tags: ["Judo", "Photos"]
 featured_img: 
 wpid: 379
+taxonomy_terms_all: ["Judo", "Photos"]
+post_tag: []
+category: ["Judo", "Photos"]
+tags: post
 ---
 
 # Doesn&#8217;t that look like fun?

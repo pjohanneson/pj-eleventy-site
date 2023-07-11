@@ -5,9 +5,29 @@ excerpt: "Good show."
 date: 2020-01-30 23:44:01
 modified: 2020-01-30 23:44:01
 permalink: 2020/01/30/steven-page-in-concert/index.html
-tags: ["Bdnmb", "Concerts", "Craig Northey", "Kevin Fox", "Steven Page", "Music", "Reviews"]
 featured_img: 
 wpid: 3779
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3778
+  _wpas_done_all: 1
+  _oembed_299a6d58723acddda9bbd620f79cd000: <iframe title="Steven Page - Gravity (LIVE)"
+    width="500" height="281" src="https://www.youtube.com/embed/yzcAESp1QqA?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_299a6d58723acddda9bbd620f79cd000: 1679099438
+  _oembed_ba9a23385b86fdd68b1a9a7862630e6e: <iframe title="War on Drugs" width="500"
+    height="375" src="https://www.youtube.com/embed/3rWVeFzSrL0?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" allowfullscreen></iframe>
+  _oembed_time_ba9a23385b86fdd68b1a9a7862630e6e: 1679099439
+  
+  
+taxonomy_terms_all: ["Bdnmb", "Concerts", "Craig Northey", "Kevin Fox", "Steven Page", "Music", "Reviews"]
+post_tag: ["Bdnmb", "Concerts", "Craig Northey", "Kevin Fox", "Steven Page"]
+category: ["Music", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # Steven Page in Concert

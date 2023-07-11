@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-25 04:35:00
 modified: 2005-08-25 04:35:00
 permalink: 2005/08/24/new-story-2/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 73
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # New story

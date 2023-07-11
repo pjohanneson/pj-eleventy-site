@@ -5,9 +5,20 @@ excerpt: ""
 date: 2015-07-20 23:12:16
 modified: 2015-07-20 23:12:16
 permalink: 2015/07/20/writing-retreat/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1757
+all_meta: 
+  _wpcom_is_markdown: 1
+  geo_latitude: 50
+  geo_longitude: -99
+  geo_public: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing retreat

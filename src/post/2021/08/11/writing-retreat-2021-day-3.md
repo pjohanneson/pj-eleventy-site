@@ -5,9 +5,23 @@ excerpt: "A long day but a good one."
 date: 2021-08-11 15:29:29
 modified: 2021-08-11 15:29:29
 permalink: 2021/08/11/writing-retreat-2021-day-3/index.html
-tags: ["Astrophotography", "Editing", "Milky Way", "Outlining", "Rewriting", "Startrails", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5028
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 5024
+  _wpas_mess: Writing Retreat 2021, day 3 - Click through for more photos
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Editing", "Milky Way", "Outlining", "Rewriting", "Startrails", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Editing", "Milky Way", "Outlining", "Rewriting", "Startrails", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2021, day 3

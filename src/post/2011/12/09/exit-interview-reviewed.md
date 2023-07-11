@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-12-09 16:00:17
 modified: 2011-12-09 16:00:17
 permalink: 2011/12/09/exit-interview-reviewed/index.html
-tags: ["Reviews", "Writing"]
 featured_img: 
 wpid: 913
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Reviews", "Writing"]
+post_tag: []
+category: ["Reviews", "Writing"]
+tags: post
 ---
 
 # &#8220;Exit Interview&#8221; reviewed

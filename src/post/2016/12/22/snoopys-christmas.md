@@ -5,9 +5,23 @@ excerpt: "&amp;#8220;And then with a roar / They were both on their way / Each k
 date: 2016-12-22 13:57:06
 modified: 2016-12-22 13:57:06
 permalink: 2016/12/22/snoopys-christmas/index.html
-tags: ["Amusing", "Music", "So It Goes", "Youtubery"]
 featured_img: 
 wpid: 2088
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_208300ab7a75b31f30eb696cc83d36b7: <iframe title="ROYAL GUARDSMEN - &quot;Snoopy&#039;s
+    Christmas&quot; (The COMPLETE 6:09 Story!)" width="500" height="375" src="https://www.youtube.com/embed/Fw0N5UHyvgI?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_208300ab7a75b31f30eb696cc83d36b7: 1679099441
+  
+  
+taxonomy_terms_all: ["Amusing", "Music", "So It Goes", "Youtubery"]
+post_tag: []
+category: ["Amusing", "Music", "So It Goes", "Youtubery"]
+tags: post
 ---
 
 # Snoopy&#8217;s Christmas

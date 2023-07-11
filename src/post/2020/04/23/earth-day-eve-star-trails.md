@@ -5,9 +5,18 @@ excerpt: "&amp;#8230;and a lone meteor."
 date: 2020-04-23 00:41:13
 modified: 2020-04-23 00:41:13
 permalink: 2020/04/22/earth-day-eve-star-trails/index.html
-tags: ["Astrophotography", "Meteor", "Star Trails", "Photos"]
 featured_img: 
 wpid: 3865
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3863
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Meteor", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Meteor", "Star Trails"]
+category: ["Photos"]
+tags: post
 ---
 
 # Earth Day eve star trails

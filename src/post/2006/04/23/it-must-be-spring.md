@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-23 02:29:19
 modified: 2006-04-23 02:29:19
 permalink: 2006/04/22/it-must-be-spring/index.html
-tags: ["Life", "Weather"]
 featured_img: 
 wpid: 211
+taxonomy_terms_all: ["Life", "Weather"]
+post_tag: []
+category: ["Life", "Weather"]
+tags: post
 ---
 
 # It must be spring

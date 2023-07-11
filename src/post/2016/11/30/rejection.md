@@ -5,9 +5,19 @@ excerpt: "Writers: Get used to rejection. But never give up."
 date: 2016-11-30 14:05:32
 modified: 2016-11-30 14:05:32
 permalink: 2016/11/30/rejection/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 2002
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 1753
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Rejection

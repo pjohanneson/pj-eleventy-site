@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-02-05 12:47:32
 modified: 2008-02-05 12:47:32
 permalink: 2008/02/05/some-fiction-for-you/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 405
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Some fiction for you

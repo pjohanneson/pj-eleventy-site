@@ -5,9 +5,18 @@ excerpt: ""
 date: 2011-03-01 21:39:47
 modified: 2011-03-01 21:39:47
 permalink: 2011/03/01/starting-a-new-story/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 807
+all_meta: 
+  aktt_notify_twitter: "yes"
+  _edit_last: 1
+  aktt_tweeted: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Starting a new story

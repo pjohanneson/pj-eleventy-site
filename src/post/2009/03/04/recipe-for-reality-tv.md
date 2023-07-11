@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-03-04 02:46:38
 modified: 2009-03-04 02:46:38
 permalink: 2009/03/03/recipe-for-reality-tv/index.html
-tags: ["Idiot Box"]
 featured_img: 
 wpid: 571
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Idiot Box"]
+post_tag: []
+category: ["Idiot Box"]
+tags: post
 ---
 
 # Recipe for reality TV

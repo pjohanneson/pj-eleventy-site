@@ -5,9 +5,19 @@ excerpt: "RIP, Steve, and thanks, Keith."
 date: 2018-11-17 21:19:12
 modified: 2018-11-17 21:19:12
 permalink: 2018/11/17/unfinished-stories/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3003
+all_meta: 
+  _thumbnail_id: 3002
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Unfinished Stories

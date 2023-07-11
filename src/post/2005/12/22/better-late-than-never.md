@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-12-22 04:23:00
 modified: 2005-12-22 04:23:00
 permalink: 2005/12/21/better-late-than-never/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 119
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Better late than never

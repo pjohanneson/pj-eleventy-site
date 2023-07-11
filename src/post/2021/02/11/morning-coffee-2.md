@@ -5,9 +5,26 @@ excerpt: "Some macrophotography, for a change of pace."
 date: 2021-02-11 16:00:00
 modified: 2021-02-11 16:00:00
 permalink: 2021/02/11/morning-coffee-2/index.html
-tags: ["Coffee", "Coffee Beans", "Macro", "Photos"]
 featured_img: 
 wpid: 4619
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4617
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_description: Adventures in macrophotography. Click
+    through for beans, a cabochon, and a trio of flowers.
+  _wpas_mess: Adventures in macrophotography. Click through for beans, a cabochon, and
+    a trio of flowers.
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Coffee", "Coffee Beans", "Macro", "Photos"]
+post_tag: ["Coffee", "Coffee Beans", "Macro"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Morning coffee

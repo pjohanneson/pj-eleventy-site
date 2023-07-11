@@ -5,9 +5,20 @@ excerpt: "It got cold today."
 date: 2019-01-16 23:50:37
 modified: 2019-01-16 23:50:37
 permalink: 2019/01/16/wintry/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3133
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3134
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Wintry

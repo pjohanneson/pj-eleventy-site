@@ -5,9 +5,22 @@ excerpt: "8 kids tonight."
 date: 2021-11-01 03:06:57
 modified: 2021-11-01 03:06:57
 permalink: 2021/10/31/halloween-tally-2021/index.html
-tags: ["Halloween", "Hollow Bean", "Trick Or Treat", "So It Goes"]
 featured_img: 
 wpid: 5160
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_skip_24701283: 1
+  _wpas_done_all: 1
+  _wpas_mess: 'Hallowe''en Tally 2021 - TL;DR: we''ve got candy left over.'
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Halloween", "Hollow Bean", "Trick Or Treat", "So It Goes"]
+post_tag: ["Halloween", "Hollow Bean", "Trick Or Treat"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hallowe&#8217;en Tally 2021

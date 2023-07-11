@@ -5,9 +5,29 @@ excerpt: "Something got between me and the light I wanted to see."
 date: 2022-07-02 20:42:00
 modified: 2022-07-02 20:42:00
 permalink: 2022/07/02/clouded-aurora/index.html
-tags: ["Aurora", "Aurora Borealis", "Clouds", "Photos", "So It Goes"]
 featured_img: 
 wpid: 5479
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/07/IMG_8796-2000.jpg
+  _webdados_fb_open_graph_specific_description: Something got between me and the light
+    I wanted to see.
+  _wpas_done_all: 1
+  _oembed_3f1edb3c61c9e138c530d017e578b80f: <iframe title="Clouded Aurora, July 2, 2022"
+    src="https://player.vimeo.com/video/726340568?h=832e12bf6e&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_3f1edb3c61c9e138c530d017e578b80f: 1679099437
+  
+  
+taxonomy_terms_all: ["Aurora", "Aurora Borealis", "Clouds", "Photos", "So It Goes"]
+post_tag: ["Aurora", "Aurora Borealis", "Clouds"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Clouded Aurora

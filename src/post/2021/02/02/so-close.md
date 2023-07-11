@@ -5,9 +5,21 @@ excerpt: "Brought to you by the letters P, L, and The Submissions Grinder, q.v."
 date: 2021-02-02 03:28:48
 modified: 2021-02-02 03:28:48
 permalink: 2021/02/01/so-close/index.html
-tags: ["Rejections", "So Close", "We Were Once So Close To Heaven Peter Came Out And Gave Us Medals Declaring Us The Nicest Of The Damned", "So It Goes", "Writing"]
 featured_img: 
 wpid: 4588
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Rejections", "So Close", "We Were Once So Close To Heaven Peter Came Out And Gave Us Medals Declaring Us The Nicest Of The Damned", "So It Goes", "Writing"]
+post_tag: ["Rejections", "So Close", "We Were Once So Close To Heaven Peter Came Out And Gave Us Medals Declaring Us The Nicest Of The Damned"]
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # So close

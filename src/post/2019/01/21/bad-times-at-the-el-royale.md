@@ -5,9 +5,25 @@ excerpt: "A kaleidoscope of a movie."
 date: 2019-01-21 23:26:34
 modified: 2019-01-21 23:26:34
 permalink: 2019/01/21/bad-times-at-the-el-royale/index.html
-tags: ["Movies", "Music", "Reviews"]
 featured_img: 
 wpid: 3136
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3137
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_91797479d6a73deff1fbbf3d86408522: <iframe title="Bad Times at the El Royale
+    | Official Trailer [HD] | 20th Century FOX" width="500" height="281" src="https://www.youtube.com/embed/y7wzBVARwaU?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_91797479d6a73deff1fbbf3d86408522: 1679099439
+  
+  
+taxonomy_terms_all: ["Movies", "Music", "Reviews"]
+post_tag: []
+category: ["Movies", "Music", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bad Times at the El Royale

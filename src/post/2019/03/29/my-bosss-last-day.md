@@ -5,9 +5,24 @@ excerpt: "So long and thanks for everything, Al."
 date: 2019-03-29 17:12:54
 modified: 2019-03-29 17:12:54
 permalink: 2019/03/29/my-bosss-last-day/index.html
-tags: ["Music"]
 featured_img: 
 wpid: 3234
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_5187e452d716b0911303b1549c1bd40f: <iframe title="Corb Lund - Heavy and Leaving"
+    width="500" height="281" src="https://www.youtube.com/embed/W-tm34IRP0s?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_5187e452d716b0911303b1549c1bd40f: 1679099439
+  
+  
+taxonomy_terms_all: ["Music"]
+post_tag: []
+category: ["Music"]
+tags: post
+include_wp_css: 1
 ---
 
 # My boss&#8217;s last day

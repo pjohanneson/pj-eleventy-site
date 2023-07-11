@@ -5,9 +5,20 @@ excerpt: "A buoy, an eagle, some bales, and a hotrod."
 date: 2020-08-29 23:57:55
 modified: 2020-08-29 23:57:55
 permalink: 2020/08/29/todays-bike-ride/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4229
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4226
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Today&#8217;s bike ride

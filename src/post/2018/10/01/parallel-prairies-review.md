@@ -5,9 +5,20 @@ excerpt: "&amp;#8220;Johanneson finds an artful balance between suspense and sen
 date: 2018-10-01 17:10:22
 modified: 2018-10-01 17:10:22
 permalink: 2018/10/01/parallel-prairies-review/index.html
-tags: ["Blogtober 2018", "Parallel Prairies", "Prairiesf", "Vincent And Charlie", "Reviews", "Writing"]
 featured_img: 
 wpid: 2903
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2730
+  _edit_last: 1
+  _wpas_done_all: 1
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1538556970;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2729;}i:1;a:1:{s:2:"id";i:1982;}i:2;a:1:{s:2:"id";i:2229;}}}}
+  
+  
+taxonomy_terms_all: ["Blogtober 2018", "Parallel Prairies", "Prairiesf", "Vincent And Charlie", "Reviews", "Writing"]
+post_tag: ["Blogtober 2018", "Parallel Prairies", "Prairiesf", "Vincent And Charlie"]
+category: ["Reviews", "Writing"]
+tags: post
 ---
 
 # Parallel Prairies review

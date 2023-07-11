@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-08-03 12:17:47
 modified: 2011-08-03 12:17:47
 permalink: 2011/08/03/so-far-so-good/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 882
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # So far so good

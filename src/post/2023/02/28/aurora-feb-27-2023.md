@@ -5,7 +5,6 @@ excerpt: "Some colours in the sky."
 date: 2023-02-28 05:47:30
 modified: 2023-02-28 05:47:30
 permalink: 2023/02/27/aurora-feb-27-2023/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Photos"]
 featured_img: 
 wpid: 6007
 all_meta: 
@@ -19,10 +18,17 @@ all_meta:
   swanwick_fake_thumbnail_id: 5834
   _wpas_skip_24701283: 1
   _wpas_skip_5318444: 1
-  _pingme: 1
-  _encloseme: 1
+  _oembed_2b8ce383081406118b6315060d09ba53: '<iframe title="Aurora: Feb. 27, 2023" src="https://player.vimeo.com/video/802950544?h=54797b078f&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>'
+  _oembed_time_2b8ce383081406118b6315060d09ba53: 1679094121
   
   
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Aurora, Feb. 27, 2023

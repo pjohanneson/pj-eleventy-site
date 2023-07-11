@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-06 17:02:49
 modified: 2006-04-06 17:02:49
 permalink: 2006/04/06/crazy-ideas-file-1/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 197
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Crazy Ideas file, #1

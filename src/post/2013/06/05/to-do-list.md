@@ -5,9 +5,19 @@ excerpt: "Step one: make a list."
 date: 2013-06-05 17:40:52
 modified: 2013-06-05 17:40:52
 permalink: 2013/06/05/to-do-list/index.html
-tags: ["So It Goes", "WordPress", "Writing"]
 featured_img: 
 wpid: 1275
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  epigraph: The hurrier I go, the behinder I get.
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "WordPress", "Writing"]
+post_tag: []
+category: ["So It Goes", "WordPress", "Writing"]
+tags: post
 ---
 
 # To Do list

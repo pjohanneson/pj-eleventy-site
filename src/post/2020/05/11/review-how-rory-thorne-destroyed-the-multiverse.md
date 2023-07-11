@@ -5,9 +5,18 @@ excerpt: "It&amp;#8217;s a good book, Bront."
 date: 2020-05-11 01:10:40
 modified: 2020-05-11 01:10:40
 permalink: 2020/05/10/review-how-rory-thorne-destroyed-the-multiverse/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 3895
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3896
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: How Rory Thorne Destroyed the Multiverse

@@ -5,9 +5,19 @@ excerpt: "It&amp;#8217;s likely that Jupiter didn&amp;#8217;t start out in its c
 date: 2019-03-25 22:24:04
 modified: 2019-03-25 22:24:04
 permalink: 2019/03/25/jupiters-birth/index.html
-tags: ["Jupiter", "Trojan Asteroids", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 3228
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3230
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Jupiter", "Trojan Asteroids", "Ne-e-e-e-e-erd!"]
+post_tag: ["Jupiter", "Trojan Asteroids"]
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Jupiter&#8217;s Birth

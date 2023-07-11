@@ -5,9 +5,22 @@ excerpt: "Planets and stars."
 date: 2018-07-07 19:33:45
 modified: 2018-07-07 19:33:45
 permalink: 2018/07/07/some-more-stars/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 2762
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 2771
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Some more stars

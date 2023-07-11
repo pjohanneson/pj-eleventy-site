@@ -5,9 +5,20 @@ excerpt: "OK, fine, the leaves are pretty."
 date: 2020-09-26 16:30:56
 modified: 2020-09-26 16:30:56
 permalink: 2020/09/26/all-right-autumn-can-be-pretty/index.html
-tags: ["Autumn", "Autumn Leaves", "Bdnmb", "Bike Ride", "Leaves", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4285
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4292
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Autumn", "Autumn Leaves", "Bdnmb", "Bike Ride", "Leaves", "Photos", "So It Goes"]
+post_tag: ["Autumn", "Autumn Leaves", "Bdnmb", "Bike Ride", "Leaves"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # All right, autumn can be pretty

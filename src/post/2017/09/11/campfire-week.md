@@ -5,9 +5,19 @@ excerpt: "Mmmm, smoky."
 date: 2017-09-11 17:42:04
 modified: 2017-09-11 17:42:04
 permalink: 2017/09/11/campfire-week/index.html
-tags: ["Amusing", "So It Goes", "Weather"]
 featured_img: 
 wpid: 2443
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2445
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes", "Weather"]
+post_tag: []
+category: ["Amusing", "So It Goes", "Weather"]
+tags: post
 ---
 
 # Campfire Week

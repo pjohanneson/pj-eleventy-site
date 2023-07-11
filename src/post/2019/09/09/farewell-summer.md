@@ -5,9 +5,18 @@ excerpt: "It never lasts long enough."
 date: 2019-09-09 22:14:02
 modified: 2019-09-09 22:14:02
 permalink: 2019/09/09/farewell-summer/index.html
-tags: ["Melancholy", "Oh Well", "Seasons", "So It Goes"]
 featured_img: 
 wpid: 3511
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3427
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Melancholy", "Oh Well", "Seasons", "So It Goes"]
+post_tag: ["Melancholy", "Oh Well", "Seasons"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Farewell, summer

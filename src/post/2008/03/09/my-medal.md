@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-09 00:07:21
 modified: 2008-03-09 00:07:21
 permalink: 2008/03/08/my-medal/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 415
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # My medal

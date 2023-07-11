@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-22 13:07:30
 modified: 2006-10-22 13:07:30
 permalink: 2006/10/22/amusing-comments/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 299
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Amusing comments

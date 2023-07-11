@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-04-25 18:10:00
 modified: 2005-04-25 18:10:00
 permalink: 2005/04/25/rejected-again-damn/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 764
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Rejected again.  Damn.

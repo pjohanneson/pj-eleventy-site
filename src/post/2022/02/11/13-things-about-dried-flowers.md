@@ -5,9 +5,23 @@ excerpt: "Thursday Thirteen! But on a Friday!"
 date: 2022-02-11 18:24:47
 modified: 2022-02-11 18:24:47
 permalink: 2022/02/11/13-things-about-dried-flowers/index.html
-tags: ["Dried Flowers", "Palimpsests", "Thursday Thirteen", "Writing"]
 featured_img: 
 wpid: 5256
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _thumbnail_id: 5255
+  _wpas_mess: 'Things you should know about my #Palimpsests story.'
+  _wpas_feature_enabled: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Dried Flowers", "Palimpsests", "Thursday Thirteen", "Writing"]
+post_tag: ["Dried Flowers", "Palimpsests", "Thursday Thirteen"]
+category: ["Writing"]
+tags: post
 ---
 
 # 13 things about &#8220;Dried Flowers&#8221;

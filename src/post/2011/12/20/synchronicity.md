@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-12-20 23:36:21
 modified: 2011-12-20 23:36:21
 permalink: 2011/12/20/synchronicity/index.html
-tags: ["Weird"]
 featured_img: 
 wpid: 916
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Weird"]
+post_tag: []
+category: ["Weird"]
+tags: post
 ---
 
 # Synchronicity

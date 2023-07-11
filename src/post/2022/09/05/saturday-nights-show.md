@@ -5,9 +5,28 @@ excerpt: "South of Boissevain."
 date: 2022-09-05 16:43:53
 modified: 2022-09-05 16:43:53
 permalink: 2022/09/05/saturday-nights-show/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Milky Way", "Photography", "Photos"]
 featured_img: 
 wpid: 5661
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 5658
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108946800018636715
+  _oembed_d5b4587e0418c7832cea1dbf8fda6399: <iframe title="Aurora, Sept. 3, 2022" src="https://player.vimeo.com/video/746593702?h=9a3f305d9c&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_d5b4587e0418c7832cea1dbf8fda6399: 1679099437
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Milky Way", "Photography", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis", "Milky Way", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Saturday night&#8217;s show

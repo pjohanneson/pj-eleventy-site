@@ -5,9 +5,18 @@ excerpt: "My setup, for now."
 date: 2020-03-19 18:47:26
 modified: 2020-03-19 18:47:26
 permalink: 2020/03/19/workin-from-home/index.html
-tags: ["Covid-19 Pandemic", "Working From Home", "So It Goes"]
 featured_img: 
 wpid: 3808
+all_meta: 
+  _thumbnail_id: 3807
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Covid-19 Pandemic", "Working From Home", "So It Goes"]
+post_tag: ["Covid-19 Pandemic", "Working From Home"]
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Workin&#8217; from home

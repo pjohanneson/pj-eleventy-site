@@ -5,9 +5,19 @@ excerpt: "Another fine day."
 date: 2019-07-24 19:55:06
 modified: 2019-07-24 19:55:06
 permalink: 2019/07/24/writing-retreat-2019-day-2/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 3423
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3421
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2019, Day 2

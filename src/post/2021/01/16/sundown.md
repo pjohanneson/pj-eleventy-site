@@ -5,9 +5,24 @@ excerpt: ""
 date: 2021-01-16 23:38:29
 modified: 2021-01-16 23:38:29
 permalink: 2021/01/16/sundown/index.html
-tags: ["Clouds", "Pink Clouds", "Sunset", "Photos"]
 featured_img: 
 wpid: 4559
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4558
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/01/IMG_9537-2000.jpg
+  _webdados_fb_open_graph_specific_description: Are you tired of sunsets? I hope not.
+  
+  
+taxonomy_terms_all: ["Clouds", "Pink Clouds", "Sunset", "Photos"]
+post_tag: ["Clouds", "Pink Clouds", "Sunset"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Sundown

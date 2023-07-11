@@ -5,9 +5,18 @@ excerpt: "Everyone carves faces in fruit squashes and dresses up in sheets."
 date: 2016-10-31 17:35:04
 modified: 2016-10-31 17:35:04
 permalink: 2016/10/31/hollow-bean-is-here-again/index.html
-tags: ["Amusing", "Books", "Ne-e-e-e-e-erd!", "So It Goes"]
 featured_img: 
 wpid: 1990
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Books", "Ne-e-e-e-e-erd!", "So It Goes"]
+post_tag: []
+category: ["Amusing", "Books", "Ne-e-e-e-e-erd!", "So It Goes"]
+tags: post
 ---
 
 # Hollow Bean is here again.

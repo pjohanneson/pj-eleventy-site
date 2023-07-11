@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-10-11 16:45:44
 modified: 2008-10-11 16:45:44
 permalink: 2008/10/11/geothermal-baby/index.html
-tags: ["Geothermal"]
 featured_img: 
 wpid: 462
+taxonomy_terms_all: ["Geothermal"]
+post_tag: []
+category: ["Geothermal"]
+tags: post
 ---
 
 # Geothermal baby!

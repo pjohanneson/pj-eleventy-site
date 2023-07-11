@@ -5,9 +5,18 @@ excerpt: "Don&amp;#8217;t write action scenes; write scenes where action takes p
 date: 2015-05-18 01:53:16
 modified: 2015-05-18 01:53:16
 permalink: 2015/05/17/action-scenes/index.html
-tags: ["Movies", "Writing"]
 featured_img: 
 wpid: 1721
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Movies", "Writing"]
+post_tag: []
+category: ["Movies", "Writing"]
+tags: post
 ---
 
 # Action scenes

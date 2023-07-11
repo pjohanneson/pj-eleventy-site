@@ -5,9 +5,18 @@ excerpt: "Also &amp;#8220;The Death of Dr. Island&amp;#8221; and &amp;#8220;The 
 date: 2017-12-11 14:59:26
 modified: 2017-12-11 14:59:26
 permalink: 2017/12/11/the-island-of-dr-death/index.html
-tags: ["Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 2645
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # The Island of Dr. Death

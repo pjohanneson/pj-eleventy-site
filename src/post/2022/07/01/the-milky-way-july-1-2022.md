@@ -5,9 +5,29 @@ excerpt: "I spent an hour or so on a gravel road."
 date: 2022-07-01 21:48:56
 modified: 2022-07-01 21:48:56
 permalink: 2022/07/01/the-milky-way-july-1-2022/index.html
-tags: ["Astrophotography", "Milky Way", "Photos"]
 featured_img: 
 wpid: 5465
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/07/IMG_8760-2000.jpg
+  _webdados_fb_open_graph_specific_description: The galaxy, as seen from south of my
+    house
+  _oembed_1dc76698e52da7b09736283bdcf8e048: <iframe title="Milky Way rising - July 1,
+    2022" src="https://player.vimeo.com/video/726180437?h=fb6c8f91ee&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_1dc76698e52da7b09736283bdcf8e048: 1679099438
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Photos"]
+post_tag: ["Astrophotography", "Milky Way"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Milky Way, July 1, 2022

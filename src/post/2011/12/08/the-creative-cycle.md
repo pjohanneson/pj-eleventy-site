@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-12-08 14:31:47
 modified: 2011-12-08 14:31:47
 permalink: 2011/12/08/the-creative-cycle/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
 featured_img: 
 wpid: 911
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Writing"]
+tags: post
 ---
 
 # The creative cycle

@@ -5,9 +5,18 @@ excerpt: ""
 date: 2013-05-29 21:45:29
 modified: 2013-05-29 21:45:29
 permalink: 2013/05/29/mentoring/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1257
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Mentoring

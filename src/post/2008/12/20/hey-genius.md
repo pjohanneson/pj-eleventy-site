@@ -5,9 +5,12 @@ excerpt: "Hey guess what?  It&amp;#8217;s winter!  Slow down!"
 date: 2008-12-20 19:11:43
 modified: 2008-12-20 19:11:43
 permalink: 2008/12/20/hey-genius/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 510
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # hey genius

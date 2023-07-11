@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-15 01:56:35
 modified: 2006-07-15 01:56:35
 permalink: 2006/07/14/holy-crap-he-did-it/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 268
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Holy crap, he did it

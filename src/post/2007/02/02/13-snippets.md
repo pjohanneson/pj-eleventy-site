@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-02-02 04:00:03
 modified: 2007-02-02 04:00:03
 permalink: 2007/02/01/13-snippets/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 324
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # 13 snippets

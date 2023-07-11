@@ -5,9 +5,21 @@ excerpt: "Brrr. Worth it though."
 date: 2021-02-07 06:07:50
 modified: 2021-02-07 06:07:50
 permalink: 2021/02/07/bright-and-cold/index.html
-tags: ["Winter", "Photos"]
 featured_img: 
 wpid: 4601
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4602
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Winter", "Photos"]
+post_tag: ["Winter"]
+category: ["Photos"]
+tags: post
 ---
 
 # Bright and cold

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-17 01:22:30
 modified: 2007-03-17 01:22:30
 permalink: 2007/03/16/frightening/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 340
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Frightening

@@ -5,9 +5,19 @@ excerpt: "Family time."
 date: 2019-09-29 03:01:32
 modified: 2019-09-29 03:01:32
 permalink: 2019/09/28/ottawa-day-6/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3590
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3588
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
+include_wp_css: 1
 ---
 
 # Ottawa, Day 6

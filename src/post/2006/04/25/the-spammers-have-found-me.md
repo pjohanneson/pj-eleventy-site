@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-25 12:56:39
 modified: 2006-04-25 12:56:39
 permalink: 2006/04/25/the-spammers-have-found-me/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 212
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # The spammers have found me

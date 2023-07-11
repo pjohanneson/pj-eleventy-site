@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-15 16:55:56
 modified: 2006-07-15 16:55:56
 permalink: 2006/07/15/the-big-snit-is-online/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 269
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The Big Snit is online

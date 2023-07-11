@@ -5,9 +5,19 @@ excerpt: "Some photos from the last week or so."
 date: 2019-10-12 02:26:12
 modified: 2019-10-12 02:26:12
 permalink: 2019/10/11/the-last-few-days-2/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 3621
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 3625
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # The last few days

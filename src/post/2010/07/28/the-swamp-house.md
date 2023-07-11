@@ -5,9 +5,18 @@ excerpt: ""
 date: 2010-07-28 14:25:36
 modified: 2010-07-28 14:25:36
 permalink: 2010/07/28/the-swamp-house/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Patriotic? Me?", "So It Goes"]
 featured_img: 
 wpid: 723
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Patriotic? Me?", "So It Goes"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Patriotic? Me?", "So It Goes"]
+tags: post
 ---
 
 # The Swamp House

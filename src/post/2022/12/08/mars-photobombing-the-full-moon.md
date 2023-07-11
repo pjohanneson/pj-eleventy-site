@@ -5,9 +5,26 @@ excerpt: "I took photos for four whole minutes in -20°C weather for you."
 date: 2022-12-08 04:21:09
 modified: 2022-12-08 04:21:09
 permalink: 2022/12/07/mars-photobombing-the-full-moon/index.html
-tags: ["Astrophotography", "Mars", "Moon", "Photos"]
 featured_img: 
 wpid: 5740
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5742
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mstdn.ca/@pjohanneson/109476136668067195
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Mars", "Moon", "Photos"]
+post_tag: ["Astrophotography", "Mars", "Moon"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Mars photobombing the full moon

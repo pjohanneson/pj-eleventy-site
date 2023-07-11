@@ -5,9 +5,18 @@ excerpt: ""
 date: 2015-12-11 02:50:18
 modified: 2015-12-11 02:50:18
 permalink: 2015/12/10/library-haul/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 1829
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Library haul

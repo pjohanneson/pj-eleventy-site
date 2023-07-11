@@ -5,9 +5,21 @@ excerpt: ""
 date: 2022-08-21 18:00:08
 modified: 2022-08-21 18:00:08
 permalink: 2022/08/21/every-so-often/index.html
-tags: ["Amusing", "JJ"]
 featured_img: 
 wpid: 5585
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 5584
+  _last_editor_used_jetpack: block-editor
+  
+  
+taxonomy_terms_all: ["Amusing", "JJ"]
+post_tag: []
+category: ["Amusing", "JJ"]
+tags: post
+include_wp_css: 1
 ---
 
 # Every so often

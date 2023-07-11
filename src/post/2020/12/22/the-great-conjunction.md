@@ -5,9 +5,22 @@ excerpt: "Jupiturn in the viewfinder."
 date: 2020-12-22 02:02:45
 modified: 2020-12-22 02:02:45
 permalink: 2020/12/21/the-great-conjunction/index.html
-tags: ["Conjunction", "Jupiter", "Saturn", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4466
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _thumbnail_id: 4460
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Conjunction", "Jupiter", "Saturn", "Photos", "So It Goes"]
+post_tag: ["Conjunction", "Jupiter", "Saturn"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Great Conjunction

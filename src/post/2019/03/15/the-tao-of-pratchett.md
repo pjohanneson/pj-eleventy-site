@@ -5,9 +5,18 @@ excerpt: "Where the falling angel meets the rising ape."
 date: 2019-03-15 17:37:59
 modified: 2019-03-15 17:37:59
 permalink: 2019/03/15/the-tao-of-pratchett/index.html
-tags: ["Ridcully", "Rincewind", "Terry Pratchett", "Vetinari", "Amusing", "Books", "Writing"]
 featured_img: 
 wpid: 3195
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Ridcully", "Rincewind", "Terry Pratchett", "Vetinari", "Amusing", "Books", "Writing"]
+post_tag: ["Ridcully", "Rincewind", "Terry Pratchett", "Vetinari"]
+category: ["Amusing", "Books", "Writing"]
+tags: post
 ---
 
 # The Tao of Pratchett

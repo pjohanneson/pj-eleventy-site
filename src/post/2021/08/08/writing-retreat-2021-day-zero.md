@@ -5,9 +5,22 @@ excerpt: "Arrived, unpacked, took some photos."
 date: 2021-08-08 15:14:47
 modified: 2021-08-08 15:14:47
 permalink: 2021/08/08/writing-retreat-2021-day-zero/index.html
-tags: ["Astrophotography", "Minnedosa 2021", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5003
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5002
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: Getting the 2021 Writing Retreat underway
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Minnedosa 2021", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Minnedosa 2021", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat 2021, Day Zero

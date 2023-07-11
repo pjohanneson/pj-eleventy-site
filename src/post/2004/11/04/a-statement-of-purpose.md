@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-11-04 21:09:55
 modified: 2004-11-04 21:09:55
 permalink: 2004/11/04/a-statement-of-purpose/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 756
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # A statement of purpose.

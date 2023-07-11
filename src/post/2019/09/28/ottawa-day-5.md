@@ -5,9 +5,18 @@ excerpt: "Not a single museum or tour."
 date: 2019-09-28 03:45:26
 modified: 2019-09-28 03:45:26
 permalink: 2019/09/27/ottawa-day-5/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3586
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Ottawa, day 5

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-29 22:24:23
 modified: 2008-03-29 22:24:23
 permalink: 2008/03/29/snow/index.html
-tags: ["Photos", "Weather"]
 featured_img: 
 wpid: 420
+taxonomy_terms_all: ["Photos", "Weather"]
+post_tag: []
+category: ["Photos", "Weather"]
+tags: post
 ---
 
 # Snow

@@ -5,9 +5,18 @@ excerpt: "A week&amp;#8217;s never long enough when you look back on it."
 date: 2015-07-27 02:35:09
 modified: 2015-07-27 02:35:09
 permalink: 2015/07/26/writing-retreat-retrospect/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1765
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing retreat: Retrospect

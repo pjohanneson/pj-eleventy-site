@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-13 12:40:09
 modified: 2007-09-13 12:40:09
 permalink: 2007/09/13/13-books-i-have-abandoned/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 372
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # 13 books I have abandoned

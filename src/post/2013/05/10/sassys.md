@@ -5,9 +5,31 @@ excerpt: "Sassy&amp;#8217;s is gone now."
 date: 2013-05-10 17:15:08
 modified: 2013-05-10 17:15:08
 permalink: 2013/05/10/sassys/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 1231
+all_meta: 
+  _edit_last: 1
+  _oembed_4e99e983e94a0459ee547eef7adbbf92: <a href="http://www.flickr.com/photos/twostoutmonks/8699292634/"><img
+    src="http://farm9.staticflickr.com/8257/8699292634_97f8d9b798_n.jpg" alt="day 314_sassy
+    demolition" width="320" height="260" /></a>
+  _wpas_done_all: 1
+  _oembed_fdfb9573df929ae9192b5a66560b4344: <a href="http://www.flickr.com/photos/twostoutmonks/8699292634/"><img
+    src="http://farm9.staticflickr.com/8257/8699292634_97f8d9b798_n.jpg" alt="day 314_sassy
+    demolition" width="320" height="260" /></a>
+  _oembed_c724c2755071fb1e30ecdf3de4b7f2ad: <a href="http://www.flickr.com/photos/twostoutmonks/8699292634/"><img
+    src="https://farm9.staticflickr.com/8257/8699292634_97f8d9b798_z.jpg" alt="day 314_sassy
+    demolition" width="640" height="521" /></a>
+  _oembed_time_c724c2755071fb1e30ecdf3de4b7f2ad: 1511017851
+  _oembed_454da493a361f1c1bf6f24fcc14cbec3: <a href="http://www.flickr.com/photos/twostoutmonks/8699292634/"><img
+    src="https://live.staticflickr.com/8257/8699292634_97f8d9b798.jpg" alt="day 314_sassy
+    demolition" width="500" height="407" /></a>
+  _oembed_time_454da493a361f1c1bf6f24fcc14cbec3: 1679099442
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Sassy&#8217;s

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-27 21:47:08
 modified: 2007-03-27 21:47:08
 permalink: 2007/03/27/flickrblogging-img_6236/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 345
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging&#8211;IMG_6236

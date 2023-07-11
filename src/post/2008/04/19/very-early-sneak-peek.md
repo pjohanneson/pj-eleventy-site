@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-04-19 00:59:59
 modified: 2008-04-19 00:59:59
 permalink: 2008/04/18/very-early-sneak-peek/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 424
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Very early sneak peek

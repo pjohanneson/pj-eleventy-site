@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-15 04:16:27
 modified: 2007-03-15 04:16:27
 permalink: 2007/03/14/40-odd-things-about-me/index.html
-tags: ["Memes"]
 featured_img: 
 wpid: 338
+taxonomy_terms_all: ["Memes"]
+post_tag: []
+category: ["Memes"]
+tags: post
 ---
 
 # 40-odd things about me

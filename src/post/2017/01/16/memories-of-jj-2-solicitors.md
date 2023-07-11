@@ -5,9 +5,18 @@ excerpt: "I admit it. I was setting him up for it."
 date: 2017-01-16 18:15:06
 modified: 2017-01-16 18:15:06
 permalink: 2017/01/16/memories-of-jj-2-solicitors/index.html
-tags: ["JJ"]
 featured_img: 
 wpid: 2132
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["JJ"]
+post_tag: []
+category: ["JJ"]
+tags: post
 ---
 
 # Memories of JJ, 2 &#8212; Solicitors

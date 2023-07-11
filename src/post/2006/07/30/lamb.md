@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-30 02:51:01
 modified: 2006-07-30 02:51:01
 permalink: 2006/07/29/lamb/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 277
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Lamb

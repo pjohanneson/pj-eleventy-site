@@ -5,9 +5,26 @@ excerpt: "Summer&amp;#8217;s never long enough."
 date: 2022-10-05 18:15:33
 modified: 2022-10-05 18:15:33
 permalink: 2022/10/05/it-seems-to-be-autumn/index.html
-tags: ["Autumn", "Leaves", "Photography", "Photos"]
 featured_img: 
 wpid: 5702
+all_meta: 
+  _last_editor_used_jetpack: block-editor
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5705
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/109117030325319794
+  
+  
+taxonomy_terms_all: ["Autumn", "Leaves", "Photography", "Photos"]
+post_tag: ["Autumn", "Leaves", "Photography"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # It seems to be autumn

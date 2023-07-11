@@ -5,9 +5,23 @@ excerpt: "Street Nick. It&amp;#8217;s abbreviated."
 date: 2016-12-21 18:41:28
 modified: 2016-12-21 18:41:28
 permalink: 2016/12/21/a-non-standard-christmas-poem/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 2085
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_bbe857506612f5ad19bbc0ccfcef7131: '<iframe title="Superego: H.R. Giger reads
+    the Night Before Christmas" width="500" height="281" src="https://www.youtube.com/embed/u5pj7g9DfdM?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  _oembed_time_bbe857506612f5ad19bbc0ccfcef7131: 1679099441
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # A non-standard Christmas poem

@@ -5,9 +5,19 @@ excerpt: "More skies, more fiction."
 date: 2020-07-22 20:01:06
 modified: 2020-07-22 20:01:06
 permalink: 2020/07/22/writing-retreat-day-4/index.html
-tags: ["Astrophotography", "Prairiesf", "Writing", "Writing Retreat", "Photos", "So It Goes", "Writing"]
 featured_img: 
 wpid: 4123
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4105
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Prairiesf", "Writing", "Writing Retreat", "Photos", "So It Goes", "Writing"]
+post_tag: ["Astrophotography", "Prairiesf", "Writing", "Writing Retreat"]
+category: ["Photos", "So It Goes", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat, Day 4

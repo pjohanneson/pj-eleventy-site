@@ -5,9 +5,21 @@ excerpt: "&amp;#8220;A horse in human flesh&amp;#8221;? Wait what?"
 date: 2022-03-21 21:16:40
 modified: 2022-03-21 21:16:40
 permalink: 2022/03/21/ten-thousand-dreams/index.html
-tags: ["Dream Sequence", "Dreams", "Writing"]
 featured_img: 
 wpid: 5307
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4899
+  
+  
+taxonomy_terms_all: ["Dream Sequence", "Dreams", "Writing"]
+post_tag: ["Dream Sequence", "Dreams"]
+category: ["Writing"]
+tags: post
 ---
 
 # Ten Thousand Dreams

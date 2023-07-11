@@ -5,9 +5,18 @@ excerpt: "SF/F can indeed be sublime."
 date: 2016-01-18 17:22:31
 modified: 2016-01-18 17:22:31
 permalink: 2016/01/18/more-jetpack-envy/index.html
-tags: ["Books", "So It Goes", "Writing"]
 featured_img: 
 wpid: 1867
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "So It Goes", "Writing"]
+post_tag: []
+category: ["Books", "So It Goes", "Writing"]
+tags: post
 ---
 
 # More jetpack envy?

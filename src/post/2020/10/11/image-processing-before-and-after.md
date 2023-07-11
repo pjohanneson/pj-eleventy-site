@@ -5,9 +5,18 @@ excerpt: "The all-important processing step."
 date: 2020-10-11 03:43:00
 modified: 2020-10-11 03:43:00
 permalink: 2020/10/10/image-processing-before-and-after/index.html
-tags: ["Astrophotography", "Milky Way", "Processing", "Photos"]
 featured_img: 
 wpid: 4332
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Processing", "Photos"]
+post_tag: ["Astrophotography", "Milky Way", "Processing"]
+category: ["Photos"]
+tags: post
 ---
 
 # Image processing: before and after

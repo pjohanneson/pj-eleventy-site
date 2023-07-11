@@ -5,9 +5,17 @@ excerpt: "Wheat, wheat, wheat, wheat, one-way streets, and wheat."
 date: 2010-03-16 13:56:55
 modified: 2010-03-16 13:56:55
 permalink: 2010/03/16/what-have-i-done/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 690
+all_meta: 
+  aktt_notify_twitter: "no"
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # What have I done?

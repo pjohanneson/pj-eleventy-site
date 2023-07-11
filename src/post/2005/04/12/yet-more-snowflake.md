@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-04-12 02:29:00
 modified: 2005-04-12 02:29:00
 permalink: 2005/04/11/yet-more-snowflake/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 762
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # yet more snowflake

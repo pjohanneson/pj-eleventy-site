@@ -5,9 +5,18 @@ excerpt: "EXTRY! EXTRY! Local writer sells story to King film-maker! Read all ab
 date: 2009-04-14 21:54:25
 modified: 2009-04-14 21:54:25
 permalink: 2009/04/14/the-movie-deal/index.html
-tags: ["Flickrblogging", "Movies", "Photos", "Writing"]
 featured_img: 
 wpid: 580
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Movies", "Photos", "Writing"]
+post_tag: []
+category: ["Flickrblogging", "Movies", "Photos", "Writing"]
+tags: post
 ---
 
 # The movie deal (now with picture!)

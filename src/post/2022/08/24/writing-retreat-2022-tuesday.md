@@ -5,9 +5,25 @@ excerpt: "My 2nd full day at the cabin"
 date: 2022-08-24 02:50:57
 modified: 2022-08-24 02:50:57
 permalink: 2022/08/23/writing-retreat-2022-tuesday/index.html
-tags: ["Writing Retreat", "Writing"]
 featured_img: 
 wpid: 5599
+all_meta: 
+  _wpcom_is_markdown: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108879587607043515
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5589
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _wp_old_date: "2022-08-24"
+  
+  
+taxonomy_terms_all: ["Writing Retreat", "Writing"]
+post_tag: ["Writing Retreat"]
+category: ["Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2022: Tuesday

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-04 02:07:00
 modified: 2005-08-04 02:07:00
 permalink: 2005/08/03/wednesday-night-geekery/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 63
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Wednesday Night Geekery

@@ -5,9 +5,24 @@ excerpt: "Flamingos, then aurora."
 date: 2021-01-26 04:35:08
 modified: 2021-01-26 04:35:08
 permalink: 2021/01/25/a-colourful-day/index.html
-tags: ["Aurora", "Pink", "Photos"]
 featured_img: 
 wpid: 4569
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4568
+  _wpas_mess: 'A colourful day: Flamingos and aurora'
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/01/IMG_9620-2000.jpg
+  
+  
+taxonomy_terms_all: ["Aurora", "Pink", "Photos"]
+post_tag: ["Aurora", "Pink"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A colourful day

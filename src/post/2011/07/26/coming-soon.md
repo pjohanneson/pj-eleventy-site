@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-07-26 12:07:12
 modified: 2011-07-26 12:07:12
 permalink: 2011/07/26/coming-soon/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 875
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Coming Soon

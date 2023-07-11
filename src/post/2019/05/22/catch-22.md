@@ -5,9 +5,17 @@ excerpt: "It&amp;#8217;s a hell of a catch."
 date: 2019-05-22 04:20:33
 modified: 2019-05-22 04:20:33
 permalink: 2019/05/21/catch-22/index.html
-tags: ["Books", "Idiot Box"]
 featured_img: 
 wpid: 3305
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Books", "Idiot Box"]
+post_tag: []
+category: ["Books", "Idiot Box"]
+tags: post
 ---
 
 # Catch-22

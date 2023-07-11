@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-18 13:00:39
 modified: 2006-05-18 13:00:39
 permalink: 2006/05/18/fm-challenge/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 228
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # FM Challenge

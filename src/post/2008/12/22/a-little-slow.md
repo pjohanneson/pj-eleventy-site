@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-22 04:34:02
 modified: 2008-12-22 04:34:02
 permalink: 2008/12/21/a-little-slow/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 516
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # A little slow

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-08-12 13:13:02
 modified: 2006-08-12 13:13:02
 permalink: 2006/08/12/stormy/index.html
-tags: ["Weather"]
 featured_img: 
 wpid: 279
+taxonomy_terms_all: ["Weather"]
+post_tag: []
+category: ["Weather"]
+tags: post
 ---
 
 # Stormy

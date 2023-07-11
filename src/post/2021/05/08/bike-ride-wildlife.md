@@ -5,9 +5,22 @@ excerpt: "Deer and pigeons."
 date: 2021-05-08 22:17:43
 modified: 2021-05-08 22:17:43
 permalink: 2021/05/08/bike-ride-wildlife/index.html
-tags: ["Bike Ride", "Deer", "Pigeons", "Riverbank", "Photos"]
 featured_img: 
 wpid: 4825
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 4826
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Deer", "Pigeons", "Riverbank", "Photos"]
+post_tag: ["Bike Ride", "Deer", "Pigeons", "Riverbank"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike ride wildlife

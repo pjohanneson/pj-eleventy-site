@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-18 19:53:30
 modified: 2006-03-18 19:53:30
 permalink: 2006/03/18/game-shows/index.html
-tags: ["Idiot Box"]
 featured_img: 
 wpid: 186
+taxonomy_terms_all: ["Idiot Box"]
+post_tag: []
+category: ["Idiot Box"]
+tags: post
 ---
 
 # Game shows

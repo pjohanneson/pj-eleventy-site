@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-19 21:33:40
 modified: 2006-02-19 21:33:40
 permalink: 2006/02/19/the-iron-sunrise/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 159
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # Iron Sunrise

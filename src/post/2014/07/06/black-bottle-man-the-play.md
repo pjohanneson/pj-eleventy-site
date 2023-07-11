@@ -5,9 +5,20 @@ excerpt: "As usual, the Devil got all the best lines."
 date: 2014-07-06 20:58:58
 modified: 2014-07-06 20:58:58
 permalink: 2014/07/06/black-bottle-man-the-play/index.html
-tags: ["Photos", "Reviews"]
 featured_img: 
 wpid: 1548
+all_meta: 
+  _wpcom_is_markdown: 1
+  _sd_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  epigraph: The Devil gets all the best lines.
+  
+  
+taxonomy_terms_all: ["Photos", "Reviews"]
+post_tag: []
+category: ["Photos", "Reviews"]
+tags: post
 ---
 
 # Black Bottle Man &#8212; the play

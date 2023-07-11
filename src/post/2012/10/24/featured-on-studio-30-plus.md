@@ -5,9 +5,17 @@ excerpt: "One takeaway: poetry is where the money is, according to my single dat
 date: 2012-10-24 17:15:22
 modified: 2012-10-24 17:15:22
 permalink: 2012/10/24/featured-on-studio-30-plus/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1151
+all_meta: 
+  _edit_last: 1
+  epigraph: '"It''s probably the highest rate per word I''ll ever see."'
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Featured on Studio 30 Plus

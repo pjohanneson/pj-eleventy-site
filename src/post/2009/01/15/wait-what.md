@@ -5,9 +5,12 @@ excerpt: ""
 date: 2009-01-15 17:10:49
 modified: 2009-01-15 17:10:49
 permalink: 2009/01/15/wait-what/index.html
-tags: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Weird"]
 featured_img: 
 wpid: 537
+taxonomy_terms_all: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Weird"]
+post_tag: []
+category: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Weird"]
+tags: post
 ---
 
 # Wait, what?

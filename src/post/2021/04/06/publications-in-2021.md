@@ -5,9 +5,21 @@ excerpt: "Two short stories in print in one year."
 date: 2021-04-06 23:50:18
 modified: 2021-04-06 23:50:18
 permalink: 2021/04/06/publications-in-2021/index.html
-tags: ["Flash Fiction", "Short Story", "Summertime In The Void", "The Atlas", "Writing"]
 featured_img: 
 wpid: 4754
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4739
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Flash Fiction", "Short Story", "Summertime In The Void", "The Atlas", "Writing"]
+post_tag: ["Flash Fiction", "Short Story", "Summertime In The Void", "The Atlas"]
+category: ["Writing"]
+tags: post
 ---
 
 # Publications in 2021

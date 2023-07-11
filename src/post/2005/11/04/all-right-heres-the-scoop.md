@@ -5,9 +5,17 @@ excerpt: ""
 date: 2005-11-04 03:33:00
 modified: 2005-11-04 03:33:00
 permalink: 2005/11/03/all-right-heres-the-scoop/index.html
-tags: ["Judo", "Writing"]
 featured_img: 
 wpid: 109
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Judo", "Writing"]
+post_tag: []
+category: ["Judo", "Writing"]
+tags: post
 ---
 
 # All right, here&#8217;s the scoop

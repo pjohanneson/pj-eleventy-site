@@ -5,9 +5,23 @@ excerpt: "&amp;#8220;…I’m very glad that a so called institute of higher lea
 date: 2017-11-30 18:11:04
 modified: 2017-11-30 18:11:04
 permalink: 2017/11/30/mercer-on-censorship/index.html
-tags: ["So It Goes", "Youtubery"]
 featured_img: 
 wpid: 2641
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_f7b653d73c5e3df0b0cfffa8d344ed8b: <iframe title="Rick&#039;s Rant - University
+    Censorship" width="500" height="281" src="https://www.youtube.com/embed/JCy-nLzlTKs?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_f7b653d73c5e3df0b0cfffa8d344ed8b: 1679099440
+  
+  
+taxonomy_terms_all: ["So It Goes", "Youtubery"]
+post_tag: []
+category: ["So It Goes", "Youtubery"]
+tags: post
 ---
 
 # Rick Mercer on university censorship

@@ -5,9 +5,19 @@ excerpt: "How the man I&amp;#8217;m named for died, in WWII, at less than half m
 date: 2017-08-18 17:42:00
 modified: 2017-08-18 17:42:00
 permalink: 2017/08/18/thomas-patrick-quinn/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 2421
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3677
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Thomas Patrick Quinn

@@ -5,9 +5,17 @@ excerpt: ""
 date: 2012-06-19 23:33:49
 modified: 2012-06-19 23:33:49
 permalink: 2012/06/19/bruce/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 1072
+all_meta: 
+  _edit_last: 1
+  _wp_old_slug: 1-new-flickr-photos-2
+  
+  
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Bruce.

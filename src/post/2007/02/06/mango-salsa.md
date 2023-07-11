@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-02-06 03:57:17
 modified: 2007-02-06 03:57:17
 permalink: 2007/02/05/mango-salsa/index.html
-tags: ["Photos", "Recipes"]
 featured_img: 
 wpid: 329
+taxonomy_terms_all: ["Photos", "Recipes"]
+post_tag: []
+category: ["Photos", "Recipes"]
+tags: post
 ---
 
 # Mango salsa

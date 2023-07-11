@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-09-11 21:09:06
 modified: 2008-09-11 21:09:06
 permalink: 2008/09/11/things-i-have-learned/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 449
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Things I have learned

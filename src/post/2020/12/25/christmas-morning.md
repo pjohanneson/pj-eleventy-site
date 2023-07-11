@@ -5,9 +5,26 @@ excerpt: "The tree&amp;#8217;s lit and the coffee&amp;#8217;s poured."
 date: 2020-12-25 17:30:52
 modified: 2020-12-25 17:30:52
 permalink: 2020/12/25/christmas-morning/index.html
-tags: ["Christmas", "Christmas Morning", "Coffee Time", "Merry", "Photos"]
 featured_img: 
 wpid: 4484
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4483
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: |-
+    Merry Christmas, all.
+  
+    (Click through for more photos.)
+  
+  
+taxonomy_terms_all: ["Christmas", "Christmas Morning", "Coffee Time", "Merry", "Photos"]
+post_tag: ["Christmas", "Christmas Morning", "Coffee Time", "Merry"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Christmas morning

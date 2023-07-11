@@ -5,9 +5,17 @@ excerpt: ""
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["So It Goes"]
 featured_img: 
 wpid: 4298
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Responsibilities

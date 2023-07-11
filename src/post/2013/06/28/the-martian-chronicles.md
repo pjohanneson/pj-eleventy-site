@@ -5,9 +5,18 @@ excerpt: "The first time I read The Martian Chronicles, all the dates were still
 date: 2013-06-28 13:17:54
 modified: 2013-06-28 13:17:54
 permalink: 2013/06/28/the-martian-chronicles/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 1339
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # The Martian Chronicles

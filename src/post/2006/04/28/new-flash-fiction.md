@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-28 03:33:40
 modified: 2006-04-28 03:33:40
 permalink: 2006/04/27/new-flash-fiction/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 213
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # New flash fiction

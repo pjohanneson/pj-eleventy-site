@@ -5,9 +5,18 @@ excerpt: "One of these days, someone will publish &amp;#8220;The Overnight Shift
 date: 2016-12-23 19:29:00
 modified: 2016-12-23 19:29:00
 permalink: 2016/12/23/lather-rinse-repeat/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 2099
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Lather; rinse; repeat

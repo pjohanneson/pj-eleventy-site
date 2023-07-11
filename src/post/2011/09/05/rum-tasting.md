@@ -5,9 +5,16 @@ excerpt: "In which Kevin and I taste some rum."
 date: 2011-09-05 18:01:37
 modified: 2011-09-05 18:01:37
 permalink: 2011/09/05/rum-tasting/index.html
-tags: ["Amusing", "Gourmandise", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 893
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Gourmandise", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Amusing", "Gourmandise", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Rum tasting

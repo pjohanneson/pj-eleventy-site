@@ -5,9 +5,20 @@ excerpt: ""
 date: 2016-03-21 02:04:52
 modified: 2016-03-21 02:04:52
 permalink: 2016/03/20/movie-time/index.html
-tags: ["Movies"]
 featured_img: 
 wpid: 1886
+all_meta: 
+  _wpcom_is_markdown: 1
+  geo_latitude: 49
+  geo_longitude: -99
+  geo_public: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Movies"]
+post_tag: []
+category: ["Movies"]
+tags: post
 ---
 
 # Movie time

@@ -5,9 +5,23 @@ excerpt: "My lunchtime visitor."
 date: 2020-12-02 18:55:59
 modified: 2020-12-02 18:55:59
 permalink: 2020/12/02/little-bird-little-bird/index.html
-tags: ["Bird", "Birdwatching", "Photos"]
 featured_img: 
 wpid: 4410
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4409
+  _wpas_mess: "Little bird, little bird\u2014my lunchtime visitor."
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Bird", "Birdwatching", "Photos"]
+post_tag: ["Bird", "Birdwatching"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Little bird, little bird

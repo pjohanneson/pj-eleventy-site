@@ -5,9 +5,20 @@ excerpt: ""
 date: 2020-05-18 22:48:35
 modified: 2020-05-18 22:48:35
 permalink: 2020/05/18/across-town/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3923
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _wp_old_date: "2020-05-24"
+  swanwick_fake_thumbnail_id: 3921
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Across Town

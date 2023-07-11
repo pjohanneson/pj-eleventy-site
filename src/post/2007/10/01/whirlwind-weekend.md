@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-10-01 12:33:46
 modified: 2007-10-01 12:33:46
 permalink: 2007/10/01/whirlwind-weekend/index.html
-tags: ["Books", "Judo", "Life", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 393
+taxonomy_terms_all: ["Books", "Judo", "Life", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Books", "Judo", "Life", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Whirlwind Weekend

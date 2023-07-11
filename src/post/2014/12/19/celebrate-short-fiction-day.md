@@ -5,9 +5,23 @@ excerpt: "On the shortest day of the Northern year, take some time to enjoy some
 date: 2014-12-19 18:44:55
 modified: 2014-12-19 18:44:55
 permalink: 2014/12/19/celebrate-short-fiction-day/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1630
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  epigraph: "\u201CYou want to see a trick?\u201D\n\nHer eyes nar\xADrowed. \u201CWhat
+    kind?\u201D\n\n\u201CLike noth\xADing you\u2019ve ever seen,\u201D he said, and
+    took a swig straight from the bot\xADtle. Red wine stained his teeth. \u201CPromise.\u201D"
+  epigraph_citation: From "The Trick"
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Celebrate Short Fiction Day

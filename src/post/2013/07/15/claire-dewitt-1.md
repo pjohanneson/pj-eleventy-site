@@ -5,9 +5,19 @@ excerpt: "This will not end well."
 date: 2013-07-15 00:53:19
 modified: 2013-07-15 00:53:19
 permalink: 2013/07/14/claire-dewitt-1/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 1367
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  epigraph: This will not end well.
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: Claire DeWitt and the City of the Dead

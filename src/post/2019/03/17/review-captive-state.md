@@ -5,9 +5,24 @@ excerpt: "tl;dr: It&amp;#8217;s OK, I guess."
 date: 2019-03-17 20:40:03
 modified: 2019-03-17 20:40:03
 permalink: 2019/03/17/review-captive-state/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 3205
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_2403569951c1c857ad5eff4d658cd0d3: <iframe title="Captive State Official Trailer
+    (2019) John Goodman, Ashton Sanders, Vera Farmiga" width="500" height="281" src="https://www.youtube.com/embed/mHnrMJ-9Gsk?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_2403569951c1c857ad5eff4d658cd0d3: 1679099439
+  
+  
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # Review: Captive State

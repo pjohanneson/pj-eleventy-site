@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-15 13:39:16
 modified: 2007-01-15 13:39:16
 permalink: 2007/01/15/update/index.html
-tags: ["Etnh", "Writing"]
 featured_img: 
 wpid: 319
+taxonomy_terms_all: ["Etnh", "Writing"]
+post_tag: []
+category: ["Etnh", "Writing"]
+tags: post
 ---
 
 # Update

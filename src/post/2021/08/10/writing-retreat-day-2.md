@@ -5,9 +5,21 @@ excerpt: "A rainy Monday"
 date: 2021-08-10 19:09:25
 modified: 2021-08-10 19:09:25
 permalink: 2021/08/10/writing-retreat-day-2/index.html
-tags: ["Rain", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5019
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 5020
+  
+  
+taxonomy_terms_all: ["Rain", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Rain", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat, day 2

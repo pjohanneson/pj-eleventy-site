@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-29 03:42:00
 modified: 2005-09-29 03:42:00
 permalink: 2005/09/28/yes-but-is-it-art/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 93
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Yes, but is it Art?

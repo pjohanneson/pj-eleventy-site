@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-19 04:34:56
 modified: 2007-07-19 04:34:56
 permalink: 2007/07/18/comedy-gold/index.html
-tags: ["Amusing", "Idiot Box"]
 featured_img: 
 wpid: 378
+taxonomy_terms_all: ["Amusing", "Idiot Box"]
+post_tag: []
+category: ["Amusing", "Idiot Box"]
+tags: post
 ---
 
 # Comedy gold

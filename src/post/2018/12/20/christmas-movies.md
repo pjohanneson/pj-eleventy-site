@@ -5,9 +5,19 @@ excerpt: "Of all the Charlie Browns, you&amp;#8217;re the Charlie Browniest."
 date: 2018-12-20 18:15:33
 modified: 2018-12-20 18:15:33
 permalink: 2018/12/20/christmas-movies/index.html
-tags: ["Charlie Brown", "Christmas Movies", "Die Hard", "Kiss Kiss Bang Bang", "Shane Black", "Amusing", "Movies", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 3073
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3076
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Charlie Brown", "Christmas Movies", "Die Hard", "Kiss Kiss Bang Bang", "Shane Black", "Amusing", "Movies", "Ne-e-e-e-e-erd!"]
+post_tag: ["Charlie Brown", "Christmas Movies", "Die Hard", "Kiss Kiss Bang Bang", "Shane Black"]
+category: ["Amusing", "Movies", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Christmas movies

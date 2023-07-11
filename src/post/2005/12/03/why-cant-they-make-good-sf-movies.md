@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-12-03 22:43:00
 modified: 2005-12-03 22:43:00
 permalink: 2005/12/03/why-cant-they-make-good-sf-movies/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 116
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Why can&#8217;t they make good SF movies?

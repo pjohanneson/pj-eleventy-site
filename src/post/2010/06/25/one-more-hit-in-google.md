@@ -5,9 +5,23 @@ excerpt: ""
 date: 2010-06-25 02:11:28
 modified: 2010-06-25 02:11:28
 permalink: 2010/06/24/one-more-hit-in-google/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 714
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  - "no"
+  - "no"
+  _wp_old_slug:
+  - ""
+  - ""
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # One more hit in Google

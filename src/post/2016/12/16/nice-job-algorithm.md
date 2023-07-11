@@ -5,9 +5,19 @@ excerpt: "It&amp;#8217;s all about the Star Wars."
 date: 2016-12-16 13:29:41
 modified: 2016-12-16 13:29:41
 permalink: 2016/12/16/nice-job-algorithm/index.html
-tags: ["Amusing", "So It Goes"]
 featured_img: 
 wpid: 2064
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes"]
+post_tag: []
+category: ["Amusing", "So It Goes"]
+tags: post
 ---
 
 # Nice job, algorithm

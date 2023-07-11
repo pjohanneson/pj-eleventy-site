@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-12 01:14:15
 modified: 2006-04-12 01:14:15
 permalink: 2006/04/11/notes-to-self/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 206
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Notes to self

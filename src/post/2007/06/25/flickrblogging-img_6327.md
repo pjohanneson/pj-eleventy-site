@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-06-25 04:56:54
 modified: 2007-06-25 04:56:54
 permalink: 2007/06/24/flickrblogging-img_6327/index.html
-tags: ["Amusing", "Flickrblogging"]
 featured_img: 
 wpid: 374
+taxonomy_terms_all: ["Amusing", "Flickrblogging"]
+post_tag: []
+category: ["Amusing", "Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_6327

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-04 03:04:22
 modified: 2006-07-04 03:04:22
 permalink: 2006/07/03/long-weekend/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 260
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Long Weekend

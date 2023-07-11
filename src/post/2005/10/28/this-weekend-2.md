@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-28 12:58:00
 modified: 2005-10-28 12:58:00
 permalink: 2005/10/28/this-weekend-2/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 107
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # This weekend

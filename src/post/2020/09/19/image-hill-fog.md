@@ -5,9 +5,20 @@ excerpt: "A dark clear night, and a foggy morning."
 date: 2020-09-19 14:04:46
 modified: 2020-09-19 14:04:46
 permalink: 2020/09/19/image-hill-fog/index.html
-tags: ["Astrophotography", "Star Trails", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4272
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4268
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Star Trails", "Photos", "So It Goes"]
+post_tag: ["Astrophotography", "Star Trails"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Image Hill; fog

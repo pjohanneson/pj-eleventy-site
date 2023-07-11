@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-21 01:21:40
 modified: 2007-09-21 01:21:40
 permalink: 2007/09/20/thin-air/index.html
-tags: ["Books", "Writing"]
 featured_img: 
 wpid: 391
+taxonomy_terms_all: ["Books", "Writing"]
+post_tag: []
+category: ["Books", "Writing"]
+tags: post
 ---
 
 # Thin Air

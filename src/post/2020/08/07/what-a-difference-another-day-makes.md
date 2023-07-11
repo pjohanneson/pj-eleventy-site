@@ -5,9 +5,20 @@ excerpt: "Twenty-four more little hours."
 date: 2020-08-07 02:29:59
 modified: 2020-08-07 02:29:59
 permalink: 2020/08/06/what-a-difference-another-day-makes/index.html
-tags: ["Garage Demolition", "Photos", "Squirrel!", "Trees", "Photos", "So It Goes"]
 featured_img: 
 wpid: 4171
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4167
+  
+  
+taxonomy_terms_all: ["Garage Demolition", "Photos", "Squirrel!", "Trees", "Photos", "So It Goes"]
+post_tag: ["Garage Demolition", "Photos", "Squirrel!", "Trees"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # What a difference another day makes

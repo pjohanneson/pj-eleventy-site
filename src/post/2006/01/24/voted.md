@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-24 00:29:51
 modified: 2006-01-24 00:29:51
 permalink: 2006/01/23/voted/index.html
-tags: ["Judo", "Life"]
 featured_img: 
 wpid: 140
+taxonomy_terms_all: ["Judo", "Life"]
+post_tag: []
+category: ["Judo", "Life"]
+tags: post
 ---
 
 # Voted.

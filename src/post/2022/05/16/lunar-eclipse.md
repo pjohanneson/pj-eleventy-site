@@ -5,9 +5,24 @@ excerpt: "A red moon."
 date: 2022-05-16 04:24:58
 modified: 2022-05-16 04:24:58
 permalink: 2022/05/15/lunar-eclipse/index.html
-tags: ["Astrophotography", "Eclipse", "Lunar Eclipse", "Moon", "Photos"]
 featured_img: 
 wpid: 5390
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5388
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: Total eclipse of the moon. Click through for more photos.
+  _wpas_feature_enabled: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Eclipse", "Lunar Eclipse", "Moon", "Photos"]
+post_tag: ["Astrophotography", "Eclipse", "Lunar Eclipse", "Moon"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Lunar eclipse

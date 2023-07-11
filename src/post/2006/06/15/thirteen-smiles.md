@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-15 04:58:53
 modified: 2006-06-15 04:58:53
 permalink: 2006/06/14/thirteen-smiles/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 250
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Thirteen smiles

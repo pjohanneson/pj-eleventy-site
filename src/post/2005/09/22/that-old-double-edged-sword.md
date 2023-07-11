@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-09-22 00:33:00
 modified: 2005-09-22 00:33:00
 permalink: 2005/09/21/that-old-double-edged-sword/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 90
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # That old double-edged sword

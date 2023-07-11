@@ -5,9 +5,26 @@ excerpt: "I got a few photos before the breeze blew all the frost off the branch
 date: 2022-12-09 18:43:05
 modified: 2022-12-09 18:43:05
 permalink: 2022/12/09/frosty-morning-2/index.html
-tags: ["Frost", "Macro", "Winter", "Photos"]
 featured_img: 
 wpid: 5751
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5752
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  _share_on_mastodon_url: https://mstdn.ca/@pjohanneson/109485188558835661
+  
+  
+taxonomy_terms_all: ["Frost", "Macro", "Winter", "Photos"]
+post_tag: ["Frost", "Macro", "Winter"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Frosty morning

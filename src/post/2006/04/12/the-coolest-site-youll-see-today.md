@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-12 02:45:08
 modified: 2006-04-12 02:45:08
 permalink: 2006/04/11/the-coolest-site-youll-see-today/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 207
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # The coolest site you&#8217;ll see today

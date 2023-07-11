@@ -5,9 +5,16 @@ excerpt: ""
 date: 2010-04-08 17:14:38
 modified: 2010-04-08 17:14:38
 permalink: 2010/04/08/13-words-plus-a-bonus/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 694
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # 13 words (plus a bonus)

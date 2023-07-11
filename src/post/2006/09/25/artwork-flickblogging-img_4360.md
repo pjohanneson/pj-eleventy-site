@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-25 12:54:47
 modified: 2006-09-25 12:54:47
 permalink: 2006/09/25/artwork-flickblogging-img_4360/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 292
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Artwork (Flickblogging &#8212; IMG_4360)

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-02-27 01:13:31
 modified: 2007-02-27 01:13:31
 permalink: 2007/02/26/the-oscars/index.html
-tags: ["Idiot Box"]
 featured_img: 
 wpid: 333
+taxonomy_terms_all: ["Idiot Box"]
+post_tag: []
+category: ["Idiot Box"]
+tags: post
 ---
 
 # The Oscars

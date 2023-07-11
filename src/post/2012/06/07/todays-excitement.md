@@ -5,9 +5,16 @@ excerpt: "It&amp;#8217;s oddly reassuring to hear someone yelling &amp;#8220;GET
 date: 2012-06-07 03:03:47
 modified: 2012-06-07 03:03:47
 permalink: 2012/06/06/todays-excitement/index.html
-tags: ["So It Goes", "Weird"]
 featured_img: 
 wpid: 1038
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Weird"]
+post_tag: []
+category: ["So It Goes", "Weird"]
+tags: post
 ---
 
 # Today&#8217;s Excitement

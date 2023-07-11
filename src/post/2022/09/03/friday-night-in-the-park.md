@@ -5,9 +5,26 @@ excerpt: "Lots of photos."
 date: 2022-09-03 16:59:35
 modified: 2022-09-03 16:59:35
 permalink: 2022/09/03/friday-night-in-the-park/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Milky Way", "Star Trails", "Photos"]
 featured_img: 
 wpid: 5653
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5651
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108935537380418314
+  _wpas_skip_24701283: 1
+  _wpas_skip_5318444: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Milky Way", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis", "Milky Way", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Friday night in the park

@@ -5,9 +5,19 @@ excerpt: "I&amp;#8217;ve reached the halfway point."
 date: 2020-07-23 20:19:15
 modified: 2020-07-23 20:19:15
 permalink: 2020/07/23/writing-retreat-2020-day-5/index.html
-tags: ["Astrophotography", "Comet Neowise", "Milky Way", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 4131
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4128
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Comet Neowise", "Milky Way", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Comet Neowise", "Milky Way", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020, day 5

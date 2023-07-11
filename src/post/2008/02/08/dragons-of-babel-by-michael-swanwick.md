@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-02-08 05:44:19
 modified: 2008-02-08 05:44:19
 permalink: 2008/02/08/dragons-of-babel-by-michael-swanwick/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 407
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Dragons of Babel, by Michael Swanwick

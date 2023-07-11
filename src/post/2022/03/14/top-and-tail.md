@@ -5,9 +5,21 @@ excerpt: "The beginning and the end (spoiler-free)."
 date: 2022-03-14 20:49:14
 modified: 2022-03-14 20:49:14
 permalink: 2022/03/14/top-and-tail/index.html
-tags: ["Dried Flowers", "Jorge Luis Borges", "Palimpsests", "Writing", "JJ", "Writing"]
 featured_img: 
 wpid: 5302
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5255
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Dried Flowers", "Jorge Luis Borges", "Palimpsests", "Writing", "JJ", "Writing"]
+post_tag: ["Dried Flowers", "Jorge Luis Borges", "Palimpsests", "Writing"]
+category: ["JJ", "Writing"]
+tags: post
 ---
 
 # Top and tail

@@ -5,9 +5,20 @@ excerpt: ""
 date: 2010-10-06 01:12:17
 modified: 2010-10-06 01:12:17
 permalink: 2010/10/05/heat-death/index.html
-tags: ["Books", "Flickrblogging", "Photos", "Writing"]
 featured_img: 
 wpid: 754
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Books", "Flickrblogging", "Photos", "Writing"]
+post_tag: []
+category: ["Books", "Flickrblogging", "Photos", "Writing"]
+tags: post
 ---
 
 # Heat Death

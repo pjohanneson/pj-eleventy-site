@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-04 17:55:28
 modified: 2006-03-04 17:55:28
 permalink: 2006/03/04/everything-that-never-happened-problem-solved/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 176
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Everything That Never Happened &#8212; problem solved

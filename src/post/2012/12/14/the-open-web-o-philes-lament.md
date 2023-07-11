@@ -5,9 +5,16 @@ excerpt: "Go read The Web We Lost."
 date: 2012-12-14 17:52:09
 modified: 2012-12-14 17:52:09
 permalink: 2012/12/14/the-open-web-o-philes-lament/index.html
-tags: ["Ne-e-e-e-e-erd!", "Notes", "So It Goes"]
 featured_img: 
 wpid: 1172
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Notes", "So It Goes"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Notes", "So It Goes"]
+tags: post
 ---
 
 # The open-web-o-phile&#8217;s lament

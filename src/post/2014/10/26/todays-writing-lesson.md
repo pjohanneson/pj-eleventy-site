@@ -5,9 +5,19 @@ excerpt: "Evil is never abstract. It is always concrete, always particular and a
 date: 2014-10-26 17:35:47
 modified: 2014-10-26 17:35:47
 permalink: 2014/10/26/todays-writing-lesson/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1595
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Today&#8217;s writing lesson

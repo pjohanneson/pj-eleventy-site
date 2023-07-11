@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-08-05 12:47:22
 modified: 2008-08-05 12:47:22
 permalink: 2008/08/05/what-i-did-with-my-long-weekend/index.html
-tags: ["Geothermal", "Photos"]
 featured_img: 
 wpid: 438
+taxonomy_terms_all: ["Geothermal", "Photos"]
+post_tag: []
+category: ["Geothermal", "Photos"]
+tags: post
 ---
 
 # What I did with my long weekend

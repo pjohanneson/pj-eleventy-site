@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-11 21:31:05
 modified: 2006-04-11 21:31:05
 permalink: 2006/04/11/hot-hot-hot/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 205
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # hot hot hot

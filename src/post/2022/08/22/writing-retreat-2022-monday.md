@@ -5,9 +5,24 @@ excerpt: "2,200 word and a couple novels finished off."
 date: 2022-08-22 19:30:40
 modified: 2022-08-22 19:30:40
 permalink: 2022/08/22/writing-retreat-2022-monday/index.html
-tags: ["Writing Retreat", "Writing"]
 featured_img: 
 wpid: 5596
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108873845877554359
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5587
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wp_old_date: "2022-08-23"
+  
+  
+taxonomy_terms_all: ["Writing Retreat", "Writing"]
+post_tag: ["Writing Retreat"]
+category: ["Writing"]
+tags: post
 ---
 
 # Writing Retreat 2022: Monday

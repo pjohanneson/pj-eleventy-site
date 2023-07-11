@@ -5,9 +5,21 @@ excerpt: "&amp;#8220;&amp;#8230;then Friday, when night shines above&amp;#8221;â
 date: 2020-07-25 15:56:08
 modified: 2020-07-25 15:56:08
 permalink: 2020/07/25/writing-retreat-2020-day-7/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Bike Ride", "Brenizer Method", "Comet Neowise", "International Space Station", "Northern Lights", "Sunset", "Photos", "Writing"]
 featured_img: 
 wpid: 4145
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_mess: Writing Retreat 2020, Day 7 -- Click through for more photos
+  swanwick_fake_thumbnail_id: 4144
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Bike Ride", "Brenizer Method", "Comet Neowise", "International Space Station", "Northern Lights", "Sunset", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Aurora Borealis", "Bike Ride", "Brenizer Method", "Comet Neowise", "International Space Station", "Northern Lights", "Sunset"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2020, Day 7

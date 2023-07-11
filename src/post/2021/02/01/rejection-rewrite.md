@@ -5,9 +5,21 @@ excerpt: "Making the most of a &amp;#8220;no thanks.&amp;#8221;"
 date: 2021-02-01 18:34:00
 modified: 2021-02-01 18:34:00
 permalink: 2021/02/01/rejection-rewrite/index.html
-tags: ["Iceland Influence", "Praise Ice When Over It", "Rejection", "Sf Horror", "Writing", "Writing"]
 featured_img: 
 wpid: 4581
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4582
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Iceland Influence", "Praise Ice When Over It", "Rejection", "Sf Horror", "Writing", "Writing"]
+post_tag: ["Iceland Influence", "Praise Ice When Over It", "Rejection", "Sf Horror", "Writing"]
+category: ["Writing"]
+tags: post
 ---
 
 # Rejection → Rewrite

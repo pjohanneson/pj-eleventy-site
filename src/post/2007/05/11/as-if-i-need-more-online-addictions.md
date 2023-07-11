@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-11 01:12:22
 modified: 2007-05-11 01:12:22
 permalink: 2007/05/10/as-if-i-need-more-online-addictions/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 363
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # As if I need more online addictions&#8230;

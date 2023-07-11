@@ -5,9 +5,18 @@ excerpt: "Freud takes on Lou Verbain, and we all win."
 date: 2015-10-19 21:19:13
 modified: 2015-10-19 21:19:13
 permalink: 2015/10/19/whoa-psychoanalytic-criticism/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 1800
+all_meta: 
+  _wpas_done_all: 1
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Whoa. Psychoanalytic criticism.

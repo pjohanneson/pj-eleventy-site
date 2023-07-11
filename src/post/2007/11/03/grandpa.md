@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-11-03 15:22:58
 modified: 2007-11-03 15:22:58
 permalink: 2007/11/03/grandpa/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 395
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Grandpa

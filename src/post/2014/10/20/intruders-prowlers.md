@@ -5,9 +5,31 @@ excerpt: "Lego jets inspire nostalgia."
 date: 2014-10-20 15:35:28
 modified: 2014-10-20 15:35:28
 permalink: 2014/10/20/intruders-prowlers/index.html
-tags: ["Flickrblogging", "So It Goes"]
 featured_img: 
 wpid: 1587
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_e8304db9388b65e7ad8e0bbd5114a601: <a href="https://www.flickr.com/photos/madphysicist/15548620581/"><img
+    src="https://farm4.staticflickr.com/3946/15548620581_fb3cc9ffcd_n.jpg" alt="Grumman
+    A-6E Intruder and EA-6B Prowler updated" width="320" height="240" /></a>
+  _oembed_time_e8304db9388b65e7ad8e0bbd5114a601: 1414011008
+  _oembed_491675a24a2616ee6338d257dd71ff7a: <a href="https://www.flickr.com/photos/madphysicist/15548620581/"><img
+    src="https://farm4.staticflickr.com/3946/15548620581_fb3cc9ffcd_z.jpg" alt="Grumman
+    A-6E Intruder and EA-6B Prowler updated" width="640" height="480" /></a>
+  _oembed_time_491675a24a2616ee6338d257dd71ff7a: 1482432072
+  _oembed_63a0ec13e0c6c477c22dbbab89c4fcd4: <a href="https://www.flickr.com/photos/madphysicist/15548620581/"><img
+    src="https://live.staticflickr.com/3946/15548620581_fb3cc9ffcd.jpg" alt="Grumman
+    A-6E Intruder and EA-6B Prowler updated" width="500" height="375" /></a>
+  _oembed_time_63a0ec13e0c6c477c22dbbab89c4fcd4: 1679099440
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "So It Goes"]
+post_tag: []
+category: ["Flickrblogging", "So It Goes"]
+tags: post
 ---
 
 # Intruders &#038; Prowlers

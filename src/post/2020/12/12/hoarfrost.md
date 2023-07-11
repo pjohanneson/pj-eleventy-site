@@ -5,9 +5,24 @@ excerpt: "Up close and very personal."
 date: 2020-12-12 00:37:50
 modified: 2020-12-12 00:37:50
 permalink: 2020/12/11/hoarfrost/index.html
-tags: ["Frost", "Macro", "Photos"]
 featured_img: 
 wpid: 4438
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4435
+  _wpas_mess: Hope you like macrophotography.
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2020/12/IMG_8815-2000.jpg
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Frost", "Macro", "Photos"]
+post_tag: ["Frost", "Macro"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Hoarfrost

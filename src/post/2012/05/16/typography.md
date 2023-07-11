@@ -5,9 +5,16 @@ excerpt: ""
 date: 2012-05-16 04:19:58
 modified: 2012-05-16 04:19:58
 permalink: 2012/05/15/typography/index.html
-tags: ["Ne-e-e-e-e-erd!", "WordPress"]
 featured_img: 
 wpid: 1004
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "WordPress"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "WordPress"]
+tags: post
 ---
 
 # Typography

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-30 12:44:00
 modified: 2005-08-30 12:44:00
 permalink: 2005/08/30/camping/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 75
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Camping

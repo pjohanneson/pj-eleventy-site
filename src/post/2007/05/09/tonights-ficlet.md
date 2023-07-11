@@ -5,9 +5,16 @@ excerpt: ""
 date: 2007-05-09 05:13:42
 modified: 2007-05-09 05:13:42
 permalink: 2007/05/08/tonights-ficlet/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 362
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Tonight&#8217;s ficlet

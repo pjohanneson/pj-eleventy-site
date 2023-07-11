@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-19 15:54:11
 modified: 2007-03-19 15:54:11
 permalink: 2007/03/19/iq-test/index.html
-tags: ["Idiot Box", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 342
+taxonomy_terms_all: ["Idiot Box", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Idiot Box", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # IQ test

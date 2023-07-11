@@ -5,9 +5,19 @@ excerpt: "Fog last night = frost this morning."
 date: 2019-12-31 18:44:21
 modified: 2019-12-31 18:44:21
 permalink: 2019/12/31/hoarfrost-around-town/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3728
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3740
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Hoarfrost around town

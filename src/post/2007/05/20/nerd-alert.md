@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-20 02:32:17
 modified: 2007-05-20 02:32:17
 permalink: 2007/05/19/nerd-alert/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 368
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Nerd alert

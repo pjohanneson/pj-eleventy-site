@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-16 22:48:35
 modified: 2006-01-16 22:48:35
 permalink: 2006/01/16/just-for-you-doug/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 130
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Just for you, Doug&#8230;

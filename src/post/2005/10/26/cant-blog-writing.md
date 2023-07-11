@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-26 03:06:00
 modified: 2005-10-26 03:06:00
 permalink: 2005/10/25/cant-blog-writing/index.html
-tags: ["Books", "Reviews", "Writing"]
 featured_img: 
 wpid: 106
+taxonomy_terms_all: ["Books", "Reviews", "Writing"]
+post_tag: []
+category: ["Books", "Reviews", "Writing"]
+tags: post
 ---
 
 # Can&#8217;t blog.  Writing.

@@ -5,9 +5,20 @@ excerpt: "23.65km, 1:54:30, and 2 photos."
 date: 2019-05-21 03:22:08
 modified: 2019-05-21 03:22:08
 permalink: 2019/05/20/bike-ride-2/index.html
-tags: ["Bike Ride", "Goose", "Train", "Photos", "So It Goes"]
 featured_img: 
 wpid: 3295
+all_meta: 
+  _wpcom_is_markdown: 1
+  _oembed_d8d6c548d4320e5b63275a4bb38dead4: '{{unknown}}'
+  _thumbnail_id: 3299
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Goose", "Train", "Photos", "So It Goes"]
+post_tag: ["Bike Ride", "Goose", "Train"]
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike Ride

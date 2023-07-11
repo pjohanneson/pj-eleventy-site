@@ -5,9 +5,19 @@ excerpt: "I hope you like looking at photos, because I sure like taking them."
 date: 2020-06-28 21:32:41
 modified: 2020-06-28 21:32:41
 permalink: 2020/06/28/more-brenizers/index.html
-tags: ["Bike Ride", "Brenizer Method", "Panorama", "Photos"]
 featured_img: 
 wpid: 4018
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4021
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Brenizer Method", "Panorama", "Photos"]
+post_tag: ["Bike Ride", "Brenizer Method", "Panorama"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # More Brenizers

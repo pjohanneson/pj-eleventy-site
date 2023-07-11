@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-09 02:15:06
 modified: 2006-07-09 02:15:06
 permalink: 2006/07/08/some-quick-reviews/index.html
-tags: ["Movies", "Ne-e-e-e-e-erd!", "Reviews", "Rockin' Out"]
 featured_img: 
 wpid: 263
+taxonomy_terms_all: ["Movies", "Ne-e-e-e-e-erd!", "Reviews", "Rockin' Out"]
+post_tag: []
+category: ["Movies", "Ne-e-e-e-e-erd!", "Reviews", "Rockin' Out"]
+tags: post
 ---
 
 # Some quick reviews

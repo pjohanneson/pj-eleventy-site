@@ -5,9 +5,19 @@ excerpt: "Also, apparently it&amp;#8217;s Hammer Time on Stickney Ave."
 date: 2020-06-14 20:27:03
 modified: 2020-06-14 20:27:03
 permalink: 2020/06/14/a-pop-of-colour/index.html
-tags: ["Bdnmb", "Bike Ride", "Photography", "Photos", "Photos"]
 featured_img: 
 wpid: 3976
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3980
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bdnmb", "Bike Ride", "Photography", "Photos", "Photos"]
+post_tag: ["Bdnmb", "Bike Ride", "Photography", "Photos"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A pop of colour

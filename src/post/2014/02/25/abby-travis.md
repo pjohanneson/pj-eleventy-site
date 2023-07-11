@@ -5,9 +5,23 @@ excerpt: "An amazing voice and a myriad of musical styles."
 date: 2014-02-25 17:25:53
 modified: 2014-02-25 17:25:53
 permalink: 2014/02/25/abby-travis/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1506
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_c62dc8ed5ffaf06962560a5d7f4bceb7: <iframe title="Abby Travis - Blythe" width="500"
+    height="375" src="https://www.youtube.com/embed/nTcJyphuUN0?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" allowfullscreen></iframe>
+  _oembed_time_c62dc8ed5ffaf06962560a5d7f4bceb7: 1679099441
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Abby Travis

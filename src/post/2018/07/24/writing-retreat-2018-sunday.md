@@ -5,9 +5,20 @@ excerpt: "A working vacation, as it were."
 date: 2018-07-24 20:04:10
 modified: 2018-07-24 20:04:10
 permalink: 2018/07/24/writing-retreat-2018-sunday/index.html
-tags: ["Photos", "So It Goes", "Writing"]
 featured_img: 
 wpid: 2794
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2797
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes", "Writing"]
+post_tag: []
+category: ["Photos", "So It Goes", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2018: Sunday

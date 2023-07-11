@@ -5,9 +5,22 @@ excerpt: "I should go back there next time there&amp;#8217;s hoarfrost."
 date: 2021-06-22 21:28:16
 modified: 2021-06-22 21:28:16
 permalink: 2021/06/22/a-fence-a-tree-and-the-sky/index.html
-tags: ["Bokeh", "Brenizer", "Landscape", "Prairie Sky", "Sky", "Photos"]
 featured_img: 
 wpid: 4903
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4906
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bokeh", "Brenizer", "Landscape", "Prairie Sky", "Sky", "Photos"]
+post_tag: ["Bokeh", "Brenizer", "Landscape", "Prairie Sky", "Sky"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A fence, a tree, and the sky

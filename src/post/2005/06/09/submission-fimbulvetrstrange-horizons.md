@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-06-09 03:18:00
 modified: 2005-06-09 03:18:00
 permalink: 2005/06/08/submission-fimbulvetrstrange-horizons/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 36
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Submission [Fimbulvetr–>Strange Horizons]

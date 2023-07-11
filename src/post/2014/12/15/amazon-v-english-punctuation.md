@@ -5,9 +5,19 @@ excerpt: "Self-publishers take note: apparently hyphens are now bad."
 date: 2014-12-15 14:14:47
 modified: 2014-12-15 14:14:47
 permalink: 2014/12/15/amazon-v-english-punctuation/index.html
-tags: ["So It Goes", "Weird", "Writing"]
 featured_img: 
 wpid: 1624
+all_meta: 
+  _wpcom_is_markdown: 1
+  _sd_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Weird", "Writing"]
+post_tag: []
+category: ["So It Goes", "Weird", "Writing"]
+tags: post
 ---
 
 # Amazon v. English Punctuation

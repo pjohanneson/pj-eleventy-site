@@ -5,9 +5,21 @@ excerpt: "YACWG (Yet Another Clever Word Game)."
 date: 2022-02-16 03:15:00
 modified: 2022-02-16 03:15:00
 permalink: 2022/02/15/semantle/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 5270
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _last_editor_used_jetpack: block-editor
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Semantle

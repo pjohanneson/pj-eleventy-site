@@ -5,9 +5,18 @@ excerpt: ""
 date: 2011-05-18 13:12:29
 modified: 2011-05-18 13:12:29
 permalink: 2011/05/18/congratulations-to-craig-russell/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 864
+all_meta: 
+  aktt_tweeted: 1
+  _edit_last: 1
+  aktt_notify_twitter: "yes"
+  
+  
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # Congratulations to Craig Russell

@@ -5,9 +5,19 @@ excerpt: "Things to do this month."
 date: 2016-05-04 03:20:46
 modified: 2016-05-04 03:20:46
 permalink: 2016/05/03/goal-setting-may-2016/index.html
-tags: ["Goals", "Writing"]
 featured_img: 
 wpid: 1901
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  epigraph: The first of what I intend to be a monthly series of goal-setting posts.
+  
+  
+taxonomy_terms_all: ["Goals", "Writing"]
+post_tag: []
+category: ["Goals", "Writing"]
+tags: post
 ---
 
 # Goal Setting &#8212; May 2016

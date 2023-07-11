@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-11-28 02:17:00
 modified: 2005-11-28 02:17:00
 permalink: 2005/11/27/more-nano-text/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 113
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # More Nano text

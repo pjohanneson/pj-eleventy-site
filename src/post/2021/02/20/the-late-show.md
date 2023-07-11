@@ -5,9 +5,28 @@ excerpt: "Some dancing green lights, even a bit of red."
 date: 2021-02-20 16:27:14
 modified: 2021-02-20 16:27:14
 permalink: 2021/02/20/the-late-show/index.html
-tags: ["Astrophotography", "Astrovideo", "Aurora Borealis", "Brrr", "Photos", "Videos"]
 featured_img: 
 wpid: 4649
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4656
+  _wpas_mess: Some aurora did eventually show up last night - click through for more
+  _edit_last: 1
+  _oembed_4f8f653b2b240db5695a6599cc21a97b: <iframe title="Aurora Borealis - Feb. 19-20,
+    2021" src="https://player.vimeo.com/video/514583188?h=a0eb2cc219&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_4f8f653b2b240db5695a6599cc21a97b: 1679099444
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Astrovideo", "Aurora Borealis", "Brrr", "Photos", "Videos"]
+post_tag: ["Astrophotography", "Astrovideo", "Aurora Borealis", "Brrr"]
+category: ["Photos", "Videos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The late show

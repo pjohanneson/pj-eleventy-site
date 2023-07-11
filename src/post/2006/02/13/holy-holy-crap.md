@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-13 22:59:39
 modified: 2006-02-13 22:59:39
 permalink: 2006/02/13/holy-holy-crap/index.html
-tags: ["Amusing", "Life", "Photos"]
 featured_img: 
 wpid: 154
+taxonomy_terms_all: ["Amusing", "Life", "Photos"]
+post_tag: []
+category: ["Amusing", "Life", "Photos"]
+tags: post
 ---
 
 # Holy, holy crap

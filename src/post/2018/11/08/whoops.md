@@ -5,9 +5,19 @@ excerpt: "Well, it turned out OK."
 date: 2018-11-08 04:19:52
 modified: 2018-11-08 04:19:52
 permalink: 2018/11/07/whoops/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 2992
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 2993
+  
+  
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # Whoops

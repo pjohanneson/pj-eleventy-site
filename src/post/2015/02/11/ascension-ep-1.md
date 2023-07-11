@@ -5,9 +5,19 @@ excerpt: "&amp;#8220;As you know, the generation ship Ascension is halfway to it
 date: 2015-02-11 06:19:33
 modified: 2015-02-11 06:19:33
 permalink: 2015/02/11/ascension-ep-1/index.html
-tags: ["Idiot Box", "Reviews"]
 featured_img: 
 wpid: 1637
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Idiot Box", "Reviews"]
+post_tag: []
+category: ["Idiot Box", "Reviews"]
+tags: post
 ---
 
 # Ascension, ep. 1

@@ -5,9 +5,19 @@ excerpt: "Call me if you change your mind."
 date: 2019-01-08 22:45:26
 modified: 2019-01-08 22:45:26
 permalink: 2019/01/08/bye-flickr/index.html
-tags: ["Blinky", "Flickrblogging", "So It Goes"]
 featured_img: 
 wpid: 3106
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3108
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Blinky", "Flickrblogging", "So It Goes"]
+post_tag: ["Blinky"]
+category: ["Flickrblogging", "So It Goes"]
+tags: post
 ---
 
 # Bye, Flickr

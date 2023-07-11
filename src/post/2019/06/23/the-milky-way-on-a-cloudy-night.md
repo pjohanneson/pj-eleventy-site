@@ -5,9 +5,19 @@ excerpt: "Bright stars on a warm, breezy night."
 date: 2019-06-23 17:07:53
 modified: 2019-06-23 17:07:53
 permalink: 2019/06/23/the-milky-way-on-a-cloudy-night/index.html
-tags: ["Astrophotography", "Before And After", "Galaxy", "Milky Way", "Photos"]
 featured_img: 
 wpid: 3366
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3363
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Before And After", "Galaxy", "Milky Way", "Photos"]
+post_tag: ["Astrophotography", "Before And After", "Galaxy", "Milky Way"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Milky Way on a cloudy night

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-10-07 12:57:18
 modified: 2008-10-07 12:57:18
 permalink: 2008/10/07/boil-water-order/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 458
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Boil-water order

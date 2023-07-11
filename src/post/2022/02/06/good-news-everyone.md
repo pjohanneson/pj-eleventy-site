@@ -5,9 +5,24 @@ excerpt: "Everything&amp;#8217;s comin&amp;#8217; up Milhouse."
 date: 2022-02-06 01:54:43
 modified: 2022-02-06 01:54:43
 permalink: 2022/02/05/good-news-everyone/index.html
-tags: ["Dried Flowers", "Palimpsests", "Whiskey", "Writers Tears", "Writing Grant", "Writing"]
 featured_img: 
 wpid: 5247
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2847
+  _wpas_mess: Everything's comin' up Milhouse.
+  _wpas_feature_enabled: 1
+  
+  
+taxonomy_terms_all: ["Dried Flowers", "Palimpsests", "Whiskey", "Writers Tears", "Writing Grant", "Writing"]
+post_tag: ["Dried Flowers", "Palimpsests", "Whiskey", "Writers Tears", "Writing Grant"]
+category: ["Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Good News, Everyone

@@ -5,9 +5,22 @@ excerpt: "My favourites."
 date: 2021-05-24 21:51:34
 modified: 2021-05-24 21:51:34
 permalink: 2021/05/24/lilacs/index.html
-tags: ["Bike Ride", "Lilac", "Photos"]
 featured_img: 
 wpid: 4848
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 4850
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Lilac", "Photos"]
+post_tag: ["Bike Ride", "Lilac"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Lilacs

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-23 00:22:28
 modified: 2006-03-23 00:22:28
 permalink: 2006/03/22/loot/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 189
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Loot

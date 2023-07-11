@@ -5,9 +5,18 @@ excerpt: "Well hello again, Minnedosa."
 date: 2019-07-22 15:28:49
 modified: 2019-07-22 15:28:49
 permalink: 2019/07/22/writing-retreat-2019/index.html
-tags: ["Minnedosa 2019", "Retreat", "Writing", "Writing Retreat", "Writing"]
 featured_img: 
 wpid: 3400
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3401
+  
+  
+taxonomy_terms_all: ["Minnedosa 2019", "Retreat", "Writing", "Writing Retreat", "Writing"]
+post_tag: ["Minnedosa 2019", "Retreat", "Writing", "Writing Retreat"]
+category: ["Writing"]
+tags: post
 ---
 
 # Writing Retreat 2019

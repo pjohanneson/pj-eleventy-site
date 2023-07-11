@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-06-12 05:58:00
 modified: 2005-06-12 05:58:00
 permalink: 2005/06/12/thats-a-weight-off/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 37
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # That&#8217;s a weight off

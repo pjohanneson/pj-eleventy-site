@@ -5,9 +5,18 @@ excerpt: "Four Manitoba SF/F authors walk into a room&amp;#8230;"
 date: 2013-06-17 17:16:20
 modified: 2013-06-17 17:16:20
 permalink: 2013/06/17/brandon-genre-reading/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1320
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Brandon Genre Reading

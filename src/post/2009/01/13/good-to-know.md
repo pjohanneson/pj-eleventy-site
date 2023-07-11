@@ -5,9 +5,12 @@ excerpt: ""
 date: 2009-01-13 17:54:01
 modified: 2009-01-13 17:54:01
 permalink: 2009/01/13/good-to-know/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 535
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Good to know.

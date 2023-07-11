@@ -5,9 +5,26 @@ excerpt: "The sky was half blue, half white."
 date: 2021-05-30 01:28:25
 modified: 2021-05-30 01:28:25
 permalink: 2021/05/29/bike-ride-may-29th/index.html
-tags: ["Brenizer", "Countryside", "Lilacs", "Prairie Sky", "Sky", "Photos"]
 featured_img: 
 wpid: 4868
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _edit_last: 1
+  swanwick_fake_thumbnail_id: 4866
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/05/pano-fencepost-sky-r-r-2000.jpg
+  _webdados_fb_open_graph_specific_description: The prairie sky and some lilacs. Click
+    through for more.
+  _thumbnail_id: 4867
+  
+  
+taxonomy_terms_all: ["Brenizer", "Countryside", "Lilacs", "Prairie Sky", "Sky", "Photos"]
+post_tag: ["Brenizer", "Countryside", "Lilacs", "Prairie Sky", "Sky"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike ride—May 29th

@@ -5,9 +5,20 @@ excerpt: "Coffee at the Chef? See you in ten. (click)"
 date: 2017-01-18 13:15:18
 modified: 2017-01-18 13:15:18
 permalink: 2017/01/18/memories-of-jj-4-resemblance/index.html
-tags: ["JJ"]
 featured_img: 
 wpid: 2141
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2143
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["JJ"]
+post_tag: []
+category: ["JJ"]
+tags: post
 ---
 
 # Memories of JJ, 4 &#8212; Resemblance

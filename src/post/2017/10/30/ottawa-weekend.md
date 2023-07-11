@@ -5,9 +5,25 @@ excerpt: "Our last couple days in Ottawa."
 date: 2017-10-30 03:35:35
 modified: 2017-10-30 03:35:35
 permalink: 2017/10/29/ottawa-weekend/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2613
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2604
+  _wp_old_slug: the-weekend-2
+  _oembed_530c053becb79387ea19f645dec1f1d4: <iframe title="Ceremonial Guard arrives
+    at the War Memorial" width="500" height="281" src="https://www.youtube.com/embed/2K6CCtZ_d9E?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_530c053becb79387ea19f645dec1f1d4: 1679099439
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # The Weekend

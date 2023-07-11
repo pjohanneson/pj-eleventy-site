@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-15 03:38:32
 modified: 2006-03-15 03:38:32
 permalink: 2006/03/14/the-ides-of-march/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 183
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # The Ides of March

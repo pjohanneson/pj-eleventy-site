@@ -5,9 +5,20 @@ excerpt: "Happy birthday, Mom!"
 date: 2018-08-22 03:42:02
 modified: 2018-08-22 03:42:02
 permalink: 2018/08/21/moms-birthday-bash/index.html
-tags: ["Photos", "So It Goes"]
 featured_img: 
 wpid: 2877
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 2876
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes"]
+post_tag: []
+category: ["Photos", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Mom&#8217;s birthday bash

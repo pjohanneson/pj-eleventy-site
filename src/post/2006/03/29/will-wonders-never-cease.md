@@ -5,9 +5,24 @@ excerpt: ""
 date: 2006-03-29 02:56:39
 modified: 2006-03-29 02:56:39
 permalink: 2006/03/28/will-wonders-never-cease/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 195
+all_meta: 
+  enclosure:
+  - |-
+    http://www.corblund.com/audio/hairinmyeyes/02.mp3
+    702171
+    audio/mpeg
+  - |-
+    http://www.corblund.com/audio/hairinmyeyes/03.mp3
+    702694
+    audio/mpeg
+  
+  
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # Will wonders never cease?

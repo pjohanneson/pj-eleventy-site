@@ -5,9 +5,35 @@ excerpt: "I think that went well."
 date: 2017-08-04 17:45:11
 modified: 2017-08-04 17:45:11
 permalink: 2017/08/04/writing-retreat-2017/index.html
-tags: ["Galaxy", "Gene Wolfe", "James S.a. Corey", "Leviathan Wakes", "Milky Way", "Minnedosa 2017", "Photo", "Prairiesf", "The Fifth Head Of Cerberus", "Photos", "Writing"]
 featured_img: 
 wpid: 2394
+all_meta: 
+  _oembed_0d558c9353bf328a5b09917049164c0b: <a href="https://www.flickr.com/photos/pj/36049934071/in/dateposted/"><img
+    src="https://farm5.staticflickr.com/4311/36049934071_0e404d2a27_c.jpg" alt="The
+    Galaxy" width="534" height="800" /></a>
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2380
+  _wpas_done_all: 1
+  _oembed_time_0d558c9353bf328a5b09917049164c0b: 1502346603
+  _oembed_249c9e6c695a43aae0351badfdaf4a44: <a href="https://www.flickr.com/photos/pj/36226760795/in/dateposted/"><img
+    src="https://farm5.staticflickr.com/4309/36226760795_80812ab97e_c.jpg" alt="The
+    Galaxy" width="534" height="800" /></a>
+  _oembed_time_249c9e6c695a43aae0351badfdaf4a44: 1503039685
+  _oembed_7cfd5e8b17d1f141e7d2931ba86accbd: <a href="https://www.flickr.com/photos/pj/36049934071/in/dateposted/"><img
+    src="https://live.staticflickr.com/4311/36049934071_0e404d2a27_z.jpg" alt="The Galaxy"
+    width="427" height="640" /></a>
+  _oembed_time_7cfd5e8b17d1f141e7d2931ba86accbd: 1679099439
+  _oembed_718e0c80ef19ca7ec1bea4952f698489: <a href="https://www.flickr.com/photos/pj/36226760795/in/dateposted/"><img
+    src="https://live.staticflickr.com/4309/36226760795_80812ab97e_z.jpg" alt="The Galaxy"
+    width="427" height="640" /></a>
+  _oembed_time_718e0c80ef19ca7ec1bea4952f698489: 1679099440
+  
+  
+taxonomy_terms_all: ["Galaxy", "Gene Wolfe", "James S.a. Corey", "Leviathan Wakes", "Milky Way", "Minnedosa 2017", "Photo", "Prairiesf", "The Fifth Head Of Cerberus", "Photos", "Writing"]
+post_tag: ["Galaxy", "Gene Wolfe", "James S.a. Corey", "Leviathan Wakes", "Milky Way", "Minnedosa 2017", "Photo", "Prairiesf", "The Fifth Head Of Cerberus"]
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat 2017

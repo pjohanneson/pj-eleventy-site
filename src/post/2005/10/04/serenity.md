@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-04 12:55:00
 modified: 2005-10-04 12:55:00
 permalink: 2005/10/04/serenity/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 95
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Serenity

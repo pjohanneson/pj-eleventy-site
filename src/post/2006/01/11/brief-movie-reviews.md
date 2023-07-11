@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-11 21:54:55
 modified: 2006-01-11 21:54:55
 permalink: 2006/01/11/brief-movie-reviews/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 124
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Brief movie reviews

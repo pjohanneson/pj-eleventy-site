@@ -5,9 +5,19 @@ excerpt: ""
 date: 2008-02-13 05:35:38
 modified: 2008-02-13 05:35:38
 permalink: 2008/02/13/google-is-funny/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 409
+all_meta: 
+  _last_editor_used_jetpack: block-editor
+  _edit_last: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Google is funny

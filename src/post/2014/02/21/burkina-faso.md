@@ -5,9 +5,23 @@ excerpt: "When I first shook hand with Mr. Peduals / you could hear the clashing
 date: 2014-02-21 23:49:28
 modified: 2014-02-21 23:49:28
 permalink: 2014/02/21/burkina-faso/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1500
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_9ab1053efb8a450c81eafa37e6680ec2: <iframe title="Terror of Tiny Town - Burkina
+    Faso" width="500" height="375" src="https://www.youtube.com/embed/rta25QqjMLo?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_9ab1053efb8a450c81eafa37e6680ec2: 1679099442
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Burkina Faso

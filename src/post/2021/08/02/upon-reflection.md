@@ -5,9 +5,23 @@ excerpt: "Arbres réfléchis en&amp;#8230; arbres."
 date: 2021-08-02 02:45:50
 modified: 2021-08-02 02:45:50
 permalink: 2021/08/01/upon-reflection/index.html
-tags: ["Reflection", "River", "Tree", "Photos"]
 featured_img: 
 wpid: 4982
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 4986
+  _wpas_mess: Upon Reflection -- Trees reflected in the Assiniboine River.
+  
+  
+taxonomy_terms_all: ["Reflection", "River", "Tree", "Photos"]
+post_tag: ["Reflection", "River", "Tree"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Upon Reflection

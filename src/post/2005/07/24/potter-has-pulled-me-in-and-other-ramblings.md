@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-24 22:58:00
 modified: 2005-07-24 22:58:00
 permalink: 2005/07/24/potter-has-pulled-me-in-and-other-ramblings/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 56
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Potter has pulled me in, and other ramblings

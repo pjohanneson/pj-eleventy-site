@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-19 00:17:31
 modified: 2006-12-19 00:17:31
 permalink: 2006/12/18/ok-now-i-think-i-might-be-getting-into-the-christmas-mood/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 312
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # OK, now I think I might be getting into the Christmas mood

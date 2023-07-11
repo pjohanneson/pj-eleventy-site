@@ -5,9 +5,24 @@ excerpt: "Up past my bedtime, but it was worth it."
 date: 2021-04-19 16:00:10
 modified: 2021-04-19 16:00:10
 permalink: 2021/04/19/yet-another-aurora-post-2/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 4801
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4800
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/04/IMG_3708-2000.jpg
+  _webdados_fb_open_graph_specific_description: The perks of staying up late
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Yet Another Aurora Post

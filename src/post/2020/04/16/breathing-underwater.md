@@ -5,9 +5,23 @@ excerpt: "I can see the end / But it hasn&amp;#8217;t happened yet."
 date: 2020-04-16 22:16:00
 modified: 2020-04-16 22:16:00
 permalink: 2020/04/16/breathing-underwater/index.html
-tags: ["Music", "Writing"]
 featured_img: 
 wpid: 3849
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_c7241010e539f3ef5cd1b20c846222ca: <iframe title="METRIC - Breathing Underwater
+    [Official Video]" width="500" height="281" src="https://www.youtube.com/embed/PZuLsz4yPPM?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_c7241010e539f3ef5cd1b20c846222ca: 1679099438
+  
+  
+taxonomy_terms_all: ["Music", "Writing"]
+post_tag: []
+category: ["Music", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Breathing Underwater

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-03-11 17:47:20
 modified: 2008-03-11 17:47:20
 permalink: 2008/03/11/things-it-may-someday-prove-important-to-know-1/index.html
-tags: ["Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 416
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Things it may someday prove important to know: 1

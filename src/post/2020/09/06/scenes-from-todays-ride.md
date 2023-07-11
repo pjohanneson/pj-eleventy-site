@@ -5,9 +5,20 @@ excerpt: "A lovely day for a ride, I must say."
 date: 2020-09-06 01:09:49
 modified: 2020-09-06 01:09:49
 permalink: 2020/09/05/scenes-from-todays-ride/index.html
-tags: ["Autumn", "Bike Ride", "Photos"]
 featured_img: 
 wpid: 4237
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4242
+  
+  
+taxonomy_terms_all: ["Autumn", "Bike Ride", "Photos"]
+post_tag: ["Autumn", "Bike Ride"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Scenes from today&#8217;s ride

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-10 00:01:26
 modified: 2006-04-10 00:01:26
 permalink: 2006/04/09/so-glad-i-found-it/index.html
-tags: ["Rockin' Out"]
 featured_img: 
 wpid: 202
+taxonomy_terms_all: ["Rockin' Out"]
+post_tag: []
+category: ["Rockin' Out"]
+tags: post
 ---
 
 # So glad I found it

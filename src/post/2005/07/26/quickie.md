@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-26 04:02:00
 modified: 2005-07-26 04:02:00
 permalink: 2005/07/25/quickie/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 57
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Quickie

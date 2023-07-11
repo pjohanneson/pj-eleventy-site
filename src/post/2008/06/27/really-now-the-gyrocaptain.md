@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-06-27 03:01:53
 modified: 2008-06-27 03:01:53
 permalink: 2008/06/26/really-now-the-gyrocaptain/index.html
-tags: ["Amusing", "Idiot Box", "Movies", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 435
+taxonomy_terms_all: ["Amusing", "Idiot Box", "Movies", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Idiot Box", "Movies", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Really now?  The Gyrocaptain?

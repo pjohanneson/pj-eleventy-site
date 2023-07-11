@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-24 02:14:15
 modified: 2006-07-24 02:14:15
 permalink: 2006/07/23/the-trees/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 272
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # The Trees

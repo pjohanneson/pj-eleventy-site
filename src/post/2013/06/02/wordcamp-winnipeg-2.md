@@ -5,9 +5,18 @@ excerpt: "How I spent my first day of June (hint: it involved WordPress)."
 date: 2013-06-02 15:10:30
 modified: 2013-06-02 15:10:30
 permalink: 2013/06/02/wordcamp-winnipeg-2/index.html
-tags: ["Ne-e-e-e-e-erd!", "So It Goes", "WordPress"]
 featured_img: 
 wpid: 1273
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "So It Goes", "WordPress"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "So It Goes", "WordPress"]
+tags: post
 ---
 
 # WordCamp Winnipeg

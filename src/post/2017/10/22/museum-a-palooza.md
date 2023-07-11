@@ -5,9 +5,19 @@ excerpt: "Thursday in Ottawa: Three museums. (With a fourth on Friday, but I&amp
 date: 2017-10-22 05:18:06
 modified: 2017-10-22 05:18:06
 permalink: 2017/10/22/museum-a-palooza/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2567
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2579
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Museum-a-palooza

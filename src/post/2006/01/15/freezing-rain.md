@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-15 22:31:52
 modified: 2006-01-15 22:31:52
 permalink: 2006/01/15/freezing-rain/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 128
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Freezing rain

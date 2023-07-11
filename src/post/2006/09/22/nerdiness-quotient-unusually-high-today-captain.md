@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-22 01:27:15
 modified: 2006-09-22 01:27:15
 permalink: 2006/09/21/nerdiness-quotient-unusually-high-today-captain/index.html
-tags: ["Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 290
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Nerdiness Quotient unusually high today, Captain

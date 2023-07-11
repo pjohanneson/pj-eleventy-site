@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-01 22:57:16
 modified: 2006-03-01 22:57:16
 permalink: 2006/03/01/in-like-a-lion/index.html
-tags: ["Life", "Photos", "Weather"]
 featured_img: 
 wpid: 171
+taxonomy_terms_all: ["Life", "Photos", "Weather"]
+post_tag: []
+category: ["Life", "Photos", "Weather"]
+tags: post
 ---
 
 # In like a lion

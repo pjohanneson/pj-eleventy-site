@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-19 02:34:58
 modified: 2006-07-19 02:34:58
 permalink: 2006/07/18/titles-are-hard/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 270
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Titles are hard

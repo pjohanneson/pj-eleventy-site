@@ -5,9 +5,19 @@ excerpt: "Day 1 of our recent trip to Ottawa."
 date: 2017-10-13 17:41:00
 modified: 2017-10-13 17:41:00
 permalink: 2017/10/13/ottawa-sunday/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2469
+all_meta: 
+  _oembed_84ae55ccfb6d976869255f622c708445: '{{unknown}}'
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Ottawa: Sunday

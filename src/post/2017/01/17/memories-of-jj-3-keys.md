@@ -5,9 +5,20 @@ excerpt: "Master of the master key."
 date: 2017-01-17 13:32:17
 modified: 2017-01-17 13:32:17
 permalink: 2017/01/17/memories-of-jj-3-keys/index.html
-tags: ["Amusing", "JJ"]
 featured_img: 
 wpid: 2135
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2114
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "JJ"]
+post_tag: []
+category: ["Amusing", "JJ"]
+tags: post
 ---
 
 # Memories of JJ, 3 &#8212; Keys

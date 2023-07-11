@@ -5,9 +5,19 @@ excerpt: "We check out Parliament Hill."
 date: 2017-10-14 22:00:48
 modified: 2017-10-14 22:00:48
 permalink: 2017/10/14/ottawa-parliament-hill/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2501
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2515
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Ottawa: Parliament Hill

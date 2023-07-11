@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-30 12:56:03
 modified: 2007-07-30 12:56:03
 permalink: 2007/07/30/flickrblogging-img_1922/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 380
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_1922

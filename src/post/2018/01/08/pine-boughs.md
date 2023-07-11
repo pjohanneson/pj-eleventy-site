@@ -5,9 +5,18 @@ excerpt: "They say smell triggers the strongest memories."
 date: 2018-01-08 22:42:16
 modified: 2018-01-08 22:42:16
 permalink: 2018/01/08/pine-boughs/index.html
-tags: ["JJ", "So It Goes"]
 featured_img: 
 wpid: 2660
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["JJ", "So It Goes"]
+post_tag: []
+category: ["JJ", "So It Goes"]
+tags: post
 ---
 
 # Pine boughs

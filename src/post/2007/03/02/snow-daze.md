@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-02 13:42:41
 modified: 2007-03-02 13:42:41
 permalink: 2007/03/02/snow-daze/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 334
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Snow daze

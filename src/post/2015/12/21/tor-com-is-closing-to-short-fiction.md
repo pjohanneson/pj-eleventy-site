@@ -5,9 +5,17 @@ excerpt: "If it&amp;#8217;s still 2015, then you can still send &amp;#8217;em so
 date: 2015-12-21 15:25:18
 modified: 2015-12-21 15:25:18
 permalink: 2015/12/21/tor-com-is-closing-to-short-fiction/index.html
-tags: ["So It Goes", "Writing"]
 featured_img: 
 wpid: 1840
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Writing"]
+post_tag: []
+category: ["So It Goes", "Writing"]
+tags: post
 ---
 
 # Tor.com is closing to short fiction

@@ -5,9 +5,17 @@ excerpt: "Not bad for a Monday."
 date: 2020-01-27 18:16:00
 modified: 2020-01-27 18:16:00
 permalink: 2020/01/27/a-friendly-face/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3775
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # A friendly face

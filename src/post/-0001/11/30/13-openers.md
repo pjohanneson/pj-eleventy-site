@@ -5,9 +5,17 @@ excerpt: ""
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["So It Goes"]
 featured_img: 
 wpid: 390
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # 13 openers

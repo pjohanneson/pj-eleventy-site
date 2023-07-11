@@ -5,9 +5,20 @@ excerpt: "Word-o-Mat Edition #1 unboxed."
 date: 2016-10-28 13:03:40
 modified: 2016-10-28 13:03:40
 permalink: 2016/10/28/im-not-made-of-stone/index.html
-tags: ["Photos", "So It Goes", "Writing"]
 featured_img: 
 wpid: 1975
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 1974
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Photos", "So It Goes", "Writing"]
+post_tag: []
+category: ["Photos", "So It Goes", "Writing"]
+tags: post
 ---
 
 # I&#8217;m not made of stone

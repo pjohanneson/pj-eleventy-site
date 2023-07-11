@@ -5,9 +5,30 @@ excerpt: "And yet it moves."
 date: 2021-03-08 06:37:06
 modified: 2021-03-08 06:37:06
 permalink: 2021/03/08/eppur-si-muove/index.html
-tags: ["Astrophotography", "Milky Way", "Star Trails", "Photos"]
 featured_img: 
 wpid: 4695
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _thumbnail_id: 4696
+  _edit_last: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2021/03/startrails-2021-03-07.jpg
+  _webdados_fb_open_graph_specific_description: And yet it moves. Click through to see
+    the videos.
+  _oembed_8f7de17cc4eeb0429e34cc747d5eb784: <iframe title="Stars in motion" src="https://player.vimeo.com/video/520807440?h=c3522377a2&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_8f7de17cc4eeb0429e34cc747d5eb784: 1679099438
+  _oembed_04f2dabf13d5a7808217d6bdb1afa783: '{{unknown}}'
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Milky Way", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Eppur si muove

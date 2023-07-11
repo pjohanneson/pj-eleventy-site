@@ -5,9 +5,26 @@ excerpt: "Writing! Photos! Staying up late!"
 date: 2022-08-24 23:17:26
 modified: 2022-08-24 23:17:26
 permalink: 2022/08/24/writing-retreat-2022-wednesday/index.html
-tags: ["Astrophotography", "Milky Way", "Star Trails", "Sunset", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 5602
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _webdados_fb_open_graph_specific_image: https://patrickjohanneson.com/wp-content/uploads/2022/08/IMG_3335-2000.jpg
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108885354450621537
+  swanwick_fake_thumbnail_id: 5605
+  _wp_old_date: "2022-08-25"
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Star Trails", "Sunset", "Writing", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Milky Way", "Star Trails", "Sunset", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2022: Wednesday

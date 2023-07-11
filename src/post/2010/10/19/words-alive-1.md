@@ -5,9 +5,18 @@ excerpt: ""
 date: 2010-10-19 13:12:36
 modified: 2010-10-19 13:12:36
 permalink: 2010/10/19/words-alive-1/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 773
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # Words Alive (1)

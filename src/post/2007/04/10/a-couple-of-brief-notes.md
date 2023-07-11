@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-10 04:21:25
 modified: 2007-04-10 04:21:25
 permalink: 2007/04/09/a-couple-of-brief-notes/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 351
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # A couple of brief notes

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-11-30 02:07:00
 modified: 2005-11-30 02:07:00
 permalink: 2005/11/29/done-diddly-un/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 114
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Done-diddly-un

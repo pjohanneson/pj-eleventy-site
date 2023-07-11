@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-26 03:54:55
 modified: 2006-10-26 03:54:55
 permalink: 2006/10/25/election-time-2/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 301
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Election Time!

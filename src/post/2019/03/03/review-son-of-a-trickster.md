@@ -5,9 +5,19 @@ excerpt: "Propulsive and compelling."
 date: 2019-03-03 19:44:34
 modified: 2019-03-03 19:44:34
 permalink: 2019/03/03/review-son-of-a-trickster/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 3173
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3174
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: Son of a Trickster

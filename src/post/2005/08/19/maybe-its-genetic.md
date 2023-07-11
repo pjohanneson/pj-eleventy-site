@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-19 17:56:00
 modified: 2005-08-19 17:56:00
 permalink: 2005/08/19/maybe-its-genetic/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 71
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Maybe it&#8217;s genetic

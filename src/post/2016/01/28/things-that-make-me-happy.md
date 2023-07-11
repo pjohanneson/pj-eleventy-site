@@ -5,9 +5,20 @@ excerpt: "&amp;#8220;If this isn&amp;#8217;t nice, I don&amp;#8217;t know what i
 date: 2016-01-28 22:52:03
 modified: 2016-01-28 22:52:03
 permalink: 2016/01/28/things-that-make-me-happy/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1870
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  epigraph: If this isn't nice, I don't know what is.
+  epigraph_citation: Kurt Vonnegut, Jr.
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Things that make me happy

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-04-12 03:47:46
 modified: 2008-04-12 03:47:46
 permalink: 2008/04/11/now-i-get-it/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 423
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Now I get it

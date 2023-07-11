@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-07 03:00:32
 modified: 2006-09-07 03:00:32
 permalink: 2006/09/06/things-i-did-today/index.html
-tags: ["Life", "Writing"]
 featured_img: 
 wpid: 286
+taxonomy_terms_all: ["Life", "Writing"]
+post_tag: []
+category: ["Life", "Writing"]
+tags: post
 ---
 
 # Things I did today

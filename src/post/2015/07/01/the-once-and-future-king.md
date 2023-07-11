@@ -5,9 +5,18 @@ excerpt: "Current read."
 date: 2015-07-01 22:08:22
 modified: 2015-07-01 22:08:22
 permalink: 2015/07/01/the-once-and-future-king/index.html
-tags: ["Books"]
 featured_img: 
 wpid: 1750
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books"]
+post_tag: []
+category: ["Books"]
+tags: post
 ---
 
 # The Once and Future King

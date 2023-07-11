@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-02-14 03:25:27
 modified: 2006-02-14 03:25:27
 permalink: 2006/02/13/instead-of-going-to-judo/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 155
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Instead of going to judo&#8230;

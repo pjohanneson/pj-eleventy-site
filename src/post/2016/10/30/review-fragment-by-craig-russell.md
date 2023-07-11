@@ -5,9 +5,19 @@ excerpt: "A whole lot of ice breaks free from Antarctica, and Bad Things Happen.
 date: 2016-10-30 17:41:11
 modified: 2016-10-30 17:41:11
 permalink: 2016/10/30/review-fragment-by-craig-russell/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 1982
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 1984
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Review: Fragment, by Craig Russell

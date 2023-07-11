@@ -5,9 +5,25 @@ excerpt: "About 5km from my front door."
 date: 2022-08-01 02:33:24
 modified: 2022-08-01 02:33:24
 permalink: 2022/07/31/the-meadow/index.html
-tags: ["Bike Ride", "Brenizer", "Meadow", "Panorama", "Photos"]
 featured_img: 
 wpid: 5534
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  swanwick_fake_thumbnail_id: 5535
+  _wpas_done_all: 1
+  _share_on_mastodon: 1
+  _edit_last: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5536
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108745276037253539
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Brenizer", "Meadow", "Panorama", "Photos"]
+post_tag: ["Bike Ride", "Brenizer", "Meadow", "Panorama"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # The meadow

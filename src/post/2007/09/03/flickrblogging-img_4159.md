@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-09-03 17:35:07
 modified: 2007-09-03 17:35:07
 permalink: 2007/09/03/flickrblogging-img_4159/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 384
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_4159

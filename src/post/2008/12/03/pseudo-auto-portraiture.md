@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-03 17:07:22
 modified: 2008-12-03 17:07:22
 permalink: 2008/12/03/pseudo-auto-portraiture/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 487
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Pseudo-auto-portraiture

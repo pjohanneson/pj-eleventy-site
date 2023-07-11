@@ -5,9 +5,19 @@ excerpt: "Day 1: art and then church."
 date: 2019-09-24 00:13:43
 modified: 2019-09-24 00:13:43
 permalink: 2019/09/23/monday-in-ottawa/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3549
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3544
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
+include_wp_css: 1
 ---
 
 # Monday in Ottawa

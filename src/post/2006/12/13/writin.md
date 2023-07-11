@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-12-13 05:04:43
 modified: 2006-12-13 05:04:43
 permalink: 2006/12/12/writin/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 309
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writin&#8217;

@@ -5,9 +5,22 @@ excerpt: ""
 date: 2006-02-22 23:09:10
 modified: 2006-02-22 23:09:10
 permalink: 2006/02/22/songs-i-could-listen-to-on-infinite-repeat-1-in-a-fairly-short-list/index.html
-tags: ["Life", "Music", "So It Goes"]
 featured_img: 
 wpid: 162
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _oembed_a25293cbd067a6e24b2c4eaac4394342: <iframe title="Here It Is Again" width="500"
+    height="375" src="https://www.youtube.com/embed/7yb4pQgOfcY?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" allowfullscreen></iframe>
+  _oembed_time_a25293cbd067a6e24b2c4eaac4394342: 1679099444
+  
+  
+taxonomy_terms_all: ["Life", "Music", "So It Goes"]
+post_tag: []
+category: ["Life", "Music", "So It Goes"]
+tags: post
 ---
 
 # Songs I could listen to on infinite repeat:  #1 in a fairly short list

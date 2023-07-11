@@ -5,9 +5,19 @@ excerpt: "And a memento mori, too."
 date: 2020-06-07 21:55:11
 modified: 2020-06-07 21:55:11
 permalink: 2020/06/07/lilacs-and-country-roads/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3968
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3958
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Lilacs and country roads

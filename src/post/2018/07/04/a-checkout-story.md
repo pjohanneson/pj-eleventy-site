@@ -5,9 +5,18 @@ excerpt: "Tattooed man goes shopping."
 date: 2018-07-04 22:11:34
 modified: 2018-07-04 22:11:34
 permalink: 2018/07/04/a-checkout-story/index.html
-tags: ["Amusing", "So It Goes"]
 featured_img: 
 wpid: 2757
+all_meta: 
+  _wpas_done_all: 1
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "So It Goes"]
+post_tag: []
+category: ["Amusing", "So It Goes"]
+tags: post
 ---
 
 # A checkout story

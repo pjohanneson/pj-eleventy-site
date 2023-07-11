@@ -5,9 +5,12 @@ excerpt: ""
 date: 2009-01-03 22:49:58
 modified: 2009-01-03 22:49:58
 permalink: 2009/01/03/new-years-eve-photos/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 530
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # New Year&#8217;s Eve photos

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-27 00:26:08
 modified: 2006-05-27 00:26:08
 permalink: 2006/05/26/a-good-day/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 236
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # A good day

@@ -5,9 +5,16 @@ excerpt: ""
 date: 2005-12-11 02:59:00
 modified: 2005-12-11 02:59:00
 permalink: 2005/12/10/reminiscences-3/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 117
+all_meta: 
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Reminiscences, #3

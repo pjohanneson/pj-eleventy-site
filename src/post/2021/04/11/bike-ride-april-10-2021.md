@@ -5,9 +5,22 @@ excerpt: "A nice day for a nice long ride."
 date: 2021-04-11 02:40:35
 modified: 2021-04-11 02:40:35
 permalink: 2021/04/10/bike-ride-april-10-2021/index.html
-tags: ["Bike Ride", "Brenizer Method", "Goose", "Panorama", "Photos"]
 featured_img: 
 wpid: 4756
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _thumbnail_id: 4760
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Brenizer Method", "Goose", "Panorama", "Photos"]
+post_tag: ["Bike Ride", "Brenizer Method", "Goose", "Panorama"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike ride, April 10, 2021

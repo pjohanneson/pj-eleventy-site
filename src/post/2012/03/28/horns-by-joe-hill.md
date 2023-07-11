@@ -5,9 +5,19 @@ excerpt: "Horns by Joe Hill is an amazing novel; each new chapter reveals anothe
 date: 2012-03-28 22:31:34
 modified: 2012-03-28 22:31:34
 permalink: 2012/03/28/horns-by-joe-hill/index.html
-tags: ["Books", "Reviews"]
 featured_img: 
 wpid: 978
+all_meta: 
+  _edit_last: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Books", "Reviews"]
+post_tag: []
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # Horns, by Joe Hill

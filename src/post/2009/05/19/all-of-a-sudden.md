@@ -5,9 +5,17 @@ excerpt: ""
 date: 2009-05-19 16:03:47
 modified: 2009-05-19 16:03:47
 permalink: 2009/05/19/all-of-a-sudden/index.html
-tags: ["Judo", "Life"]
 featured_img: 
 wpid: 594
+all_meta: 
+  aktt_notify_twitter: "no"
+  _comment_timeout: "30,30"
+  
+  
+taxonomy_terms_all: ["Judo", "Life"]
+post_tag: []
+category: ["Judo", "Life"]
+tags: post
 ---
 
 # All of a sudden

@@ -5,9 +5,18 @@ excerpt: ""
 date: 2015-05-20 19:36:06
 modified: 2015-05-20 19:36:06
 permalink: 2015/05/20/short-fantasies/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1731
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Short fantasies

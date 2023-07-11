@@ -5,9 +5,19 @@ excerpt: "Guided tours and a museum."
 date: 2019-09-24 22:05:14
 modified: 2019-09-24 22:05:14
 permalink: 2019/09/24/ottawa-day-2/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 3564
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3561
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
+include_wp_css: 1
 ---
 
 # Ottawa, Day 2

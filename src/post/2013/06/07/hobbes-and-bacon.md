@@ -5,9 +5,18 @@ excerpt: "26 years later &amp;#8212; Calvin has a daughter. Who has a tiger."
 date: 2013-06-07 12:20:31
 modified: 2013-06-07 12:20:31
 permalink: 2013/06/07/hobbes-and-bacon/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 1304
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # Hobbes and Bacon

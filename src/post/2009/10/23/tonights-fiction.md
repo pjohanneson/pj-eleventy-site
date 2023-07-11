@@ -5,9 +5,18 @@ excerpt: "A romance between a worm and a giraffe &amp;#8212; seriously"
 date: 2009-10-23 03:06:56
 modified: 2009-10-23 03:06:56
 permalink: 2009/10/22/tonights-fiction/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 628
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Tonight&#8217;s fiction

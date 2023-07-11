@@ -5,9 +5,28 @@ excerpt: "&amp;#8220;I believe in something, I think.&amp;#8221;"
 date: 2015-06-29 14:17:54
 modified: 2015-06-29 14:17:54
 permalink: 2015/06/29/music-monday-sol-invictus/index.html
-tags: ["Music", "Youtubery"]
 featured_img: 
 wpid: 1740
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_feb110f6ec1149fd4a59afc535ebf122: <iframe title="Faith No More - Sol Invictus
+    - The Fillmore, Detroit, MI - 8th May 2015" width="500" height="281" src="https://www.youtube.com/embed/gKLdoI-xZr0?start=50&feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_feb110f6ec1149fd4a59afc535ebf122: 1679099441
+  _oembed_97b00cee93ea3781e98740f757500927: <iframe title="Faith No More - Superhero"
+    width="500" height="281" src="https://www.youtube.com/embed/NKP98hDBJ8w?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_97b00cee93ea3781e98740f757500927: 1679099441
+  
+  
+taxonomy_terms_all: ["Music", "Youtubery"]
+post_tag: []
+category: ["Music", "Youtubery"]
+tags: post
 ---
 
 # Music Monday: Sol Invictus

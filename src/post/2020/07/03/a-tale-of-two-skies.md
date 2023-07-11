@@ -5,9 +5,19 @@ excerpt: "Some crazy colours."
 date: 2020-07-03 13:57:01
 modified: 2020-07-03 13:57:01
 permalink: 2020/07/03/a-tale-of-two-skies/index.html
-tags: ["Mbstorm", "Orange", "Out My Window", "Purple", "Sky", "Spooky Skies", "Sunset", "Photos"]
 featured_img: 
 wpid: 4042
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4044
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Mbstorm", "Orange", "Out My Window", "Purple", "Sky", "Spooky Skies", "Sunset", "Photos"]
+post_tag: ["Mbstorm", "Orange", "Out My Window", "Purple", "Sky", "Spooky Skies", "Sunset"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A tale of two skies

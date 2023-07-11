@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-11-19 13:37:37
 modified: 2007-11-19 13:37:37
 permalink: 2007/11/19/lesson-learned/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 398
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Lesson Learned

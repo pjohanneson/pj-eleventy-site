@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-05 12:53:31
 modified: 2006-07-05 12:53:31
 permalink: 2006/07/05/flickrblogging-img_8883/index.html
-tags: ["Flickrblogging"]
 featured_img: 
 wpid: 262
+taxonomy_terms_all: ["Flickrblogging"]
+post_tag: []
+category: ["Flickrblogging"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_8883

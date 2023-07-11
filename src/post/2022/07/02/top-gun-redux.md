@@ -5,9 +5,21 @@ excerpt: "Top Gun: The Next Generation."
 date: 2022-07-02 17:23:41
 modified: 2022-07-02 17:23:41
 permalink: 2022/07/02/top-gun-redux/index.html
-tags: ["2 Top 2 Gun", "Top Gun", "Movies", "Reviews"]
 featured_img: 
 wpid: 5471
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _edit_last: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 5474
+  
+  
+taxonomy_terms_all: ["2 Top 2 Gun", "Top Gun", "Movies", "Reviews"]
+post_tag: ["2 Top 2 Gun", "Top Gun"]
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Top Gun redux

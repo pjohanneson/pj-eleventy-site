@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-25 16:38:13
 modified: 2006-03-25 16:38:13
 permalink: 2006/03/25/contest-entry/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 192
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Contest Entry

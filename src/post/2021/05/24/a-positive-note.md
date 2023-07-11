@@ -5,9 +5,21 @@ excerpt: "Sometimes it&amp;#8217;s nice to hear &amp;#8220;good job&amp;#8221;."
 date: 2021-05-24 14:07:00
 modified: 2021-05-24 14:07:00
 permalink: 2021/05/24/a-positive-note/index.html
-tags: ["Rejection", "Thanks!", "Writing"]
 featured_img: 
 wpid: 4843
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Rejection", "Thanks!", "Writing"]
+post_tag: ["Rejection", "Thanks!"]
+category: ["Writing"]
+tags: post
 ---
 
 # A positive note

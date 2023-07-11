@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-08-23 23:27:41
 modified: 2007-08-23 23:27:41
 permalink: 2007/08/23/this-weekend-4/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 383
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # This weekend

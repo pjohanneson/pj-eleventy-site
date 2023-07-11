@@ -5,9 +5,22 @@ excerpt: "A chilly hour under the stars."
 date: 2022-03-07 05:14:32
 modified: 2022-03-07 05:14:32
 permalink: 2022/03/06/some-faint-aurora/index.html
-tags: ["Astrophotography", "Aurora", "Aurora Borealis", "Star Trails", "Photos"]
 featured_img: 
 wpid: 5294
+all_meta: 
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  swanwick_fake_thumbnail_id: 5296
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora", "Aurora Borealis", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Aurora", "Aurora Borealis", "Star Trails"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Some faint aurora

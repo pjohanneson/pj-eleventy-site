@@ -5,9 +5,20 @@ excerpt: ""
 date: 2013-12-14 02:40:03
 modified: 2013-12-14 02:40:03
 permalink: 2013/12/13/no-man-is-an-island/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1454
+all_meta: 
+  geo_latitude: 49
+  geo_longitude: -99
+  geo_public: 1
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # No man is an island

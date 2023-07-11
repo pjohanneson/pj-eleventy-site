@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-07-05 02:51:16
 modified: 2006-07-05 02:51:16
 permalink: 2006/07/04/steep-rock/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 261
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Steep Rock

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2009-01-02 03:45:19
 modified: 2009-01-02 03:45:19
 permalink: 2009/01/01/happy-new-year-2/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 528
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Happy New Year

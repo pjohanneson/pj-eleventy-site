@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-07 21:35:45
 modified: 2006-04-07 21:35:45
 permalink: 2006/04/07/for-your-birthday-lunch/index.html
-tags: ["Amusing", "Life", "Photos"]
 featured_img: 
 wpid: 200
+taxonomy_terms_all: ["Amusing", "Life", "Photos"]
+post_tag: []
+category: ["Amusing", "Life", "Photos"]
+tags: post
 ---
 
 # For your birthday lunch&#8230;

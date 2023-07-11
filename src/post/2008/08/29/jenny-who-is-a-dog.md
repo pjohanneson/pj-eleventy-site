@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-08-29 02:19:40
 modified: 2008-08-29 02:19:40
 permalink: 2008/08/28/jenny-who-is-a-dog/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 446
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Jenny, who is a dog

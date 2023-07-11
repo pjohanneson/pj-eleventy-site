@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-11-25 03:21:00
 modified: 2005-11-25 03:21:00
 permalink: 2005/11/24/writing/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 112
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Writing

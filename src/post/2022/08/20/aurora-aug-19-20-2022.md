@@ -5,9 +5,28 @@ excerpt: "Green sky at night, astrophotographer&amp;#8217;s delight."
 date: 2022-08-20 15:57:06
 modified: 2022-08-20 15:57:06
 permalink: 2022/08/20/aurora-aug-19-20-2022/index.html
-tags: ["Astrophotography", "Aurora Borealis", "Photos"]
 featured_img: 
 wpid: 5579
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5569
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108856018759196878
+  _oembed_5bb56c5326ee00e7857637d1f3290350: <iframe title="Aurora, Aug. 19-20" src="https://player.vimeo.com/video/741415932?h=cefa2a9e1b&amp;dnt=1&amp;app_id=122963"
+    width="500" height="334" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen></iframe>
+  _oembed_time_5bb56c5326ee00e7857637d1f3290350: 1679099437
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Aurora Borealis", "Photos"]
+post_tag: ["Astrophotography", "Aurora Borealis"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Aurora, Aug. 19–20, 2022

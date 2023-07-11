@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-13 00:22:25
 modified: 2006-06-13 00:22:25
 permalink: 2006/06/12/things-that-annoy-me/index.html
-tags: ["Life", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 247
+taxonomy_terms_all: ["Life", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Life", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Things that annoy me

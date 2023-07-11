@@ -5,9 +5,18 @@ excerpt: ""
 date: 2019-10-31 17:14:51
 modified: 2019-10-31 17:14:51
 permalink: 2019/10/31/hollow-bean-2019/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3653
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2964
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hollow Bean 2019

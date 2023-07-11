@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-07-30 04:29:43
 modified: 2008-07-30 04:29:43
 permalink: 2008/07/29/today-2/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 437
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Today

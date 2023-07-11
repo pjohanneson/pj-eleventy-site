@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-18 23:03:00
 modified: 2006-01-18 23:03:00
 permalink: 2006/01/18/brrr/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 131
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Brrr

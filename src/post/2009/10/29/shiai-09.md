@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-10-29 17:54:22
 modified: 2009-10-29 17:54:22
 permalink: 2009/10/29/shiai-09/index.html
-tags: ["Judo", "Photos", "So It Goes"]
 featured_img: 
 wpid: 639
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Judo", "Photos", "So It Goes"]
+post_tag: []
+category: ["Judo", "Photos", "So It Goes"]
+tags: post
 ---
 
 # Shiai &#8217;09

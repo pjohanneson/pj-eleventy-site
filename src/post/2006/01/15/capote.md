@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-15 06:26:11
 modified: 2006-01-15 06:26:11
 permalink: 2006/01/15/capote/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 127
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Capote

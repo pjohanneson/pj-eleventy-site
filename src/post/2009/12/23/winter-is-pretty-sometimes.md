@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-12-23 04:29:12
 modified: 2009-12-23 04:29:12
 permalink: 2009/12/22/winter-is-pretty-sometimes/index.html
-tags: ["Flickrblogging", "Photos"]
 featured_img: 
 wpid: 661
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Photos"]
+post_tag: []
+category: ["Flickrblogging", "Photos"]
+tags: post
 ---
 
 # Winter is pretty&#8230; sometimes.

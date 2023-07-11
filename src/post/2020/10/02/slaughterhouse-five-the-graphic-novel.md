@@ -5,9 +5,19 @@ excerpt: "Everything was beautiful, and nothing hurt."
 date: 2020-10-02 01:48:15
 modified: 2020-10-02 01:48:15
 permalink: 2020/10/01/slaughterhouse-five-the-graphic-novel/index.html
-tags: ["Graphic Novel", "Ryan North", "Slaughterhouse-five", "Books", "Reviews", "So It Goes"]
 featured_img: 
 wpid: 4317
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wp_old_date: "2020-09-30"
+  
+  
+taxonomy_terms_all: ["Graphic Novel", "Ryan North", "Slaughterhouse-five", "Books", "Reviews", "So It Goes"]
+post_tag: ["Graphic Novel", "Ryan North", "Slaughterhouse-five"]
+category: ["Books", "Reviews", "So It Goes"]
+tags: post
 ---
 
 # Slaughterhouse-Five: the graphic novel

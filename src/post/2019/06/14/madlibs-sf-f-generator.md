@@ -5,9 +5,18 @@ excerpt: "&amp;#8220;You are a universe-weary alien who is three days to retirem
 date: 2019-06-14 17:38:35
 modified: 2019-06-14 17:38:35
 permalink: 2019/06/14/madlibs-sf-f-generator/index.html
-tags: ["Blinky", "Amusing", "Writing"]
 featured_img: 
 wpid: 3344
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2854
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Blinky", "Amusing", "Writing"]
+post_tag: ["Blinky"]
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # MadLibs SF/F generator

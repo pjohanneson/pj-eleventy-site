@@ -5,9 +5,19 @@ excerpt: "A fine night for astrophotography."
 date: 2020-07-14 13:13:19
 modified: 2020-07-14 13:13:19
 permalink: 2020/07/14/a-comet-an-aurora-and-the-king-of-planets/index.html
-tags: ["Astrophotography", "Comet Neowise", "Galilean Moons", "Jupiter", "Photos"]
 featured_img: 
 wpid: 4071
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 4072
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Comet Neowise", "Galilean Moons", "Jupiter", "Photos"]
+post_tag: ["Astrophotography", "Comet Neowise", "Galilean Moons", "Jupiter"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # A comet, an aurora, and the king of planets

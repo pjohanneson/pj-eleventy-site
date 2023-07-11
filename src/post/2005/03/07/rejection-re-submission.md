@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-03-07 19:56:00
 modified: 2005-03-07 19:56:00
 permalink: 2005/03/07/rejection-re-submission/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 758
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Rejection; re-submission

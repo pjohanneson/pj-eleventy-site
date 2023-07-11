@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-11 03:21:09
 modified: 2006-03-11 03:21:09
 permalink: 2006/03/10/huh-2/index.html
-tags: ["Amusing", "Idiot Box"]
 featured_img: 
 wpid: 179
+taxonomy_terms_all: ["Amusing", "Idiot Box"]
+post_tag: []
+category: ["Amusing", "Idiot Box"]
+tags: post
 ---
 
 # Huh?

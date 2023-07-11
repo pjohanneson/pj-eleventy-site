@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-24 03:22:34
 modified: 2006-01-24 03:22:34
 permalink: 2006/01/23/how-can-you-tell-its-election-night/index.html
-tags: ["Judo", "Life"]
 featured_img: 
 wpid: 141
+taxonomy_terms_all: ["Judo", "Life"]
+post_tag: []
+category: ["Judo", "Life"]
+tags: post
 ---
 
 # How can you tell it&#8217;s election night?

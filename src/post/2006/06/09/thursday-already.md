@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-06-09 00:19:02
 modified: 2006-06-09 00:19:02
 permalink: 2006/06/08/thursday-already/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 244
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Thursday already?

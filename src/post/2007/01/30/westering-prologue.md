@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-30 03:27:20
 modified: 2007-01-30 03:27:20
 permalink: 2007/01/29/westering-prologue/index.html
-tags: ["Life", "Photos", "Travel"]
 featured_img: 
 wpid: 321
+taxonomy_terms_all: ["Life", "Photos", "Travel"]
+post_tag: []
+category: ["Life", "Photos", "Travel"]
+tags: post
 ---
 
 # Westering:  prologue

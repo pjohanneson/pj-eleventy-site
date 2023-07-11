@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-11 23:36:41
 modified: 2006-05-11 23:36:41
 permalink: 2006/05/11/forward-motion-challenge/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 222
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Forward Motion challenge

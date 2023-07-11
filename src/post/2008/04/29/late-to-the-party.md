@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-04-29 04:26:24
 modified: 2008-04-29 04:26:24
 permalink: 2008/04/28/late-to-the-party/index.html
-tags: ["Idiot Box"]
 featured_img: 
 wpid: 425
+taxonomy_terms_all: ["Idiot Box"]
+post_tag: []
+category: ["Idiot Box"]
+tags: post
 ---
 
 # Late to the party

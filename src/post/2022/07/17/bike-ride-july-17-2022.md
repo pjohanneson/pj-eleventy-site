@@ -5,9 +5,22 @@ excerpt: "A lot of names on the BMHC Cemetery cairn."
 date: 2022-07-17 20:50:51
 modified: 2022-07-17 20:50:51
 permalink: 2022/07/17/bike-ride-july-17-2022/index.html
-tags: ["Bike Ride", "Bmhc", "Bmhc Cemetery", "Cairn", "Photos"]
 featured_img: 
 wpid: 5505
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _wpas_done_all: 1
+  _edit_last: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5499
+  
+  
+taxonomy_terms_all: ["Bike Ride", "Bmhc", "Bmhc Cemetery", "Cairn", "Photos"]
+post_tag: ["Bike Ride", "Bmhc", "Bmhc Cemetery", "Cairn"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Bike Ride &#8211; July 17, 2022

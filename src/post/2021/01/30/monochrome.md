@@ -5,9 +5,22 @@ excerpt: "Grey and white photography."
 date: 2021-01-30 22:08:28
 modified: 2021-01-30 22:08:28
 permalink: 2021/01/30/monochrome/index.html
-tags: ["Frost", "Grey And White", "Monochrome", "Winter", "Photos"]
 featured_img: 
 wpid: 4578
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 4572
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Frost", "Grey And White", "Monochrome", "Winter", "Photos"]
+post_tag: ["Frost", "Grey And White", "Monochrome", "Winter"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Monochrome

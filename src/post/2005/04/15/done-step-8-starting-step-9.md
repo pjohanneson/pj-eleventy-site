@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-04-15 04:03:00
 modified: 2005-04-15 04:03:00
 permalink: 2005/04/14/done-step-8-starting-step-9/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 763
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Done step 8; starting step 9

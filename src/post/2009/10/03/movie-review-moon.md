@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-10-03 03:34:14
 modified: 2009-10-03 03:34:14
 permalink: 2009/10/02/movie-review-moon/index.html
-tags: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
 featured_img: 
 wpid: 612
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
+post_tag: []
+category: ["Movies", "Ne-e-e-e-e-erd!", "Reviews"]
+tags: post
 ---
 
 # Movie review: Moon

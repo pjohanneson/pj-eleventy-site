@@ -5,9 +5,18 @@ excerpt: "An indescribable lesson in writing."
 date: 2014-01-15 18:34:30
 modified: 2014-01-15 18:34:30
 permalink: 2014/01/15/a-lesson-in-a-line/index.html
-tags: ["Books", "Writing"]
 featured_img: 
 wpid: 1481
+all_meta: 
+  _wpas_done_all: 1
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Books", "Writing"]
+post_tag: []
+category: ["Books", "Writing"]
+tags: post
 ---
 
 # A lesson in a line

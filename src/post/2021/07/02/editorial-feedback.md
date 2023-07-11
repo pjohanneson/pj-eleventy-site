@@ -5,9 +5,21 @@ excerpt: "Well, that went well."
 date: 2021-07-02 19:32:58
 modified: 2021-07-02 19:32:58
 permalink: 2021/07/02/editorial-feedback/index.html
-tags: ["Augur", "Editorial Feedback", "Writing"]
 featured_img: 
 wpid: 4922
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2847
+  _wpas_done_all: 1
+  _last_editor_used_jetpack: block-editor
+  
+  
+taxonomy_terms_all: ["Augur", "Editorial Feedback", "Writing"]
+post_tag: ["Augur", "Editorial Feedback"]
+category: ["Writing"]
+tags: post
 ---
 
 # Editorial feedback

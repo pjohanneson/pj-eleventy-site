@@ -5,9 +5,20 @@ excerpt: "Lucky 13."
 date: 2020-11-01 01:57:30
 modified: 2020-11-01 01:57:30
 permalink: 2020/10/31/hollow-bean-2020/index.html
-tags: ["Hallowe'en", "So It Goes"]
 featured_img: 
 wpid: 4371
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _thumbnail_id: 4372
+  _wpas_mess: Hollow Bean 2020 - The Count
+  
+  
+taxonomy_terms_all: ["Hallowe'en", "So It Goes"]
+post_tag: ["Hallowe'en"]
+category: ["So It Goes"]
+tags: post
 ---
 
 # Hollow Bean 2020

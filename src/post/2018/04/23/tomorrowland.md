@@ -5,9 +5,19 @@ excerpt: "Some optimistic, if preachy, SF from Disney."
 date: 2018-04-23 17:27:01
 modified: 2018-04-23 17:27:01
 permalink: 2018/04/23/tomorrowland/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 2719
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2720
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
 ---
 
 # Tomorrowland

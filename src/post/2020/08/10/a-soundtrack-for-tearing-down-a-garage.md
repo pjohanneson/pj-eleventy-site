@@ -5,9 +5,24 @@ excerpt: "&amp;#8220;Vise Grips for pliers, pliers for a wrench&amp;#8230;&amp;#
 date: 2020-08-10 17:18:00
 modified: 2020-08-10 17:18:00
 permalink: 2020/08/10/a-soundtrack-for-tearing-down-a-garage/index.html
-tags: ["Garage Demolition", "Music", "Music", "So It Goes"]
 featured_img: 
 wpid: 4174
+all_meta: 
+  _wpcom_is_markdown: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _wpas_done_all: 1
+  _oembed_e10ef8e52639b287a43d77b2fefbe8e6: <iframe title="Corb Lund - Hard On Equipment
+    (Tool for the Job)" width="500" height="375" src="https://www.youtube.com/embed/CwGrC0KicSo?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_e10ef8e52639b287a43d77b2fefbe8e6: 1679099439
+  
+  
+taxonomy_terms_all: ["Garage Demolition", "Music", "Music", "So It Goes"]
+post_tag: ["Garage Demolition", "Music"]
+category: ["Music", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # A soundtrack for tearing down a garage

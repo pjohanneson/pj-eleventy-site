@@ -5,9 +5,23 @@ excerpt: "How&amp;#8217;d the week go?"
 date: 2022-08-28 01:17:56
 modified: 2022-08-28 01:17:56
 permalink: 2022/08/27/writing-retreat-2022-wrap-up/index.html
-tags: ["Astrophotography", "Milky Way", "Photography", "Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5630
+all_meta: 
+  _publicize_twitter_user: '@pjohanneson'
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108897860326419725
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Milky Way", "Photography", "Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Milky Way", "Photography", "Star Trails", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2022: Wrap-up

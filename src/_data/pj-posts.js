@@ -1,26 +1,3 @@
-// const EleventyFetch = require( "@11ty/eleventy-fetch" );
-
-// module.exports = async function() {
-
-// 	try {
-// 		let json = await EleventyFetch(
-// 			'http://pj.wp/wp-json/wp/v2/posts?_embed=wp:featuredmedia',
-// 			{
-// 				duration: "4h",
-// 				type:     "json"
-// 			}
-// 		);
-// 		console.log( 'Got some posts!' );
-// 		console.log( json[0] );
-// 		return json;
-
-// 	} catch( e ) {
-// 		console.log( 'Failed getting posts from PJ.wp' );
-// 		console.log( e );
-// 		return [];
-// 	}
-// };
-
 const { AssetCache } = require("@11ty/eleventy-fetch");
 const axios = require("axios");
 const jsdom = require("jsdom");
@@ -33,6 +10,32 @@ loadLanguages(["php"]);
 // Config
 const ITEMS_PER_REQUEST = 10;
 const API_BASE = "http://pj.wp/wp-json/wp/v2/posts";
+
+function findWPImages( content, title ) {
+	/**
+	 * @todo
+	 *  - figure out the comment <img> tags (eg <figure>, <picture>, etc)
+	 *  - sniff for each
+	 *  - find the largest image listed (either the full size or the -1024x???, eg)
+	 *  - if there's an <a href="??.jpg"> wrapping the tag, use the image there
+	 *  - otherwise use the largest found image (try stripping off the WP size, eg {www}x{hhh})
+	 */
+	const regexes = [
+		/img.*src=['"](https:\/\/patrickjohanneson\.com\/[^'"]*)['"]/gi,
+		/<figure>.*['"](https:\/\/patrickjohanneson\.com\/[^'"]*)['"]<\/figure>/gi
+	];
+	let matches = [];
+	regexes.forEach( function( regex ) {
+		matches.push( ...content.matchAll( regex ) );
+		if ( matches.length > 0 ) {
+			console.log( title );
+			matches.forEach( function( match ) {
+				console.log( match );
+			} );
+		}
+		matches = [];
+	});
+}
 
 /**
  * Blog post API call by page
@@ -128,6 +131,9 @@ async function processPosts(blogposts) {
       // Code highlighting with Eleventy Syntax Highlighting
       // https://www.11ty.dev/docs/plugins/syntaxhighlight/
       let content = highlightCode(post.content.rendered);
+      // findWPImages( post.content.rendered, post.title.rendered );
+
+      // console.log( post.content.rendered );
 
       // Return only the data that is needed for the actual output
       let postYear  = new Date( post.date ).getFullYear();

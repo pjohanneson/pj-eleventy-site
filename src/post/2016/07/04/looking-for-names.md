@@ -5,9 +5,17 @@ excerpt: ""
 date: 2016-07-04 16:02:32
 modified: 2016-07-04 16:02:32
 permalink: 2016/07/04/looking-for-names/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1926
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Looking for names?

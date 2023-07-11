@@ -5,9 +5,17 @@ excerpt: "With guest appearances by the moon and Venus."
 date: 2020-03-29 16:51:05
 modified: 2020-03-29 16:51:05
 permalink: 2020/03/29/springtime-star-trails/index.html
-tags: ["Astrophotography", "Star Trails", "Photos"]
 featured_img: 
 wpid: 3822
+all_meta: 
+  _thumbnail_id: 3823
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Star Trails", "Photos"]
+post_tag: ["Astrophotography", "Star Trails"]
+category: ["Photos"]
+tags: post
 ---
 
 # Springtime star trails

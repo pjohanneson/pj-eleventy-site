@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-10-24 02:57:56
 modified: 2009-10-24 02:57:56
 permalink: 2009/10/23/profoundly-something/index.html
-tags: ["Flickrblogging", "Movies", "Ne-e-e-e-e-erd!", "Weird"]
 featured_img: 
 wpid: 630
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Movies", "Ne-e-e-e-e-erd!", "Weird"]
+post_tag: []
+category: ["Flickrblogging", "Movies", "Ne-e-e-e-e-erd!", "Weird"]
+tags: post
 ---
 
 # Profoundly [something]

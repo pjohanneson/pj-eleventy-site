@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-25 18:35:51
 modified: 2007-01-25 18:35:51
 permalink: 2007/01/25/13-things-i-have-never-read-or-seen/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 320
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # 13 things I have never read or seen

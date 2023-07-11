@@ -5,9 +5,17 @@ excerpt: "And I though that luxury condos with a view of the Superstore parking 
 date: 2011-05-16 12:34:36
 modified: 2011-05-16 12:34:36
 permalink: 2011/05/16/the-new-development/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 860
+all_meta: 
+  aktt_tweeted: 1
+  aktt_notify_twitter: "yes"
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # The new development

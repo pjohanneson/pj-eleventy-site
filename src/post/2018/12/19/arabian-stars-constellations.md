@@ -5,9 +5,19 @@ excerpt: "Other names for the ancient stars."
 date: 2018-12-19 14:15:03
 modified: 2018-12-19 14:15:03
 permalink: 2018/12/19/arabian-stars-constellations/index.html
-tags: ["Arabic Names", "Astronomy", "Constellations", "Photos", "Writing"]
 featured_img: 
 wpid: 3068
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3069
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Arabic Names", "Astronomy", "Constellations", "Photos", "Writing"]
+post_tag: ["Arabic Names", "Astronomy", "Constellations"]
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Arabian Stars &#038; Constellations

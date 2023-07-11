@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-18 03:35:00
 modified: 2005-08-18 03:35:00
 permalink: 2005/08/17/1000-words-at-a-time/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 70
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # 1000 words at a time

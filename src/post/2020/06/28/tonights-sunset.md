@@ -5,9 +5,18 @@ excerpt: "&amp;#8220;There&amp;#8217;s a sunrise and a sunset every single day, 
 date: 2020-06-28 03:24:28
 modified: 2020-06-28 03:24:28
 permalink: 2020/06/27/tonights-sunset/index.html
-tags: ["Sunset", "Photos"]
 featured_img: 
 wpid: 4015
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 4016
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Sunset", "Photos"]
+post_tag: ["Sunset"]
+category: ["Photos"]
+tags: post
 ---
 
 # Tonight&#8217;s sunset

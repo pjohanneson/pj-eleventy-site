@@ -5,9 +5,20 @@ excerpt: "I don&amp;#8217;t understand his affinity for canned peas, though. Ble
 date: 2017-01-19 14:07:13
 modified: 2017-01-19 14:07:13
 permalink: 2017/01/19/memories-of-jj-5-dietary-quirks/index.html
-tags: ["Amusing", "Gourmandise", "JJ"]
 featured_img: 
 wpid: 2146
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2114
+  _wpas_done_all: 1
+  _jetpack_dont_email_post_to_subs: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "Gourmandise", "JJ"]
+post_tag: []
+category: ["Amusing", "Gourmandise", "JJ"]
+tags: post
 ---
 
 # Memories of JJ, 5 &#8212; Dietary quirks

@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-03-26 17:55:42
 modified: 2009-03-26 17:55:42
 permalink: 2009/03/26/i-love-my-family/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 574
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # I love my family

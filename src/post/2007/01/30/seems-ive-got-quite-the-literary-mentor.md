@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-30 13:57:00
 modified: 2007-01-30 13:57:00
 permalink: 2007/01/30/seems-ive-got-quite-the-literary-mentor/index.html
-tags: ["Amusing", "Writing"]
 featured_img: 
 wpid: 322
+taxonomy_terms_all: ["Amusing", "Writing"]
+post_tag: []
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Seems I&#8217;ve got quite the literary mentor

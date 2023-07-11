@@ -5,9 +5,19 @@ excerpt: "Well, let&amp;#8217;s see how this goes."
 date: 2018-07-07 19:11:31
 modified: 2018-07-07 19:11:31
 permalink: 2018/07/07/trying-gutenberg/index.html
-tags: ["WordPress"]
 featured_img: 
 wpid: 2760
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2768
+  
+  
+taxonomy_terms_all: ["WordPress"]
+post_tag: []
+category: ["WordPress"]
+tags: post
 ---
 
 # Trying Gutenberg

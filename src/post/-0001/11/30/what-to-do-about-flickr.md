@@ -5,9 +5,17 @@ excerpt: "How do you solve a problem like SmugMug?"
 date: 0000-00-00 00:00:00
 modified: 0000-00-00 00:00:00
 permalink: false
-tags: ["Flickrblogging", "Photos", "So It Goes"]
 featured_img: 
 wpid: 2989
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Photos", "So It Goes"]
+post_tag: []
+category: ["Flickrblogging", "Photos", "So It Goes"]
+tags: post
 ---
 
 # What to do about Flickr

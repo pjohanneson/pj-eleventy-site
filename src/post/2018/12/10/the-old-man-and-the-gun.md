@@ -5,9 +5,25 @@ excerpt: ""
 date: 2018-12-10 03:52:23
 modified: 2018-12-10 03:52:23
 permalink: 2018/12/09/the-old-man-and-the-gun/index.html
-tags: ["Movies", "Reviews"]
 featured_img: 
 wpid: 3040
+all_meta: 
+  _wpas_done_all: 1
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 3050
+  _oembed_918d93bf0bff410ef063e55da5fe812d: <iframe title="THE OLD MAN &amp; THE GUN
+    | Trailer 2 [HD] | FOX Searchlight" width="500" height="281" src="https://www.youtube.com/embed/IdLQb9zN9OE?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_918d93bf0bff410ef063e55da5fe812d: 1679099439
+  
+  
+taxonomy_terms_all: ["Movies", "Reviews"]
+post_tag: []
+category: ["Movies", "Reviews"]
+tags: post
+include_wp_css: 1
 ---
 
 # The Old Man and the Gun

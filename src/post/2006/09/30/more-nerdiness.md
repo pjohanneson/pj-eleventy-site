@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-30 03:16:27
 modified: 2006-09-30 03:16:27
 permalink: 2006/09/29/more-nerdiness/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 294
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # More nerdiness&#8230;

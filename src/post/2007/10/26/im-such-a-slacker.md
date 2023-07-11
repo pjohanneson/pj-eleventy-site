@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-10-26 02:10:51
 modified: 2007-10-26 02:10:51
 permalink: 2007/10/25/im-such-a-slacker/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 394
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # I&#8217;m such a slacker

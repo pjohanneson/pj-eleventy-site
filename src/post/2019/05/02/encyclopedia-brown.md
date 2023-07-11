@@ -5,9 +5,18 @@ excerpt: "Thanks, Donald J. Sobol."
 date: 2019-05-02 04:22:34
 modified: 2019-05-02 04:22:34
 permalink: 2019/05/01/encyclopedia-brown/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 3282
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Encyclopedia Brown

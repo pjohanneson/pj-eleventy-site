@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-23 23:16:00
 modified: 2005-10-23 23:16:00
 permalink: 2005/10/23/brandon-life/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 105
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Brandon Life

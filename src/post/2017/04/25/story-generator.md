@@ -5,9 +5,18 @@ excerpt: "Saving this one for later."
 date: 2017-04-25 16:39:10
 modified: 2017-04-25 16:39:10
 permalink: 2017/04/25/story-generator/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 2240
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2241
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Story Generator

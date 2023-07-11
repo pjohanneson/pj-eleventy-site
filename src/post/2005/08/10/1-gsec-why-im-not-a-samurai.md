@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-08-10 02:37:00
 modified: 2005-08-10 02:37:00
 permalink: 2005/08/09/1-gsec-why-im-not-a-samurai/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 66
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # 1 GSec; Why I&#8217;m not a samurai

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-04-14 00:13:24
 modified: 2006-04-14 00:13:24
 permalink: 2006/04/13/13-on-the-13th/index.html
-tags: ["Movies", "Rockin' Out"]
 featured_img: 
 wpid: 208
+taxonomy_terms_all: ["Movies", "Rockin' Out"]
+post_tag: []
+category: ["Movies", "Rockin' Out"]
+tags: post
 ---
 
 # 13 on the 13th

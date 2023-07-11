@@ -5,9 +5,22 @@ excerpt: "Eggs Benedict and a faux-fur parka."
 date: 2022-01-11 00:22:00
 modified: 2022-01-11 00:22:00
 permalink: 2022/01/10/smittys-eggs/index.html
-tags: ["Eggs Benedict", "Jj", "Parka", "JJ", "So It Goes"]
 featured_img: 
 wpid: 5221
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5220
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Eggs Benedict", "Jj", "Parka", "JJ", "So It Goes"]
+post_tag: ["Eggs Benedict", "Jj", "Parka"]
+category: ["JJ", "So It Goes"]
+tags: post
+include_wp_css: 1
 ---
 
 # Smitty&#8217;s Eggs

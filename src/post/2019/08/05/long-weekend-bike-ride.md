@@ -5,9 +5,20 @@ excerpt: "Landscape photography practice."
 date: 2019-08-05 21:40:51
 modified: 2019-08-05 21:40:51
 permalink: 2019/08/05/long-weekend-bike-ride/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 3459
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3456
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  
+  
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # Long weekend bike ride

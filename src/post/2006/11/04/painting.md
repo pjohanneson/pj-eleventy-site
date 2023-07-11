@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-11-04 23:34:16
 modified: 2006-11-04 23:34:16
 permalink: 2006/11/04/painting/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 304
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Painting

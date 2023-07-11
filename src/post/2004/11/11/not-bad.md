@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-11-11 03:19:09
 modified: 2004-11-11 03:19:09
 permalink: 2004/11/10/not-bad/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 23
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Not bad&#8230;

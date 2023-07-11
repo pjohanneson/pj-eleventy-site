@@ -5,9 +5,18 @@ excerpt: "Some of the 1,100 words I wrote this evening."
 date: 2019-09-18 04:14:15
 modified: 2019-09-18 04:14:15
 permalink: 2019/09/17/tonights-writing/index.html
-tags: ["Cancon", "Parallel Prairies", "Short Story", "Writing", "Writing"]
 featured_img: 
 wpid: 3520
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _thumbnail_id: 3452
+  
+  
+taxonomy_terms_all: ["Cancon", "Parallel Prairies", "Short Story", "Writing", "Writing"]
+post_tag: ["Cancon", "Parallel Prairies", "Short Story", "Writing"]
+category: ["Writing"]
+tags: post
 ---
 
 # Tonight&#8217;s writing

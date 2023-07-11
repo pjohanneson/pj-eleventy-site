@@ -5,9 +5,20 @@ excerpt: "Congratulations and good luck to all the finalists."
 date: 2019-04-02 17:47:29
 modified: 2019-04-02 17:47:29
 permalink: 2019/04/02/2019-hugo-award-finalists/index.html
-tags: ["Books", "Writing"]
 featured_img: 
 wpid: 3240
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  swanwick_fake_thumbnail_id: 3243
+  
+  
+taxonomy_terms_all: ["Books", "Writing"]
+post_tag: []
+category: ["Books", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # 2019 Hugo Award Finalists

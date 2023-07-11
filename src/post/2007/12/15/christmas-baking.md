@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-12-15 21:05:31
 modified: 2007-12-15 21:05:31
 permalink: 2007/12/15/christmas-baking/index.html
-tags: ["Life", "Recipes"]
 featured_img: 
 wpid: 401
+taxonomy_terms_all: ["Life", "Recipes"]
+post_tag: []
+category: ["Life", "Recipes"]
+tags: post
 ---
 
 # Christmas baking

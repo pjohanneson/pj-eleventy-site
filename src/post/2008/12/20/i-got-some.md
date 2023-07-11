@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-20 20:53:04
 modified: 2008-12-20 20:53:04
 permalink: 2008/12/20/i-got-some/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 514
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # I got some&#8230;

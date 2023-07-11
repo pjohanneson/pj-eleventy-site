@@ -5,9 +5,24 @@ excerpt: "Past the halfway mark now."
 date: 2022-08-26 00:36:49
 modified: 2022-08-26 00:36:49
 permalink: 2022/08/25/writing-retreat-2022-thursday/index.html
-tags: ["Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 5617
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5619
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108890856699209760
+  _wp_old_date: "2022-08-26"
+  
+  
+taxonomy_terms_all: ["Star Trails", "Writing", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Star Trails", "Writing", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat 2022: Thursday

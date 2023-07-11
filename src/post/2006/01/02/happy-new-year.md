@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-02 16:29:00
 modified: 2006-01-02 16:29:00
 permalink: 2006/01/02/happy-new-year/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 122
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Happy New Year!

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-04 01:59:36
 modified: 2006-05-04 01:59:36
 permalink: 2006/05/03/challenges/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 217
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Challenges

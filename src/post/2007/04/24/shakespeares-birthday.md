@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-24 04:19:37
 modified: 2007-04-24 04:19:37
 permalink: 2007/04/23/shakespeares-birthday/index.html
-tags: ["Amusing", "Photos"]
 featured_img: 
 wpid: 358
+taxonomy_terms_all: ["Amusing", "Photos"]
+post_tag: []
+category: ["Amusing", "Photos"]
+tags: post
 ---
 
 # Shakespeare&#8217;s Birthday

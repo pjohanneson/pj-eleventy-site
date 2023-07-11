@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-03-29 03:32:20
 modified: 2007-03-29 03:32:20
 permalink: 2007/03/28/today/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 349
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Today

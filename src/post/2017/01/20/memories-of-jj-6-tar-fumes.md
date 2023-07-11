@@ -5,9 +5,19 @@ excerpt: "Also, this one time he briefly mistook the Beastie Boys&amp;#8217; &am
 date: 2017-01-20 14:15:08
 modified: 2017-01-20 14:15:08
 permalink: 2017/01/20/memories-of-jj-6-tar-fumes/index.html
-tags: ["Amusing", "JJ"]
 featured_img: 
 wpid: 2154
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2156
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Amusing", "JJ"]
+post_tag: []
+category: ["Amusing", "JJ"]
+tags: post
 ---
 
 # Memories of JJ, 6 &#8212; Tar Fumes

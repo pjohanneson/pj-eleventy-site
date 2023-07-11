@@ -5,9 +5,17 @@ excerpt: "If you haven&amp;#8217;t looked into the Creative Commons, maybe you s
 date: 2017-02-15 22:35:05
 modified: 2017-02-15 22:35:05
 permalink: 2017/02/15/share-alike/index.html
-tags: ["Creative Commons", "Amusing", "Writing"]
 featured_img: 
 wpid: 2208
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Creative Commons", "Amusing", "Writing"]
+post_tag: ["Creative Commons"]
+category: ["Amusing", "Writing"]
+tags: post
 ---
 
 # Share-Alike

@@ -5,9 +5,18 @@ excerpt: "tl;dr: Wizard vs. nuclear bomb."
 date: 2020-02-08 20:52:59
 modified: 2020-02-08 20:52:59
 permalink: 2020/02/08/logline-for-the-next-story/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 3784
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3187
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Logline for the next story

@@ -5,9 +5,19 @@ excerpt: "All good things, they say, must end."
 date: 2018-07-29 16:21:19
 modified: 2018-07-29 16:21:19
 permalink: 2018/07/29/writing-retreat-2018-the-weekend/index.html
-tags: ["Photos", "Writing"]
 featured_img: 
 wpid: 2825
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _edit_last: 1
+  _thumbnail_id: 2824
+  
+  
+taxonomy_terms_all: ["Photos", "Writing"]
+post_tag: []
+category: ["Photos", "Writing"]
+tags: post
 ---
 
 # Writing Retreat 2018: The Weekend

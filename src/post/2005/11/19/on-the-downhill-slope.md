@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-11-19 16:02:00
 modified: 2005-11-19 16:02:00
 permalink: 2005/11/19/on-the-downhill-slope/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 111
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # On the downhill slope

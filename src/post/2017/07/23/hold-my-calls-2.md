@@ -5,9 +5,12 @@ excerpt: ""
 date: 2017-07-23 15:20:03
 modified: 2017-07-23 15:20:03
 permalink: 2017/07/23/hold-my-calls-2/index.html
-tags: ["Uncategorized"]
 featured_img: 
 wpid: 2377
+taxonomy_terms_all: ["Uncategorized"]
+post_tag: []
+category: ["Uncategorized"]
+tags: post
 ---
 
 # Hold my calls

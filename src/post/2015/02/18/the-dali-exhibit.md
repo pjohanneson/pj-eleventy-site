@@ -5,9 +5,19 @@ excerpt: "Some Dalí paintings and the occasional sculpture for you."
 date: 2015-02-18 02:57:33
 modified: 2015-02-18 02:57:33
 permalink: 2015/02/17/the-dali-exhibit/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 1653
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # The Dalí Exhibit

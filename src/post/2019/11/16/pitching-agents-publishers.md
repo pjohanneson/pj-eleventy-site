@@ -5,9 +5,18 @@ excerpt: "Transcribing these now, while I can still read the chicken-scratch scr
 date: 2019-11-16 16:10:32
 modified: 2019-11-16 16:10:32
 permalink: 2019/11/16/pitching-agents-publishers/index.html
-tags: ["Agents", "Diaspora Dialogues", "Pitching", "Publishers", "Writing"]
 featured_img: 
 wpid: 3680
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 2847
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Agents", "Diaspora Dialogues", "Pitching", "Publishers", "Writing"]
+post_tag: ["Agents", "Diaspora Dialogues", "Pitching", "Publishers"]
+category: ["Writing"]
+tags: post
 ---
 
 # Pitching Agents &#038; Publishers

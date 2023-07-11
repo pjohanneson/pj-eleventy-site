@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-23 20:03:00
 modified: 2005-07-23 20:03:00
 permalink: 2005/07/23/bike-ride/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 55
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Bike ride

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-09-02 16:10:50
 modified: 2006-09-02 16:10:50
 permalink: 2006/09/02/salsa/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 284
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # Salsa

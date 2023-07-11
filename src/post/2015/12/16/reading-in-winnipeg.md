@@ -5,9 +5,18 @@ excerpt: "Hear some of my writing read aloud, by me."
 date: 2015-12-16 20:24:59
 modified: 2015-12-16 20:24:59
 permalink: 2015/12/16/reading-in-winnipeg/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1837
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Reading in Winnipeg

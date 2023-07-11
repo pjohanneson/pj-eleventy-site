@@ -5,9 +5,16 @@ excerpt: ""
 date: 2011-11-20 03:54:08
 modified: 2011-11-20 03:54:08
 permalink: 2011/11/19/starbuck/index.html
-tags: ["Movies"]
 featured_img: 
 wpid: 905
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Movies"]
+post_tag: []
+category: ["Movies"]
+tags: post
 ---
 
 # Starbuck

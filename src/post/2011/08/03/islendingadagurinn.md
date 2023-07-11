@@ -5,9 +5,16 @@ excerpt: "The long weekend &amp;#8212; in Viking country"
 date: 2011-08-03 01:51:15
 modified: 2011-08-03 01:51:15
 permalink: 2011/08/02/islendingadagurinn/index.html
-tags: ["Flickrblogging", "Photos", "Travel", "Writing"]
 featured_img: 
 wpid: 877
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Photos", "Travel", "Writing"]
+post_tag: []
+category: ["Flickrblogging", "Photos", "Travel", "Writing"]
+tags: post
 ---
 
 # Íslendingadagurinn

@@ -5,9 +5,18 @@ excerpt: "For every rejection letter, send out two new queries."
 date: 2016-05-11 15:22:16
 modified: 2016-05-11 15:22:16
 permalink: 2016/05/11/meet-n-greet-with-angela-misri/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1906
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Meet &#8216;n&#8217; greet with Angela Misri

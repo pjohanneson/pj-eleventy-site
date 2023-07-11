@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-21 03:26:53
 modified: 2006-01-21 03:26:53
 permalink: 2006/01/20/plans/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 137
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Plans

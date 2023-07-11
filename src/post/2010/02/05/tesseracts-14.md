@@ -5,9 +5,18 @@ excerpt: ""
 date: 2010-02-05 02:35:41
 modified: 2010-02-05 02:35:41
 permalink: 2010/02/04/tesseracts-14/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 675
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Tesseracts 14

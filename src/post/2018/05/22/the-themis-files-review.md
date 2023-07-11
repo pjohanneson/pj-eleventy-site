@@ -5,9 +5,18 @@ excerpt: "As a girl, Rose Franklin discovered a giant alien robot. Then things g
 date: 2018-05-22 02:51:44
 modified: 2018-05-22 02:51:44
 permalink: 2018/05/21/the-themis-files-review/index.html
-tags: ["Canadian Author", "Giant Robots", "Robots", "Science Fiction", "Sf", "Books", "Reviews"]
 featured_img: 
 wpid: 2740
+all_meta: 
+  _wpas_done_all: 1
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Canadian Author", "Giant Robots", "Robots", "Science Fiction", "Sf", "Books", "Reviews"]
+post_tag: ["Canadian Author", "Giant Robots", "Robots", "Science Fiction", "Sf"]
+category: ["Books", "Reviews"]
+tags: post
 ---
 
 # The Themis Files review

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-11-26 02:22:04
 modified: 2008-11-26 02:22:04
 permalink: 2008/11/25/weird/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 478
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Weird and sad

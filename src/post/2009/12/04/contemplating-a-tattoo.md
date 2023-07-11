@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-12-04 14:16:15
 modified: 2009-12-04 14:16:15
 permalink: 2009/12/04/contemplating-a-tattoo/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 655
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Contemplating a tattoo

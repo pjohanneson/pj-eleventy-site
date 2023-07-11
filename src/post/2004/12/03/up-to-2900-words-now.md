@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-12-03 03:58:20
 modified: 2004-12-03 03:58:20
 permalink: 2004/12/02/up-to-2900-words-now/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 29
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # up to 2900 words now

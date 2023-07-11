@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-19 15:27:00
 modified: 2006-01-19 15:27:00
 permalink: 2006/01/19/space-photos/index.html
-tags: ["Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 132
+taxonomy_terms_all: ["Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Space photos

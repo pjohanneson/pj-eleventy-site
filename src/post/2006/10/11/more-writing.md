@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-11 04:55:05
 modified: 2006-10-11 04:55:05
 permalink: 2006/10/10/more-writing/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 296
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # More writing

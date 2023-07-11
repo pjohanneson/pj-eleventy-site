@@ -5,9 +5,20 @@ excerpt: ""
 date: 2015-07-21 21:34:22
 modified: 2015-07-21 21:34:22
 permalink: 2015/07/21/cabin-days/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 1759
+all_meta: 
+  _wpcom_is_markdown: 1
+  geo_latitude: 50
+  geo_longitude: -99
+  geo_public: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Cabin days

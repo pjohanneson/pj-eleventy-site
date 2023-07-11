@@ -5,9 +5,38 @@ excerpt: "In mid-April , one of the admin assis­tants from the President’s of
 date: 2012-06-05 00:42:33
 modified: 2012-06-05 00:42:33
 permalink: 2012/06/04/community-service/index.html
-tags: ["Flickrblogging", "Judo", "So It Goes", "Youtubery"]
 featured_img: 
 wpid: 1029
+all_meta: 
+  _oembed_136a65c2ea74e0b07045c434371312b2: <a href="http://www.flickr.com/photos/pj/7339583138/"><img
+    src="http://farm8.staticflickr.com/7105/7339583138_8f1042203a_n.jpg" alt="My award"
+    width="320" height="240" /></a>
+  _edit_last: 1
+  _oembed_a4721b6e5c2829d3d512491d1bd39c22: <a href="http://www.flickr.com/photos/pj/7339583138/"><img
+    src="http://farm8.staticflickr.com/7105/7339583138_8f1042203a_n.jpg" alt="My award"
+    width="320" height="240" /></a>
+  _oembed_7f708f95802f33134f1ccb23e8be2153: <a href="http://www.flickr.com/photos/pj/7339583138/"><img
+    src="http://farm8.staticflickr.com/7105/7339583138_8f1042203a_n.jpg" alt="My award"
+    width="320" height="240" /></a>
+  _oembed_612b93e0c5ee936cec57a25fc34250f0: <a href="http://www.flickr.com/photos/pj/7339583138/"><img
+    src="https://farm8.staticflickr.com/7105/7339583138_8f1042203a_z.jpg" alt="My award"
+    width="640" height="480" /></a>
+  _oembed_time_612b93e0c5ee936cec57a25fc34250f0: 1484287924
+  _oembed_1aea55abcef86f7bba3066b81a2521d3: <a href="http://www.flickr.com/photos/pj/7339583138/"><img
+    src="https://live.staticflickr.com/7105/7339583138_8f1042203a.jpg" alt="My award"
+    width="500" height="375" /></a>
+  _oembed_time_1aea55abcef86f7bba3066b81a2521d3: 1679099443
+  _oembed_8b43bcf0eaa903c561d28379ad78dcc3: <iframe title="Kata Guruma (Instructional)"
+    width="500" height="375" src="https://www.youtube.com/embed/yD09HBiPgEU?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_8b43bcf0eaa903c561d28379ad78dcc3: 1679099443
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Judo", "So It Goes", "Youtubery"]
+post_tag: []
+category: ["Flickrblogging", "Judo", "So It Goes", "Youtubery"]
+tags: post
 ---
 
 # Community Service

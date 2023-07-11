@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-02-06 01:30:14
 modified: 2008-02-06 01:30:14
 permalink: 2008/02/05/unpleasant-realization/index.html
-tags: ["Books", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 406
+taxonomy_terms_all: ["Books", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Books", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Unpleasant realization

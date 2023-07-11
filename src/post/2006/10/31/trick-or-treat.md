@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-10-31 03:57:05
 modified: 2006-10-31 03:57:05
 permalink: 2006/10/30/trick-or-treat/index.html
-tags: ["Photos"]
 featured_img: 
 wpid: 303
+taxonomy_terms_all: ["Photos"]
+post_tag: []
+category: ["Photos"]
+tags: post
 ---
 
 # Trick or treat

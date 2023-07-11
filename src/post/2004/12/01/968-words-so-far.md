@@ -5,9 +5,12 @@ excerpt: ""
 date: 2004-12-01 02:51:42
 modified: 2004-12-01 02:51:42
 permalink: 2004/11/30/968-words-so-far/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 28
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # 968 words so far&#8230;

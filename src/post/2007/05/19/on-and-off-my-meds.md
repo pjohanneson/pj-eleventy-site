@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-19 19:56:10
 modified: 2007-05-19 19:56:10
 permalink: 2007/05/19/on-and-off-my-meds/index.html
-tags: ["Life", "Weird"]
 featured_img: 
 wpid: 367
+taxonomy_terms_all: ["Life", "Weird"]
+post_tag: []
+category: ["Life", "Weird"]
+tags: post
 ---
 
 # On and off my meds

@@ -5,9 +5,16 @@ excerpt: "&amp;#8220;To see a horse in human flesh, descending on a hammock thro
 date: 2009-10-16 21:09:42
 modified: 2009-10-16 21:09:42
 permalink: 2009/10/16/a-blast-from-the-past-2/index.html
-tags: ["Amusing", "Books", "Life", "So It Goes", "Weird"]
 featured_img: 
 wpid: 625
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Books", "Life", "So It Goes", "Weird"]
+post_tag: []
+category: ["Amusing", "Books", "Life", "So It Goes", "Weird"]
+tags: post
 ---
 
 # A blast from the past

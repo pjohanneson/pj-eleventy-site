@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-01-12 04:06:08
 modified: 2007-01-12 04:06:08
 permalink: 2007/01/11/ping/index.html
-tags: ["Etnh", "So It Goes"]
 featured_img: 
 wpid: 318
+taxonomy_terms_all: ["Etnh", "So It Goes"]
+post_tag: []
+category: ["Etnh", "So It Goes"]
+tags: post
 ---
 
 # Ping

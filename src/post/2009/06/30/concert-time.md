@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-06-30 20:16:20
 modified: 2009-06-30 20:16:20
 permalink: 2009/06/30/concert-time/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 602
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Concert time

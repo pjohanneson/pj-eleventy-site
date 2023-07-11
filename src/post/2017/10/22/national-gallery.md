@@ -5,9 +5,19 @@ excerpt: "Friday in Ottawa: a lot of art. Like, a lot."
 date: 2017-10-22 17:21:56
 modified: 2017-10-22 17:21:56
 permalink: 2017/10/22/national-gallery/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2584
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _thumbnail_id: 2586
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # National Gallery

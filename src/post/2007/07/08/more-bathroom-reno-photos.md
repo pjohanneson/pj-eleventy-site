@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-07-08 02:58:10
 modified: 2007-07-08 02:58:10
 permalink: 2007/07/07/more-bathroom-reno-photos/index.html
-tags: ["Life", "Photos"]
 featured_img: 
 wpid: 375
+taxonomy_terms_all: ["Life", "Photos"]
+post_tag: []
+category: ["Life", "Photos"]
+tags: post
 ---
 
 # More bathroom reno photos

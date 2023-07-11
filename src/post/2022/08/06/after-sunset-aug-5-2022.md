@@ -5,9 +5,24 @@ excerpt: "The sky and the water."
 date: 2022-08-06 15:31:43
 modified: 2022-08-06 15:31:43
 permalink: 2022/08/06/after-sunset-aug-5-2022/index.html
-tags: ["Hdr", "Sunset", "Wasagaming", "Photos"]
 featured_img: 
 wpid: 5554
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5556
+  _edit_last: 1
+  _share_on_mastodon: 1
+  _wpas_done_all: 1
+  _share_on_mastodon_url: https://mastodon.social/@pjohanneson/108776647019335933
+  
+  
+taxonomy_terms_all: ["Hdr", "Sunset", "Wasagaming", "Photos"]
+post_tag: ["Hdr", "Sunset", "Wasagaming"]
+category: ["Photos"]
+tags: post
+include_wp_css: 1
 ---
 
 # After sunset, Aug. 5, 2022

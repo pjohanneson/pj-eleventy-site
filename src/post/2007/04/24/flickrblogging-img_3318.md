@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-04-24 04:02:20
 modified: 2007-04-24 04:02:20
 permalink: 2007/04/23/flickrblogging-img_3318/index.html
-tags: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
 featured_img: 
 wpid: 357
+taxonomy_terms_all: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
+post_tag: []
+category: ["Amusing", "Flickrblogging", "Ne-e-e-e-e-erd!"]
+tags: post
 ---
 
 # Flickrblogging &#8212; IMG_3318

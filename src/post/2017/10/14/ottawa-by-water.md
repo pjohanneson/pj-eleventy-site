@@ -5,9 +5,18 @@ excerpt: "The Rideau Canal tour and the Ottawa River tour."
 date: 2017-10-14 17:41:26
 modified: 2017-10-14 17:41:26
 permalink: 2017/10/14/ottawa-by-water/index.html
-tags: ["Travel"]
 featured_img: 
 wpid: 2475
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Travel"]
+post_tag: []
+category: ["Travel"]
+tags: post
 ---
 
 # Ottawa: By Water

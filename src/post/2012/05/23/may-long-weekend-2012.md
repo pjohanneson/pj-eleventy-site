@@ -5,9 +5,16 @@ excerpt: "I went to Toronto as a newly-minted National C judo referee."
 date: 2012-05-23 01:51:57
 modified: 2012-05-23 01:51:57
 permalink: 2012/05/22/may-long-weekend-2012/index.html
-tags: ["So It Goes", "Uncategorized"]
 featured_img: 
 wpid: 1012
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["So It Goes", "Uncategorized"]
+post_tag: []
+category: ["So It Goes", "Uncategorized"]
+tags: post
 ---
 
 # May Long Weekend, 2012

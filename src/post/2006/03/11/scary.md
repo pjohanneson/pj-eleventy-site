@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-03-11 01:00:42
 modified: 2006-03-11 01:00:42
 permalink: 2006/03/10/scary/index.html
-tags: ["Amusing", "Weird"]
 featured_img: 
 wpid: 178
+taxonomy_terms_all: ["Amusing", "Weird"]
+post_tag: []
+category: ["Amusing", "Weird"]
+tags: post
 ---
 
 # Scary

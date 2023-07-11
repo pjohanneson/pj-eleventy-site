@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-12-24 04:09:25
 modified: 2008-12-24 04:09:25
 permalink: 2008/12/23/christmas-vacation/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 521
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Christmas Vacation

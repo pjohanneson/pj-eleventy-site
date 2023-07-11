@@ -5,9 +5,18 @@ excerpt: ""
 date: 2009-11-04 23:26:54
 modified: 2009-11-04 23:26:54
 permalink: 2009/11/04/the-jetpack-theory/index.html
-tags: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Writing"]
 featured_img: 
 wpid: 649
+all_meta: 
+  aktt_notify_twitter:
+  - "no"
+  - "no"
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Writing"]
+post_tag: []
+category: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos", "Writing"]
+tags: post
 ---
 
 # The jetpack theory

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-10-21 02:31:00
 modified: 2005-10-21 02:31:00
 permalink: 2005/10/20/sci-fi-movies-redux/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 102
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # Sci-Fi Movies redux

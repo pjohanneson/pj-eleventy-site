@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-01-30 05:34:12
 modified: 2006-01-30 05:34:12
 permalink: 2006/01/29/movie-weekend/index.html
-tags: ["Movies"]
 featured_img: 
 wpid: 147
+taxonomy_terms_all: ["Movies"]
+post_tag: []
+category: ["Movies"]
+tags: post
 ---
 
 # Movie weekend

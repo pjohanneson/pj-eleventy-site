@@ -5,9 +5,17 @@ excerpt: ""
 date: 2008-12-26 16:56:26
 modified: 2008-12-26 16:56:26
 permalink: 2008/12/26/hadnt-heard-this-one-in-a-while/index.html
-tags: ["Music", "So It Goes"]
 featured_img: 
 wpid: 523
+all_meta: 
+  _edit_last: 1
+  _wpcom_is_markdown: 1
+  
+  
+taxonomy_terms_all: ["Music", "So It Goes"]
+post_tag: []
+category: ["Music", "So It Goes"]
+tags: post
 ---
 
 # Hadn&#8217;t heard this one in a while

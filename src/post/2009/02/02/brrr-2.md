@@ -5,9 +5,16 @@ excerpt: ""
 date: 2009-02-02 14:13:08
 modified: 2009-02-02 14:13:08
 permalink: 2009/02/02/brrr-2/index.html
-tags: ["Photos", "Weather"]
 featured_img: 
 wpid: 558
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Photos", "Weather"]
+post_tag: []
+category: ["Photos", "Weather"]
+tags: post
 ---
 
 # Brrr

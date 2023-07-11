@@ -5,9 +5,12 @@ excerpt: ""
 date: 2007-05-23 03:20:08
 modified: 2007-05-23 03:20:08
 permalink: 2007/05/22/hmmm/index.html
-tags: ["Life"]
 featured_img: 
 wpid: 369
+taxonomy_terms_all: ["Life"]
+post_tag: []
+category: ["Life"]
+tags: post
 ---
 
 # Hmmm.

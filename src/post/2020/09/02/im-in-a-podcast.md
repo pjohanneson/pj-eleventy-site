@@ -5,9 +5,19 @@ excerpt: "So this guy dies, see, and ends up at the Pearly Gates…"
 date: 2020-09-02 17:51:21
 modified: 2020-09-02 17:51:21
 permalink: 2020/09/02/im-in-a-podcast/index.html
-tags: ["Flash Fiction", "Funny", "Podcast", "Self-published", "Writing"]
 featured_img: 
 wpid: 4233
+all_meta: 
+  _wpcom_is_markdown: 1
+  _wpas_done_all: 1
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 2847
+  
+  
+taxonomy_terms_all: ["Flash Fiction", "Funny", "Podcast", "Self-published", "Writing"]
+post_tag: ["Flash Fiction", "Funny", "Podcast", "Self-published"]
+category: ["Writing"]
+tags: post
 ---
 
 # I&#8217;m in a podcast

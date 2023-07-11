@@ -5,9 +5,23 @@ excerpt: "Busy day."
 date: 2021-08-09 15:29:16
 modified: 2021-08-09 15:29:16
 permalink: 2021/08/09/writing-retreat-day-one/index.html
-tags: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Writing", "Photos", "Writing"]
 featured_img: 
 wpid: 5014
+all_meta: 
+  _wpcom_is_markdown: 1
+  _last_editor_used_jetpack: block-editor
+  _publicize_twitter_user: '@pjohanneson'
+  _thumbnail_id: 5011
+  _edit_last: 1
+  _wpas_done_all: 1
+  _wpas_mess: Writing! Photos! Firefly!
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Writing", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Bike Ride", "Milky Way", "Photography", "Writing"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat, Day One

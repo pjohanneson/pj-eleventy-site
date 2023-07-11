@@ -5,9 +5,24 @@ excerpt: "Hip throws, man."
 date: 2014-12-11 03:59:14
 modified: 2014-12-11 03:59:14
 permalink: 2014/12/10/you-learn-something-new-every-day-ii/index.html
-tags: ["Judo"]
 featured_img: 
 wpid: 1616
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _sd_is_markdown: 1
+  _wpas_done_all: 1
+  _oembed_85ed5ea15ade2be964561c73a08c1ad6: <iframe title="Hane Goshi (Instructional)"
+    width="500" height="375" src="https://www.youtube.com/embed/TTLgAT_uEis?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_85ed5ea15ade2be964561c73a08c1ad6: 1679099441
+  
+  
+taxonomy_terms_all: ["Judo"]
+post_tag: []
+category: ["Judo"]
+tags: post
 ---
 
 # You learn something new every day (II)

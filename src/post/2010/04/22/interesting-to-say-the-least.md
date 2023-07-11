@@ -5,9 +5,16 @@ excerpt: ""
 date: 2010-04-22 22:07:20
 modified: 2010-04-22 22:07:20
 permalink: 2010/04/22/interesting-to-say-the-least/index.html
-tags: ["Amusing", "Ne-e-e-e-e-erd!", "Photos", "So It Goes", "Weird"]
 featured_img: 
 wpid: 697
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Amusing", "Ne-e-e-e-e-erd!", "Photos", "So It Goes", "Weird"]
+post_tag: []
+category: ["Amusing", "Ne-e-e-e-e-erd!", "Photos", "So It Goes", "Weird"]
+tags: post
 ---
 
 # Interesting, to say the least

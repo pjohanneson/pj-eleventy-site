@@ -5,9 +5,12 @@ excerpt: ""
 date: 2005-07-09 03:17:00
 modified: 2005-07-09 03:17:00
 permalink: 2005/07/08/so-heres-the-way-it-is/index.html
-tags: ["So It Goes"]
 featured_img: 
 wpid: 44
+taxonomy_terms_all: ["So It Goes"]
+post_tag: []
+category: ["So It Goes"]
+tags: post
 ---
 
 # So here&#8217;s the way it is

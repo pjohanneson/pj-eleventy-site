@@ -5,9 +5,16 @@ excerpt: ""
 date: 2010-03-09 03:16:45
 modified: 2010-03-09 03:16:45
 permalink: 2010/03/08/notes-from-judo-class-tonight/index.html
-tags: ["Judo", "Life", "So It Goes"]
 featured_img: 
 wpid: 683
+all_meta: 
+  aktt_notify_twitter: "no"
+  
+  
+taxonomy_terms_all: ["Judo", "Life", "So It Goes"]
+post_tag: []
+category: ["Judo", "Life", "So It Goes"]
+tags: post
 ---
 
 # Notes from judo class tonight

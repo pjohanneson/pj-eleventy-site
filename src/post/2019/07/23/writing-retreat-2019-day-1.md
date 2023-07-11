@@ -5,9 +5,19 @@ excerpt: "A good start, I&amp;#8217;d say."
 date: 2019-07-23 17:27:47
 modified: 2019-07-23 17:27:47
 permalink: 2019/07/23/writing-retreat-2019-day-1/index.html
-tags: ["Astrophotography", "Writing Retreat", "Photos", "Writing"]
 featured_img: 
 wpid: 3407
+all_meta: 
+  _wpcom_is_markdown: 1
+  _thumbnail_id: 3406
+  _wpas_done_all: 1
+  
+  
+taxonomy_terms_all: ["Astrophotography", "Writing Retreat", "Photos", "Writing"]
+post_tag: ["Astrophotography", "Writing Retreat"]
+category: ["Photos", "Writing"]
+tags: post
+include_wp_css: 1
 ---
 
 # Writing Retreat 2019, Day 1

@@ -5,9 +5,12 @@ excerpt: ""
 date: 2008-06-05 04:02:41
 modified: 2008-06-05 04:02:41
 permalink: 2008/06/04/comparative-gourmetology/index.html
-tags: ["Amusing"]
 featured_img: 
 wpid: 431
+taxonomy_terms_all: ["Amusing"]
+post_tag: []
+category: ["Amusing"]
+tags: post
 ---
 
 # Comparative Gourmetology

@@ -5,9 +5,16 @@ excerpt: "The sky went green with auroral light, and I managed to get some photo
 date: 2012-07-16 14:15:17
 modified: 2012-07-16 14:15:17
 permalink: 2012/07/16/aurora-borealis-july-1415-2012/index.html
-tags: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos"]
 featured_img: 
 wpid: 1098
+all_meta: 
+  _edit_last: 1
+  
+  
+taxonomy_terms_all: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos"]
+post_tag: []
+category: ["Flickrblogging", "Ne-e-e-e-e-erd!", "Photos"]
+tags: post
 ---
 
 # Aurora Borealis, July 14/15, 2012

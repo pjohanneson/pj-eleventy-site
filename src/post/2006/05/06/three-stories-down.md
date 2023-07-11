@@ -5,9 +5,12 @@ excerpt: ""
 date: 2006-05-06 02:19:12
 modified: 2006-05-06 02:19:12
 permalink: 2006/05/05/three-stories-down/index.html
-tags: ["Writing"]
 featured_img: 
 wpid: 220
+taxonomy_terms_all: ["Writing"]
+post_tag: []
+category: ["Writing"]
+tags: post
 ---
 
 # Three stories down&#8230;

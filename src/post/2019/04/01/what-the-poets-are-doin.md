@@ -5,9 +5,24 @@ excerpt: "Don&amp;#8217;t tell me that they&amp;#8217;re anti-social / Somehow n
 date: 2019-04-01 17:10:36
 modified: 2019-04-01 17:10:36
 permalink: 2019/04/01/what-the-poets-are-doin/index.html
-tags: ["April Is The Cruelest Month", "National Poetry Month", "Music", "Patriotic? Me?", "Youtubery"]
 featured_img: 
 wpid: 3237
+all_meta: 
+  _wpcom_is_markdown: 1
+  _edit_last: 1
+  _wpas_done_all: 1
+  _oembed_803214223aa4fb7d27d7d37548b2d594: <iframe title="The Tragically Hip - Poets"
+    width="500" height="375" src="https://www.youtube.com/embed/fBNGfFqaFu8?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  _oembed_time_803214223aa4fb7d27d7d37548b2d594: 1679099439
+  
+  
+taxonomy_terms_all: ["April Is The Cruelest Month", "National Poetry Month", "Music", "Patriotic? Me?", "Youtubery"]
+post_tag: ["April Is The Cruelest Month", "National Poetry Month"]
+category: ["Music", "Patriotic? Me?", "Youtubery"]
+tags: post
+include_wp_css: 1
 ---
 
 # What the poets are doin&#8217;
