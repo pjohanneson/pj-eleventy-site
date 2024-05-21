@@ -6,7 +6,12 @@ html, body {
 
 html {
 	font-size: 125%;
-	font-family: 'Libre Baskerville', serif;
+	/**
+	 * Use the "Transitional" font stack.
+	 *
+	 * @link https://github.com/system-fonts/modern-font-stacks
+	 */
+	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 	height: 100%;
 }
 
@@ -45,7 +50,7 @@ header.page-header {
 header.page-header nav {
 	float: right;
 	margin-right: 1em;
-	font-family: sans-serif;
+	font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 	font-size: 85%;
 }
 
