@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "name": "pj-11ty",
+  "version": "2.0.0",
+  "description": "PJ's Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "11ty",
+    "blog"
+  ],
+  "author": "Patrick Johanneson",
+  "license": "GPL-3.0-or-later"
+}
