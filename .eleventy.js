@@ -8,15 +8,30 @@
 module.exports = async function ( eleventyConfig ) {
 
 	// ECMA imports.
-	const { encryptHTML } = await import( 'pagecrypt' );
+	const { generatePassword, encryptHTML } = await import( 'pagecrypt' );
 
 	// Encrypt the `/secure/` pages.
-	eleventyConfig.addTransform("secure", async function(content, outputPath) {
-		const theContent = content;
+	eleventyConfig.addTransform( "securePages", async function( content, outputPath ) {
+		const theContent      = content;
 
-		if(this.page.inputPath.includes("/secure/")) {
+		// @todo Put the default password in the .env file.
+		// Default decryption password.
+		var password        = 'djpj1234!!';
+
+		if ( this.page.inputPath.includes( "/secure/" ) ) {
+
+			// Find the password, if one is set.
+			var regex = new RegExp( '<p>%%password:\\s*([^%]+)%%</p>' );
+			var myMatch = content.match( regex );
+			if ( myMatch ) {
+				password = myMatch[1];
+			}
+
+			// Remove the %%password: {password}%% text from the page content.
+			content = content.replace( regex, '' );
+
 		    // Write it to a file or send as an HTTPS response.
-		    const encryptedHTML = await encryptHTML(content, 'password')
+		    const encryptedHTML = await encryptHTML( content, password );
 		    return encryptedHTML;
 		}
 
