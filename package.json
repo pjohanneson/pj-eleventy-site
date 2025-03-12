@@ -7,7 +7,8 @@
   "description": "PJ's Site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":   "npx @11ty/eleventy --dryrun",
+    "update": "npx @11ty/eleventy --quiet"
   },
   "keywords": [
     "11ty",
