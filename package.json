@@ -1,13 +1,14 @@
 {
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "pagecrypt": "^6.1.1"
   },
   "name": "pj-11ty",
   "version": "2.0.0",
   "description": "PJ's Site",
   "main": "index.js",
   "scripts": {
-    "test":   "npx @11ty/eleventy --dryrun",
+    "test": "npx @11ty/eleventy --dryrun",
     "update": "npx @11ty/eleventy --quiet"
   },
   "keywords": [

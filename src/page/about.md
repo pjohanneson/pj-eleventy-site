@@ -1,7 +1,7 @@
 ---
 title: About Me
 permalink: '/about/'
-layout: 'layout/base.njk'
+layout: 'layouts/base.njk'
 ---
 
 Hi,

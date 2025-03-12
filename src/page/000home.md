@@ -1,7 +1,7 @@
 ---
 title: Patrick Johanneson
 permalink: "/"
-layout: layout/homepage.njk
+layout: layouts/homepage.njk
 ---
 
 Hello, world!

@@ -5,7 +5,25 @@
  * @since 2.0.0 Fully rewritten.
  */
 
-module.exports = function ( eleventyConfig ) {
+module.exports = async function ( eleventyConfig ) {
+
+	// ECMA imports.
+	const { encryptHTML } = await import( 'pagecrypt' );
+
+	// Encrypt the `/secure/` pages.
+	eleventyConfig.addTransform("secure", async function(content, outputPath) {
+		const theContent = content;
+
+		if(this.page.inputPath.includes("/secure/")) {
+		    // Write it to a file or send as an HTTPS response.
+		    const encryptedHTML = await encryptHTML(content, 'password')
+		    return encryptedHTML;
+		}
+
+		return theContent;
+	});
+
+	// The return.
 	return {
 		dir: {
 			input:    "src",
