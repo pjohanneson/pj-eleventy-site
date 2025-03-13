@@ -1,6 +1,7 @@
 # @todo
 
 - [x] Secure pages
+  - [ ] Add nonce to inline JS?
 - [ ] CSS
   - [ ] SASS
   - [ ] Dark mode / light mode switcher
