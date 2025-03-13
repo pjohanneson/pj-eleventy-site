@@ -14,3 +14,6 @@
   - [ ] Stories
 - [ ] Template inheritance
 - [ ] Share to socials (FB, Mastodon, Bluesky, etc)
+- [ ] Colophon page
+- [ ] OG & other meta tags
+
