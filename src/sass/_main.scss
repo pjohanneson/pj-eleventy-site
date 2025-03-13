@@ -1,0 +1,33 @@
+// _main.scss
+/**
+ * Main SASS file.
+ *
+ * @since 2.0.0
+ */
+
+@use 'colors';
+@use 'fonts';
+
+body {
+	background: colors.$background-color;
+	color: colors.$text-color;
+	font-family: fonts.$serif;
+	h1 {
+		font-family: fonts.$sans-serif;
+	}
+}
+
+header,
+main {
+	width: 45em;
+	max-width: 90%;
+	margin: auto;
+}
+
+header {
+	h1 {
+		font-family: fonts.$serif;
+		font-weight: normal;
+		font-size: 3em;
+	}
+}

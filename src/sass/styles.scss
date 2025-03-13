@@ -1,0 +1,12 @@
+// styles.scss
+/**
+ * SASS loader file.
+ *
+ * This is the one that gets compiled into the actual stylesheet. It should be
+ * mostly if not completely @use statements.
+ *
+ * @since 2.0.0
+ */
+
+@use 'colors';
+@use 'main';

@@ -1,15 +1,22 @@
 {
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "pagecrypt": "^6.1.1"
+    "pagecrypt": "^6.1.1",
+    "sass": "^1.85.1"
   },
   "name": "pj-11ty",
   "version": "2.0.0",
   "description": "PJ's Site",
   "main": "index.js",
   "scripts": {
-    "test": "npx @11ty/eleventy --dryrun",
-    "update": "npx @11ty/eleventy --quiet"
+    "watch:eleventy": "npx @11ty/eleventy --serve --quiet",
+    "watch:sass": "npx sass src/sass/styles.scss public/css/styles.css --watch",
+    "start": "npm run watch:sass & npm run watch:eleventy",
+    "update": "npx sass src/sass/styles.scss public/css/styles.css & npx @11ty/eleventy --incremental",
+    "update:css": "npx sass src/sass/styles.scss public/css/styles.css",
+    "make": "npx sass src/sass/styles.scss public/css/styles.css & npx @11ty/eleventy",
+    "rebuild": "rm -rf public/; npx sass src/sass/styles.scss public/css/styles.css & npx @11ty/eleventy",
+    "test": "npx @11ty/eleventy --dryrun"
   },
   "keywords": [
     "11ty",

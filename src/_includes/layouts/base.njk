@@ -1,11 +1,17 @@
 <html>
 <head>
 <title>{% block htmlTitle %}{{ title | safe }} | Patrick Johanneson{% endblock %}</title>
+<link rel="stylesheet" href="/css/styles.css" />
+{% block extraCSS %}{% endblock %}
 </head>
 
 <body>
+<header>
 <h1>{{ title | safe }}</h1>
+</header>
+<main>
 {{ content | safe }}
+</main>
 </body>
 
 <footer>
