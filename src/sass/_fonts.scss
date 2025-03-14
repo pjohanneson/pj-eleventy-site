@@ -4,10 +4,12 @@
  *
  * @since 2.0.0
  *
- * @see https://modernfontstacks.com/ (using "Antique" for serif and "Neo-Grotesque" for sans)
+ * @see https://modernfontstacks.com/
+ *   (using "Antique" or maybe "Old Style" for serif and "Neo-Grotesque" for sans)
  */
 
-$serif:
+// Antique.
+$antique:
 	Superclarendon,
 	'Bookman Old Style',
 	'URW Bookman',
@@ -16,6 +18,15 @@ $serif:
 	Georgia,
 	serif;
 
+// Old Style.
+$serif:
+	'Iowan Old Style',
+	'Palatino Linotype',
+	'URW Palladio L',
+	P052,
+	serif;
+
+// Neo-Grotesque.
 $sans-serif:
 	Inter,
 	Roboto,

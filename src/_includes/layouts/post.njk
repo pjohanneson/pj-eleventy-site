@@ -1,0 +1,7 @@
+{% extends 'layouts/base.njk' %}
+{% block aboveContent %}
+	<div class="post-metadata">
+	Written {{ page.date }} by
+	{% if author.site %}<a href="{{author.site }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}.
+	</div>
+{% endblock %} 

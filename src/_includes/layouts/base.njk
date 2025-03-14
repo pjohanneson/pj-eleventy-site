@@ -11,7 +11,9 @@
 <h1>{{ title | safe }}</h1>
 </header>
 <main>
+{% block aboveContent %}{% endblock %}
 {{ content | safe }}
+{% block belowContent %}{% endblock %}
 </main>
 </body>
 
