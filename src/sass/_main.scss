@@ -6,14 +6,33 @@
  */
 
 @use 'colors';
+@use 'sass:color';
 @use 'fonts';
+
+html {
+	font-size: 18px;
+}
 
 body {
 	background: colors.$background-color;
 	color: colors.$text-color;
 	font-family: fonts.$serif;
-	h1 {
-		font-family: fonts.$sans-serif;
+}
+
+h1 {
+	font-family: fonts.$sans-serif;
+}
+
+a {
+	color: colors.$link-color;
+	&:visited {
+		color: color.adjust( colors.$link-color, $saturation: -90% );
+	}
+	&:hover {
+		color: color.adjust( colors.$link-color, $lightness: 25% );
+	}
+	&:active {
+		color: color.adjust( colors.$link-color, $lightness: 35% );
 	}
 }
 
