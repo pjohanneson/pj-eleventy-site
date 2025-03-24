@@ -2,7 +2,7 @@ module.exports = function() {
 	return {
 		"layout": "layouts/post.njk",
 		"author": {
-			"name": "Patrick Johanneson",
+			"name": "Patrick",
 			"site": "https://patrickjohanneson.com/"
 		},
 		"title": "{Default Title}",

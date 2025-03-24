@@ -38,6 +38,23 @@ module.exports = async function ( eleventyConfig ) {
 		return theContent;
 	});
 
+	/** Custom filters. */
+	eleventyConfig.addFilter( 'mdY', function( date ) {
+		const initialDate = date;
+		if ( ! ( date instanceof Date ) ) {
+			date = new Date( date );
+			//  If it's still not a valid date, give up.
+			if ( ! ( date instanceof Date ) ) {
+				return initialDate;
+			}
+		}
+		return date.toLocaleDateString( 'en-ca', {
+			month: 'long',
+			day:   'numeric',
+			year:  'numeric',
+		});
+	});
+
 	// The return.
 	return {
 		dir: {
