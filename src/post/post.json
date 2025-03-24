@@ -1,8 +1,0 @@
-{
-	"layout": "layouts/post.njk",
-	"author": {
-		"name": "Patrick Johanneson",
-		"site": "https://patrickjohanneson.com/"
-	},
-	"title": "{Default Title}"
-}
